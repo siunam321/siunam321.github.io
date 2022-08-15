@@ -20,9 +20,9 @@ As usual, scan the machine for open ports via `rustscan`!
 
 **Rustscan Result:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a1.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a1.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a2.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a2.png)
 
 According to `rustscan` result, we have one port is opened:
 
@@ -36,7 +36,7 @@ Always brute force hidden directory in a web server via `gobuster`!
 
 **Gobuster Result:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a3.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a3.png)
 
 Found `/wordpress` directory.
 
@@ -44,25 +44,25 @@ Found `/wordpress` directory.
 
 **WPScan Result:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a4.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a4.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a5.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a5.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a8.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a8.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a9.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a9.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a10.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a10.png)
 
 Found **7 plugins, most of them are vulnerable.**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a6.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a6.png)
 
 Found 2 users: `admin` and `aarti`.
 
 **In the `Reflex Gallery` plugin, it suffers an Arbitrary File Upload vulnerability.**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a11.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a11.png)
 
 # Initial Foothold
 
@@ -83,27 +83,27 @@ We can create an `index.html` file which contain the above HTML code, host it an
 
 1. Copy PHP reverse shell from [pentestmonkey](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php), and modify the `$ip` and `$port` variable:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a12.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a12.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a13.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a13.png)
 
 2. Send a POST request to that vulnerable plugin via `curl`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a14.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a14.png)
 
 3. Setup a `nc` listener and trigger the PHP reverse shell:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a15.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a15.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a16.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a16.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a17.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a17.png)
 
 And we're `www-data`!
 
 **local.txt:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a18.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a18.png)
 
 # Privilege Escalation
 
@@ -111,35 +111,35 @@ And we're `www-data`!
 
 By doing enumeration manually, we can see 2 **SUID** sticky bit stands out:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a19.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a19.png)
 
 `/usr/bin/wget` and `/bin/cp` has SUID sticky bit, which is not common and can be abused to escalate our privilege.
 
 1. Transfer the `/etc/passwd` file:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a20.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a20.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a21.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a21.png)
 
 2. Add a new user with root privilege:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a22.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a22.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a23.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a23.png)
 
 3. Transfer the file and override the original `/etc/passwd` via `cp`: (It's a good hibit to backup the original file.)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a24.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a24.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a25.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a25.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a26.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a26.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a27.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a27.png)
 
 4. Switch User to the newly created user:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a28.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a28.png)
 
 And I'm root! :D
 
@@ -147,7 +147,7 @@ And I'm root! :D
 
 **proof.txt:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/HAWordy/images/a29.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/HAWordy/images/a29.png)
 
 # Conclusion
 

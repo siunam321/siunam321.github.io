@@ -1,11 +1,11 @@
 # Background
-![background1](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/background1.png)
+![background1](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/background1.png)
 
-![background2](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/background2.png)
+![background2](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/background2.png)
 
 # Solution
 
-As usual, download the [downloadable file](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/rev_omega_one.zip) and unzip it.
+As usual, download the [downloadable file](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/rev_omega_one.zip) and unzip it.
 
 After unzip that zip file, we see 2 files: `omega-one` and `output.txt`.
 
@@ -13,15 +13,15 @@ omega-one: 64-bit ELF executable
 
 output.txt: A list of name??
 
-![solution1](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/solution1.png)
+![solution1](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/solution1.png)
 
-![solution2](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/solution2.png)
+![solution2](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/solution2.png)
 
 Then we'll need to use any reverse engineering tools, like Ghidra.
 
 In the `FUN_00100b4c` or main function, we see there are some weird strings, and **those strings matches the list of names in output.txt.**
 
-![solution3](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/solution3.png)
+![solution3](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/solution3.png)
 
 Let's compare them one by one!!
 
@@ -63,7 +63,7 @@ Baadix		--> }
 			+-> HTB{l1n34r_t1m3_but_pr3tty_sl0w!}
 ```
 
-![flag](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/flag.png)
+![flag](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Reversing/Omega-One/images/flag.png)
 
 And boom! Here you go!!
 

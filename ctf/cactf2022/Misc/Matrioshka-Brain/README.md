@@ -1,7 +1,7 @@
 # Background
-![background1](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/background1.png)
+![background1](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/background1.png)
 
-![background2](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/background2.png)
+![background2](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/background2.png)
 
 Tbh, this challenge is really, really cool, it teaches you the fundamental skills in **Microsoft Excel**. Lol
 
@@ -11,13 +11,13 @@ Now, please note that, sometimes **challenge info could has some valuable inform
 
 # Solution
 
-As the challenge has a [downloadable file](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/misc_matrioshka_brain.zip). Let's download it and unzip it.
+As the challenge has a [downloadable file](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/misc_matrioshka_brain.zip). Let's download it and unzip it.
 
-![solution1](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution1.png)
+![solution1](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution1.png)
 
 Hmm... a **CSV text file**. I remember I can **open it in Microsoft Execl**. Let's transfer this file to my Windows 10 host machine.
 
-![solution2](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution2.png)
+![solution2](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution2.png)
 
 It looks like just some **thermal data** of those five spheres that depicted in the challenge info.
 
@@ -31,29 +31,29 @@ So maybe we can hightlight those abnormal data, and the flag will be appeared?? 
 
 First, we can **select all the data except first column and row.**
 
-![solution3](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution3.png)
+![solution3](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution3.png)
 
 Then, I'll use `Greater Than` in `Conditional Formatting`.
 
-![solution4](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution4.png)
+![solution4](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution4.png)
 
-![solution5](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution5.png)
+![solution5](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution5.png)
 
 Hmm... Let's try 35, so all thermal data that are > 35 will be highlighted.
 
-![solution6](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution6.png)
+![solution6](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution6.png)
 
 Seems like it's not the flag?? Then let's try `Less Than` in `Conditional Formatting`.
 
-![solution7](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution7.png)
+![solution7](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution7.png)
 
-![solution8](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution8.png)
+![solution8](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/solution8.png)
 
-![flag](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/flag.png)
+![flag](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/images/flag.png)
 
 And boom!!! There's our flag, as the flag has a prefix of: `HTB{.*?}`
 
-(P.S. The above image doesn't show the whole flag. If you're interested in this challenge, you can [download the zip file](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/misc_matrioshka_brain.zip) and try it by yourself. :D)
+(P.S. The above image doesn't show the whole flag. If you're interested in this challenge, you can [download the zip file](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Misc/Matrioshka-Brain/misc_matrioshka_brain.zip) and try it by yourself. :D)
 
 # Flag
 `HTB{1MM3NS3_3N3RGY_1MM3NS3_H34T}`

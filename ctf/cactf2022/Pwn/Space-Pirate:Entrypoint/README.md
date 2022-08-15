@@ -1,13 +1,13 @@
 # Background
-![background1](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/background1.png)
+![background1](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/background1.png)
 
-![background2](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/background2.png)
+![background2](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/background2.png)
 
 > Tbh, this challenge is one of the most easiest challenges in this CTF you can solved.
 
 # Solution
 
-As usual, download the [downloadable file](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/pwn_sp_entrypoint.zip) and unzip it.
+As usual, download the [downloadable file](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/pwn_sp_entrypoint.zip) and unzip it.
 
 After we unzipped the file, we have 4 files: `flag.txt`, `.gdb_history`, `glibc`, `sp_entrypoint`.
 
@@ -16,7 +16,7 @@ flag.txt: It's a fake flag to have a sanity check locally.
 glibc: Contains libc files.
 **sp_entrypoint: 64-bit ELF executable.**
 
-![solution1](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/solution1.png)
+![solution1](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/solution1.png)
 
 When you're dealing with pwn, or binary exploitation, **it's a good hibit to use `checksec` in pwntools.** checksec allows you to see what memory protections are enabled.
 
@@ -42,13 +42,13 @@ PIE means **Position Independent Executables**. If PIE is enabled, every time yo
 
 Alright, enough talking, let's run the executable and see what it's doing!
 
-![solution2](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/solution2.png)
+![solution2](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/solution2.png)
 
-![solution3](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/solution3.png)
+![solution3](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/solution3.png)
 
 What?? The fake flag is printed? Let's start the docker instance and get the flag??
 
-![flag](https://github.com/siunam321/CTF-Writeups/blob/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/flag.png)
+![flag](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-CTF-2022/Pwn/Space-Pirate:Entrypoint/images/flag.png)
 
 Wut...
 

@@ -1,5 +1,5 @@
 # Background
-![background](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/background.png)
+![background](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/background.png)
 
 In this challenge, we've 3 files, `crash_override.c`, `Makefile` and `crash_override`
 
@@ -11,7 +11,7 @@ crash_override is an ELF 64-bit LSB executable.
 
 Let's connect to the instance first.
 
-![question](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/question.png)
+![question](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/question.png)
 
 Looks like it waiting for the user's input.
 
@@ -95,12 +95,12 @@ Now, we can type bunch of characters that are **more than the buffer size.** Hen
 
 Let's use python's one liner to print out 2500 A's, run the 64-bit executable, copy and paste to it, so that it should overflows the buffer size.
 
-![solution1](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/solution1.png)
+![solution1](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/solution1.png)
 
-![solution2](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/solution2.png)
+![solution2](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/solution2.png)
 
 Yes!! We've successfully have the fake flag! Let's do it in the instance that I started.
 
-![flag](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/flag.png)
+![flag](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Crash-Override/images/flag.png)
 
 Wow! We have the flag now!!

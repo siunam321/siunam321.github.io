@@ -20,9 +20,9 @@ As usual, scan the machine for open ports via `rustscan`!
 
 **Rustscan Result:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a1.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a1.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a2.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a2.png)
 
 According to `rustscan` result, we have several ports are open:
 
@@ -35,37 +35,37 @@ Ports Open        | Service
 
 As always, check `robots.txt`. In this machine, it has a interesting directory: `/find_me`
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a3.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a3.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a4.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a4.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a5.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a5.png)
 
 It seems like empty, but when you view the source:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a6.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a6.png)
 
 It looks like a `base64` string. Let's copy and paste to a new file and `base64` decode it.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a7.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a7.png)
 
 More `base64` encoded string. Lol. Let's decode it again.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a8.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a8.png)
 
 Hmm.. It's an **PNG** image, as it has the `PNG` magic header.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a9.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a9.png)
 
 Let's open this PNG image via `eog`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a10.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a10.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a11.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a11.png)
 
 A **QR code**... We can use `zbarimg` to scan it's content:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a12.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a12.png)
 
 Boom!! We got a password!
 
@@ -77,21 +77,21 @@ Next, we can enumerate hidden directory in the web server, I'll use `gobuster` t
 
 **Gobuster Result:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a13.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a13.png)
 
 And we found a hidden directory called: `bulma`!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a14.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a14.png)
 
 That `hahahaha.wav` sounds interesting. Let's `wget` that wav file.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a15.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a15.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a16.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a16.png)
 
 It's a `morse code` wav file! Let's find an [online morse code decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) to decode it!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a17.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a17.png)
 
 This time we finally got a username and password!
 
@@ -102,11 +102,11 @@ This time we finally got a username and password!
 
 Once we found a pair of username and password, we can SSH into that user:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a18.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a18.png)
 
 **local.txt:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a19.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a19.png)
 
 # Privilege Escalation
 
@@ -114,21 +114,21 @@ Once we found a pair of username and password, we can SSH into that user:
 
 By enumerating manually, we can found that **user `trunks` has permission to write stuff into `/etc/passwd`**, which basically means we can escalate our privilege to root!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a20.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a20.png)
 
 To do so, we'll:
 
 1. Generate a password hash for `passwd`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a21.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a21.png)
 
 2. Add a new user with root privilege in `/etc/passwd`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a22.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a22.png)
 
 3. Switch User to newly created user:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a23.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a23.png)
 
 And we're root!
 
@@ -136,7 +136,7 @@ And we're root!
 
 **proof.txt:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/Proving-Grounds-Play/Vegeta1/images/a24.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Proving-Grounds-Play/Vegeta1/images/a24.png)
 
 # Conclusion
 

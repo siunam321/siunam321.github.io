@@ -1,11 +1,11 @@
 # Background
-![background](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Prisoner/images/background.png)
+![background](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Prisoner/images/background.png)
 
-![question](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Prisoner/images/question.png)
+![question](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Prisoner/images/question.png)
 
 In this challenge, you have to exit the python script. At that time I was asking myself, if I'm inside a python editor, how do I exit? So I pressed `Ctrl+D` to exit that script.
 
-![question](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Prisoner/images/question1.png)
+![question](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Prisoner/images/question1.png)
 
 And yes! I've successfully escape that python script!
 
@@ -16,6 +16,6 @@ import os
 os.system("command")
 ```
 
-![question](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Prisoner/images/flag.png)
+![question](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Prisoner/images/flag.png)
 
 Finally!! We've the flag, let's submit it.

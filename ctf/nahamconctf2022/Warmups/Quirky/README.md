@@ -1,5 +1,5 @@
 # Background
-![background](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Quirky/images/background.png)
+![background](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Quirky/images/background.png)
 
 The `quirky` file:
 ```
@@ -8,16 +8,16 @@ The `quirky` file:
 
 When I saw this string, I immediately realize this is some bytes or hex, and I copy and paste it in [CyberChef](https://gchq.github.io/CyberChef/)
 
-![solution1](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Quirky/images/solution1.png)
+![solution1](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Quirky/images/solution1.png)
 
 Then, the header immediately stoods out, it's **an PNG image**. Next, I use `Render Image` recipe to bake that hex.
 
-![solution2](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Quirky/images/solution2.png)
+![solution2](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Quirky/images/solution2.png)
 
 WoW!! It's a QR code! Let's scan that QR code via [online QR code reader](https://zxing.org/w/decode.jspx)!
 
-![solution3](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Quirky/images/solution3.png)
+![solution3](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Quirky/images/solution3.png)
 
-![solution4](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Quirky/images/solution4.png)
+![solution4](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Quirky/images/solution4.png)
 
 And yes! We've the flag! Let's submit it and done!

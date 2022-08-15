@@ -1,9 +1,9 @@
 # Background
-![background](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Flagcat/images/background.png)
+![background](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Flagcat/images/background.png)
 
 This challenge is very easy! Just cat the flag and done!
 
-![flag](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2022/Warmups/Flagcat/images/flag.png)
+![flag](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2022/Warmups/Flagcat/images/flag.png)
 
 
 
