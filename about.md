@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About Me
 
 In 2010 to 2021, I'm just a people person who plays video games around 16 hours every day. During that time period, I also self-taught video game level design, reading programming codes(Not writing codes). In the mid 2021, I started to plan my future, like what career path should I take.
