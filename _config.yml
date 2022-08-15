@@ -1,2 +1,6 @@
 title: Siunam's Website
 theme: jekyll-theme-hacker
+
+layout: page
+title: "About me"
+permalink: /about
