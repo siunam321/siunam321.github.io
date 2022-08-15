@@ -1,3 +1,3 @@
 # My Blogs
 
-No blog yet..
+No blog yet... :(
