@@ -106,19 +106,19 @@ ff02::2 ip6-allrouters
 
 `http://dev.cmess.thm/` content:
 
-![pic](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a1.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a1.png)
 
 Since we now have the andre credential, we can login to the Gila CMS admin panel with his email and password.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a2.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a2.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a3.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a3.png)
 
 # Initial Shell:
 
 Now we have control of the admin panel, we can now upload a reverse shell in `Content` -> `File Manager`.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a4.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a4.png)
 
 First, generate a php reverse shell via `msfvenom`:
 
@@ -137,17 +137,17 @@ Saved as: shell.php
 
 Then, upload the reverse shell:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a5.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a5.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a6.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a6.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a7.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a7.png)
 
 Finally, setup a listener and trigger it via browsing `http://cmess.thm/assets/shell.php`.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a8.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a8.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a9.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a9.png)
 
 # Privilege Escalation:
 
@@ -155,7 +155,7 @@ Finally, setup a listener and trigger it via browsing `http://cmess.thm/assets/s
 
 In the "File Manager", we can also see there is a `config.php` file, which contains MySQL database configuration, such as user and password.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a10.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a10.png)
 
 We can now login into MySQL database and dump the entire database:
 
@@ -170,23 +170,23 @@ Now we can download the databases via `wget`:
 
 By looking through the database dump, we can see there is a hash for andre user:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a11.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a11.png)
 
 However, I found that this hash is uncrackable.
 
 By enumerating much deeper, I found a `.password.bak` file in `/opt`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a12.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a12.png)
 
 We can now `ssh` in `andre` user with newly found password.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a13.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a13.png)
 
 ## andre to root:
 
 `user.txt`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a14.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a14.png)
 
 By doing manual enumeration, I found that there is one cronjob is running every two minutes.
 
@@ -202,19 +202,19 @@ We can gain a root privilege is because that cronjob is **running as root**, and
 
 According to GTFObins, we can create files that will be interpreted as options for the `tar` command, to ultimately execute something like a reverse shell.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a15.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a15.png)
 
 To do so, we can write a bash reverse shell, and create two files: `--checkpoint=1` and `--checkpoint-action=exec=bash revshell.sh`. Then wait the cronjob runs.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a16.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a16.png)
 
 **Proof-of-Concept:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a18.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a18.png)
 
 # Rooted
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a17.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a17.png)
 
 # Conclusion
 
