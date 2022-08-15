@@ -106,7 +106,7 @@ ff02::2 ip6-allrouters
 
 `http://dev.cmess.thm/` content:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/CMesS/images/a1.png)
+![pic](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/CMesS/images/a1.png)
 
 Since we now have the andre credential, we can login to the Gila CMS admin panel with his email and password.
 
