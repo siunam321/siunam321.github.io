@@ -119,9 +119,9 @@ However in the `referer` GET parameter, it appears to be vulnerable to `LFI`, or
 
 `http://vulnnet.thm/index.php?referer=/etc/passwd`
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/VulnNet/images/a1.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/VulnNet/images/a1.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/VulnNet/images/a2.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/VulnNet/images/a2.png)
 
 Since the `broadcast` subdomain prompts a basic authentication, we can take a look at Apache configuration files to see any useful stuff for us.
 
@@ -185,13 +185,13 @@ Password:[Redacted]
 
 Now let's login to the `broadcast` subdomain!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/VulnNet/images/a3.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/VulnNet/images/a3.png)
 
 > ClipBucket is an Open Source and freely downloadable PHP script that will let you start your own Video Sharing website (YouTube Clone) in a matter of minutes. (https://github.com/arslancb/clipbucket)
 
 To check the version of this ClipBucket, I'll go to `View Page Source`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/VulnNet/images/a4.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/VulnNet/images/a4.png)
 
 `ClipBucket version 4.0`
 
