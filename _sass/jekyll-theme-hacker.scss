@@ -32,10 +32,11 @@ body {
   margin: 0 auto;
 }
 
+/* Badges */
 .badgeContainer {
-  width: 90%;
-  max-width: $container-max-width;
-  margin: 0 auto;
+  width: 100%;
+  margin: 100px 0 0 450px;
+  border-top: 1px dashed $conifer;
 }
 
 section {
