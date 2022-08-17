@@ -41,8 +41,9 @@ body {
 }
 
 .badgeContainer {
-  /*margin: 0 0 0 450px;*/
-  padding-left: 450px;
+  width: 90%;
+  max-width: $container-max-width;
+  margin: 0 auto;
 }
 
 section {
