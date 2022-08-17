@@ -33,10 +33,15 @@ body {
 }
 
 /* Badges */
+
+.badgeHeader {
+  width: 100%;
+  border-top: 1px dashed $conifer;
+}
+
 .badgeContainer {
   width: 100%;
-  margin: 100px 0 0 450px;
-  border-top: 1px dashed $conifer;
+  margin: 0 0 0 450px;
 }
 
 section {
