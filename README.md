@@ -8,4 +8,5 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 - CTF Writeups
 	- Proving Grounds Play
-		- [NoName](https://siunam321.github.io/ctf/pgplay/NoName/)
+		- [Election1](https://siunam321.github.io/ctf/pgplay/Election1/) | Aug 18, 2022
+		- [NoName](https://siunam321.github.io/ctf/pgplay/NoName/) | Aug 17, 2022
