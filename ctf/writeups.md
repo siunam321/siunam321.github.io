@@ -9,6 +9,7 @@
 	- [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 - Proving Grounds Play
+	- [FunBox](https://siunam321.github.io/ctf/pgplay/FunBox/)
 	- [Election1](https://siunam321.github.io/ctf/pgplay/Election1/)
 	- [NoName](https://siunam321.github.io/ctf/pgplay/NoName/)
 	- [BBSCute](https://siunam321.github.io/ctf/pgplay/BBSCute/)
