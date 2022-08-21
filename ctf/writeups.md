@@ -10,6 +10,7 @@
 	- [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 - Proving Grounds Play
+	- [SunsetMidnight](https://siunam321.github.io/ctf/pgplay/SunsetMidnight/)
 	- [SoSimple](https://siunam321.github.io/ctf/pgplay/SoSimple/)
 	- [FunBox](https://siunam321.github.io/ctf/pgplay/FunBox/)
 	- [Election1](https://siunam321.github.io/ctf/pgplay/Election1/)
