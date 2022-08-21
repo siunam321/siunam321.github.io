@@ -4,7 +4,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-> Last Update: Aug 20, 2022
+> Last Update: Aug 21, 2022
 
 - CTF Writeups
 	- Proving Grounds Play
@@ -12,3 +12,5 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [FunBox](https://siunam321.github.io/ctf/pgplay/FunBox/), Aug 19, 2022
 		- [Election1](https://siunam321.github.io/ctf/pgplay/Election1/), Aug 18, 2022
 		- [NoName](https://siunam321.github.io/ctf/pgplay/NoName/), Aug 17, 2022
+	- TryHackMe
+		- [Relevant](https://siunam321.github.io/ctf/tryhackme/Relevant/), Aug 20, 2022
