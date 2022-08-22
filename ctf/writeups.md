@@ -11,6 +11,7 @@
 	- [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 - Proving Grounds Play
+	- [Assertion101](https://siunam321.github.io/ctf/pgplay/Assertion101/)
 	- [BTRSys2.1](https://siunam321.github.io/ctf/pgplay/BTRSys2.1/)
 	- [SunsetMidnight](https://siunam321.github.io/ctf/pgplay/SunsetMidnight/)
 	- [SoSimple](https://siunam321.github.io/ctf/pgplay/SoSimple/)
