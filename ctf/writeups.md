@@ -1,6 +1,7 @@
 # CTF Writeups
 
 - TryHackMe
+	- [Internal](https://siunam321.github.io/ctf/tryhackme/Internal/)
 	- [Relevant](https://siunam321.github.io/ctf/tryhackme/Relevant/)
 	- [CMesS](https://siunam321.github.io/ctf/tryhackme/CMesS/)
 	- [Gallery](https://siunam321.github.io/ctf/tryhackme/Gallery/)
