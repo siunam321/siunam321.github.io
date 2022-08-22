@@ -70,23 +70,23 @@ Server IP Address | Ports Open
 
 **Modify my hosts file to reflect `internal.thm`:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a1.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a1.png)
 
 **Rustscan Result:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a2.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a2.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a3.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a3.png)
 
 ## HTTP on Port 80
 
 **In web application, I always start with enumerating hidden directory via `gobuster`:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a4.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a4.png)
 
 Found `/blog/`, `/phpmyadmin/` and `/wordpress/` directory via `gobuster`.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a5.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a5.png)
 
 In the `/blog/` directory, I found that this web server is using **WordPress** CMS(Content Management System).
 
@@ -94,19 +94,19 @@ In the `/blog/` directory, I found that this web server is using **WordPress** C
 
 **I will enumerate the WordPress site via `wpscan`:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a6.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a6.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a7.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a7.png)
 
 Found 1 user: `admin`.
 
 **Brute forcing WordPress login page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a8.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a8.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a9.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a9.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a10.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a10.png)
 
 Found user `admin` credentials:
 
@@ -139,9 +139,9 @@ Change a stronger password for the user admin. This could prevent attackers to e
 
 Since I have WordPress `admin` credentials, I can now login to `http://internal.thm/blog/wp-login.php` as administrator privilege on WordPress:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a11.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a11.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a12.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a12.png)
 
 **WordPress reverse shell:**
 
@@ -149,15 +149,15 @@ Since I have administrator privilege on WordPress, I can modify a theme's templa
 
 First, go to "Appearance" -> "Theme Editor", choose one of the templates, then change the PHP content to [PHP reverse shell](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php):
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a13.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a13.png)
 
 Then, setup a `nc` listener and trigger the PHP reverse shell via `curl`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a14.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a14.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a15.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a15.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a16.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a16.png)
 
 **Vulnerability Explanation:**
 
@@ -187,11 +187,11 @@ Before move to privilege escalation session, I will usually upgrade the reverse 
 
 To do so, I will use `socat` to achieve this:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a17.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a17.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a18.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a18.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a19.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a19.png)
 
 #### Privilege Escalation
 
@@ -199,7 +199,7 @@ To do so, I will use `socat` to achieve this:
 
 By enumerating the system manaully, I found there is a file that contains MySQL credentials:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a20.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a20.png)
 
 **MySQL:**
 
@@ -210,14 +210,14 @@ Found MySQL credentials in `/var/www/html/wordpress/wp-config.php`:
 
 By enumerating the system manaully, I found there is a file that saves user `aubreanna`'s credentials:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a21.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a21.png)
 
 - Username:aubreanna
 - Password:bubb13guM!@#123
 
 **We now can Switch User to `aubreanna`:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a22.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a22.png)
 
 **Vulnerability Explanation:**
 
@@ -243,13 +243,13 @@ Saved critical file securely, such as set it to not world-readable, encrypt it i
 
 **user.txt:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a23.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a23.png)
 
 ##### aubreanna to root
 
 In the home directory of the user `aubreanna`, there is a file called `jenkins.txt`, and it said `Jenkins` is running on port 8080 in localhost. We can confirm that by issuing command `netstat`.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a24.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a24.png)
 
 **Local Port Forwarding:**
 
@@ -257,27 +257,27 @@ In order to successfully communicate to the `Jenkins` service, I will use `chise
 
 First, transfer the `chisel` binary to the target machine:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a25.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a25.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a26.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a26.png)
 
 Then, do local port forwarding via `chisel`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a27.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a27.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a28.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a28.png)
 
 This allows me to communicate to the `Jenkins` service via localhost port 8081 on my attacker machine:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a29.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a29.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a30.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a30.png)
 
 **Jenkins:**
 
 Now, I will try to brute force the login page via `hydra`:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a31.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a31.png)
 
 Found `admin` credentials:
 
@@ -286,9 +286,9 @@ Found `admin` credentials:
 
 We now can login to `Jenkins` as administrator.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a32.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a32.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a33.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a33.png)
 
 Since we have `Jenkins` administrator privilege, we can escalate our privilege to root.
 
@@ -296,21 +296,21 @@ To do so, I will:
 
 First, go to "Manage Jenkins":
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a34.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a34.png)
 
 Then, click "Script Console":
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a35.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a35.png)
 
 Next, Prepare `Groovy` reverse shell from https://www.revshells.com/:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a36.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a36.png)
 
 Finally, copy and paste that code to "Script Console", setup a `nc` listener and click "Run":
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a37.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a37.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a38.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a38.png)
 
 **Vulnerability Explanation:**
 
@@ -336,14 +336,14 @@ Change a stronger password for the user admin. This could prevent attackers to e
 
 By enumerating manually on the `Jenkins` docker container, I found that there is a file called `note.txt` in `/opt`, which contains `root` credentials.
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a39.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a39.png)
 
 - Username:root
 - Password:tr0ub13guM!@#123
 
 Armed with this information, now I can Switch User to `root` on `internal` machine:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a40.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a40.png)
 
 Now I user `root`, which is the highest privilege user in Linux system.
 
@@ -371,7 +371,7 @@ Saved critical file securely, such as set it to not world-readable, encrypt it i
 
 **root.txt Contents:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Internal/images/a41.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Internal/images/a41.png)
 
 ## Maintaining Access
 
