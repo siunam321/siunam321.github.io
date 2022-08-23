@@ -1,5 +1,6 @@
 # CTF Writeups
 
+----
 - TryHackMe
 	- [Internal](https://siunam321.github.io/ctf/tryhackme/Internal/)
 	- [Relevant](https://siunam321.github.io/ctf/tryhackme/Relevant/)
@@ -9,6 +10,7 @@
 	- [Olympus](https://siunam321.github.io/ctf/tryhackme/Olympus/)
 	- [VulnNet](https://siunam321.github.io/ctf/tryhackme/VulnNet/)
 	- [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
+----
 
 - Proving Grounds Play
 	- [Tre](https://siunam321.github.io/ctf/pgplay/Tre/)
