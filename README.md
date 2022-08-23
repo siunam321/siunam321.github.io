@@ -6,6 +6,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 > Last Update: Aug 23, 2022
 
+* * *
 - CTF Writeups
 	- Proving Grounds Play
 		- [Tre](https://siunam321.github.io/ctf/pgplay/Tre/), Aug 23, 2022

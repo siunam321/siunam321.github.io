@@ -1,7 +1,6 @@
 # CTF Writeups
 
 * * *
-
 - TryHackMe
 	- [Internal](https://siunam321.github.io/ctf/tryhackme/Internal/)
 	- [Relevant](https://siunam321.github.io/ctf/tryhackme/Relevant/)
@@ -11,8 +10,6 @@
 	- [Olympus](https://siunam321.github.io/ctf/tryhackme/Olympus/)
 	- [VulnNet](https://siunam321.github.io/ctf/tryhackme/VulnNet/)
 	- [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
-
-* * *
 
 * * *
 - Proving Grounds Play
@@ -30,9 +27,6 @@
 	- [Loly](https://siunam321.github.io/ctf/pgplay/Loly/)
 	- [Pwned1](https://siunam321.github.io/ctf/pgplay/Pwned1/)
 	- [Vegeta1](https://siunam321.github.io/ctf/pgplay/Vegeta1/)
-
-* * *
-
 
 * * *
 - Cyber Apocalypse CTF 2022
@@ -65,5 +59,3 @@
 	- Web
 		- [EXtravagant](https://siunam321.github.io/ctf/nahamconctf2022/Web/EXtravagant/)
 		- [Jurassic Park](https://siunam321.github.io/ctf/nahamconctf2022/Web/Jurassic-Park/)
-
-* * *
