@@ -13,6 +13,7 @@
 
 * * *
 - Proving Grounds Play
+	- [GlasgowSmile](https://siunam321.github.io/ctf/pgplay/GlasgowSmile/)
 	- [Deception](https://siunam321.github.io/ctf/pgplay/Deception/)
 	- [Tre](https://siunam321.github.io/ctf/pgplay/Tre/)
 	- [Assertion101](https://siunam321.github.io/ctf/pgplay/Assertion101/)
