@@ -4,16 +4,16 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-> Last Update: Aug 26, 2022
+> Last Update: Aug 27, 2022
 
 * * *
 - CTF Writeups
 	- Proving Grounds Play
+		- [DC-9](https://siunam321.github.io/ctf/pgplay/DC-9/), Aug 27, 2022
 		- [ICMP](https://siunam321.github.io/ctf/pgplay/ICMP/), Aug 26, 2022
 		- [My-CMSMS](https://siunam321.github.io/ctf/pgplay/My-CMSMS/), Aug 25, 2022
 		- [GlasgowSmile](https://siunam321.github.io/ctf/pgplay/GlasgowSmile/), Aug 25, 2022
 		- [Deception](https://siunam321.github.io/ctf/pgplay/Deception/), Aug 24, 2022
-		- [Tre](https://siunam321.github.io/ctf/pgplay/Tre/), Aug 23, 2022
 	- TryHackMe
 		- [Internal](https://siunam321.github.io/ctf/tryhackme/Internal/), Aug 22, 2022
 		- [Relevant](https://siunam321.github.io/ctf/tryhackme/Relevant/), Aug 21, 2022

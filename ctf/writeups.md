@@ -13,6 +13,7 @@
 
 * * *
 - Proving Grounds Play
+	- [DC-9](https://siunam321.github.io/ctf/pgplay/DC-9/)
 	- [ICMP](https://siunam321.github.io/ctf/pgplay/ICMP/)
 	- [My-CMSMS](https://siunam321.github.io/ctf/pgplay/My-CMSMS/)
 	- [GlasgowSmile](https://siunam321.github.io/ctf/pgplay/GlasgowSmile/)
