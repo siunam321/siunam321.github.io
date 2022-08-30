@@ -4,7 +4,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-> Last Update: Aug 27, 2022
+> Last Update: Aug 30, 2022
 
 * * *
 - CTF Writeups
@@ -15,5 +15,6 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [GlasgowSmile](https://siunam321.github.io/ctf/pgplay/GlasgowSmile/), Aug 25, 2022
 		- [Deception](https://siunam321.github.io/ctf/pgplay/Deception/), Aug 24, 2022
 	- TryHackMe
+		- [The Marketplace](https://siunam321.github.io/ctf/tryhackme/The-Marketplace/), Aug 30, 2022
 		- [Internal](https://siunam321.github.io/ctf/tryhackme/Internal/), Aug 22, 2022
 		- [Relevant](https://siunam321.github.io/ctf/tryhackme/Relevant/), Aug 21, 2022
