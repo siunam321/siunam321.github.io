@@ -1,7 +1,7 @@
 # My Blogs
 
 * * *
-###### 31 Augest 2022
+##### 31 Augest 2022
 
 ## [OSCP First Attempt Failled](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled)
 
