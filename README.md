@@ -19,3 +19,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [The Marketplace](https://siunam321.github.io/ctf/tryhackme/The-Marketplace/), Aug 30, 2022
 		- [Internal](https://siunam321.github.io/ctf/tryhackme/Internal/), Aug 22, 2022
 		- [Relevant](https://siunam321.github.io/ctf/tryhackme/Relevant/), Aug 21, 2022
+
+* * *
+- Blog
+	- [OSCP First Attempt Failled](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled), Aug 31, 2022
