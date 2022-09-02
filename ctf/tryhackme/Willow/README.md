@@ -142,7 +142,7 @@ Found file `rsa_keys`, I'm not sure what we can do with it at the moment. Let's 
 
 **/index.html:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Willow/images/a1.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TryHackMe/Willow/images/a1.png)
 
 What the hell is this lul? It looks like it's encoded as hex, let's decode that:
 
