@@ -4,7 +4,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-> Last Update: Sept 2, 2022
+> Last Update: Sept 3, 2022
 
 * * *
 - CTF Writeups
