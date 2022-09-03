@@ -50,6 +50,7 @@
 	- Warmup
 		- [Welcome!](https://siunam321.github.io/ctf/cactf2022/Warmup/Welcome!/)
 
+* * *
 - NahamCon CTF 2022
 	- Miscellaneous
 		- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
