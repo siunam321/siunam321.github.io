@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [PalsForLife](https://siunam321.github.io/ctf/tryhackme/PalsForLife/)
 	- [Willow](https://siunam321.github.io/ctf/tryhackme/Willow/)
 	- [Road](https://siunam321.github.io/ctf/tryhackme/Road/)
 	- [The Marketplace](https://siunam321.github.io/ctf/tryhackme/The-Marketplace/)
