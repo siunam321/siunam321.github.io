@@ -4,9 +4,9 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-> Last Update: Sept 5, 2022
-
 * * *
+##### Last Update: Sept 5, 2022
+
 - CTF Writeups
 	- Proving Grounds Play
 		- [DC-9](https://siunam321.github.io/ctf/pgplay/DC-9/), Aug 27, 2022
