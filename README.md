@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Sept 7, 2022
+##### Last Update: Sept 9, 2022
 
 - CTF Writeups
 	- Proving Grounds Play
@@ -15,11 +15,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [GlasgowSmile](https://siunam321.github.io/ctf/pgplay/GlasgowSmile/), Aug 25, 2022
 		- [Deception](https://siunam321.github.io/ctf/pgplay/Deception/), Aug 24, 2022
 	- TryHackMe
+		- [Minotaur's Labyrinth](https://siunam321.github.io/ctf/tryhackme/Minotaur's-Labyrinth/), Sept 9, 2022
 		- [Recovery](https://siunam321.github.io/ctf/tryhackme/Recovery/), Sept 7, 2022
 		- [Develpy](https://siunam321.github.io/ctf/tryhackme/Develpy/), Sept 5, 2022
 		- [PalsForLife](https://siunam321.github.io/ctf/tryhackme/PalsForLife/), Sept 3, 2022
 		- [Willow](https://siunam321.github.io/ctf/tryhackme/Willow/), Sept 2, 2022
-		- [Road](https://siunam321.github.io/ctf/tryhackme/Road/), Aug 31, 2022
 
 * * *
 - Blog
