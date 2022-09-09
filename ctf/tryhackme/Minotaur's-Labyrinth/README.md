@@ -10,8 +10,6 @@ Welcome to my another writeup! In this TryHackMe [Minotaur's Labyrinth](https://
 
 > Difficulty: Medium
 
-> Difficulty: Medium
-
 - Overall difficulty for me: Medium
     - Initial foothold: Medium
     - Privilege Escalation: Easy
