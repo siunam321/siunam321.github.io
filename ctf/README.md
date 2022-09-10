@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [Mnemonic](https://siunam321.github.io/ctf/tryhackme/Mnemonic/)
 	- [Minotaur's Labyrinth](https://siunam321.github.io/ctf/tryhackme/Minotaur's-Labyrinth/)
 	- [Recovery](https://siunam321.github.io/ctf/tryhackme/Recovery/)
 	- [Develpy](https://siunam321.github.io/ctf/tryhackme/Develpy/)
