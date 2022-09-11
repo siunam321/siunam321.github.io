@@ -83,7 +83,7 @@ If it throws this error: `ERR: unable to parse authentication credentials`, whic
 
 However, we can bypass the authentication, as **InfluxDB 1.3.0** is quite old, and **it suffers an authentication bypass vulnerability before version 1.7.6 (CVE-2019-20933)**.
 
-- Source: ![](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933)
+- Source: ![https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933)
 
 > Exploit for InfluxDB CVE-2019-20933 vulnerability, **InfluxDB before 1.7.6 has an authentication bypass vulnerability** in the authenticate function in services/httpd/handler.go because a JWT token may have an empty SharedSecret (aka shared secret). Exploit check if server is vulnerable, then it tries to get a remote query shell. It has built in a username bruteforce service.
 
