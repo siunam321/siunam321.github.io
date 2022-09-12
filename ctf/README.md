@@ -21,6 +21,10 @@
 	- [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 * * *
+- HackTheBox
+	- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/)
+
+* * *
 - Proving Grounds Play
 	- [DC-9](https://siunam321.github.io/ctf/pgplay/DC-9/)
 	- [ICMP](https://siunam321.github.io/ctf/pgplay/ICMP/)
