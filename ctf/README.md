@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [NerdHead](https://siunam321.github.io/ctf/tryhackme/NerdHead/)
 	- [Dear QA](https://siunam321.github.io/ctf/tryhackme/Dear-QA/)
 	- [VulnNet: Endgame](https://siunam321.github.io/ctf/tryhackme/VulnNet-Endgame/)
 	- [Sweettooth Inc.](https://siunam321.github.io/ctf/tryhackme/Sweettooth-Inc/)

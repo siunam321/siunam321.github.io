@@ -5,23 +5,23 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Sept 14, 2022
+##### Last Update: Sept 15, 2022
 
 - CTF Writeups
+	- TryHackMe
+		- [NerdHead](https://siunam321.github.io/ctf/tryhackme/NerdHead/), Sept 15, 2022
+		- [Dear QA](https://siunam321.github.io/ctf/tryhackme/Dear-QA/), Sept 14, 2022
+		- [VulnNet: Endgame](https://siunam321.github.io/ctf/tryhackme/VulnNet-Endgame/), Sept 13, 2022
+		- [Sweettooth Inc.](https://siunam321.github.io/ctf/tryhackme/Sweettooth-Inc/), Sept 11, 2022
+		- [Mnemonic](https://siunam321.github.io/ctf/tryhackme/Mnemonic/), Sept 10, 2022
+	- HackTheBox
+		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- Proving Grounds Play
 		- [DC-9](https://siunam321.github.io/ctf/pgplay/DC-9/), Aug 27, 2022
 		- [ICMP](https://siunam321.github.io/ctf/pgplay/ICMP/), Aug 26, 2022
 		- [My-CMSMS](https://siunam321.github.io/ctf/pgplay/My-CMSMS/), Aug 25, 2022
 		- [GlasgowSmile](https://siunam321.github.io/ctf/pgplay/GlasgowSmile/), Aug 25, 2022
 		- [Deception](https://siunam321.github.io/ctf/pgplay/Deception/), Aug 24, 2022
-	- TryHackMe
-		- [Dear QA](https://siunam321.github.io/ctf/tryhackme/Dear-QA/), Sept 14, 2022
-		- [VulnNet: Endgame](https://siunam321.github.io/ctf/tryhackme/VulnNet-Endgame/), Sept 13, 2022
-		- [Sweettooth Inc.](https://siunam321.github.io/ctf/tryhackme/Sweettooth-Inc/), Sept 11, 2022
-		- [Mnemonic](https://siunam321.github.io/ctf/tryhackme/Mnemonic/), Sept 10, 2022
-		- [Minotaur's Labyrinth](https://siunam321.github.io/ctf/tryhackme/Minotaur's-Labyrinth/), Sept 9, 2022
-	- HackTheBox
-		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 
 * * *
 - Blog
