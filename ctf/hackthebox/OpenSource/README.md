@@ -430,6 +430,7 @@ def send_report(path):
     - Save the uploaded file into `file_path`
     - Render a `success.html` page, with the parameter `file_url` `http://10.10.11.164/uploads/revshell.py`
     - `success.html`
+    
 ```html
 <div class="input-group">
 
