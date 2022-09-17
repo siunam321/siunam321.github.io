@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [Musical Stego](https://siunam321.github.io/ctf/tryhackme/Musical-Stego/)
 	- [Break It](https://siunam321.github.io/ctf/tryhackme/Break-It/)
 	- [NerdHead](https://siunam321.github.io/ctf/tryhackme/NerdHead/)
 	- [Dear QA](https://siunam321.github.io/ctf/tryhackme/Dear-QA/)
