@@ -675,7 +675,7 @@ Notice that **the `eth0` interface is `172.17.0.3`**, which is a **docker contai
 
 I'm root in this **docker container**!
 
-> Note: I also wrote a [python](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/HackTheBox/OpenSource/exploit.py) script to automate the upload backdoor route process.
+> Note: I also wrote a [python](https://github.com/siunam321/CTF-Writeups/blob/main/HackTheBox/OpenSource/exploit.py) script to automate the upload backdoor route process.
 
 ```
 ┌──(root🌸siunam)-[~/ctf/htb/Machines/OpenSource]
