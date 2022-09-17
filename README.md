@@ -15,6 +15,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Dear QA](https://siunam321.github.io/ctf/tryhackme/Dear-QA/), Sept 14, 2022
 		- [VulnNet: Endgame](https://siunam321.github.io/ctf/tryhackme/VulnNet-Endgame/), Sept 13, 2022
 	- HackTheBox
+		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- Proving Grounds Play
 		- [DC-9](https://siunam321.github.io/ctf/pgplay/DC-9/), Aug 27, 2022
