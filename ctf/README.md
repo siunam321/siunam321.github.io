@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [Intermediate Nmap](https://siunam321.github.io/ctf/tryhackme/Intermediate-Nmap/)
 	- [Musical Stego](https://siunam321.github.io/ctf/tryhackme/Musical-Stego/)
 	- [Break It](https://siunam321.github.io/ctf/tryhackme/Break-It/)
 	- [NerdHead](https://siunam321.github.io/ctf/tryhackme/NerdHead/)
