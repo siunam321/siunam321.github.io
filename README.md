@@ -5,15 +5,15 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Sept 19, 2022
+##### Last Update: Sept 21, 2022
 
 - CTF Writeups
 	- TryHackMe
+		- [NahamStore](https://siunam321.github.io/ctf/tryhackme/NahamStore/), Sept 21, 2022
 		- [biteme](https://siunam321.github.io/ctf/tryhackme/biteme/), Sept 19, 2022
 		- [Intermediate Nmap](https://siunam321.github.io/ctf/tryhackme/Intermediate-Nmap/), Sept 19, 2022
 		- [Musical Stego](https://siunam321.github.io/ctf/tryhackme/Musical-Stego/), Sept 17, 2022
 		- [Break It](https://siunam321.github.io/ctf/tryhackme/Break-It/), Sept 16, 2022
-		- [NerdHead](https://siunam321.github.io/ctf/tryhackme/NerdHead/), Sept 15, 2022
 	- HackTheBox
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
