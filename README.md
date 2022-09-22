@@ -5,10 +5,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Sept 21, 2022
+##### Last Update: Sept 22, 2022
 
 - CTF Writeups
 	- TryHackMe
+		- [The Server From Hell](https://siunam321.github.io/ctf/tryhackme/The-Server-From-Hell/), Sept 22, 2022
 		- [NahamStore](https://siunam321.github.io/ctf/tryhackme/NahamStore/), Sept 21, 2022
 		- [biteme](https://siunam321.github.io/ctf/tryhackme/biteme/), Sept 19, 2022
 		- [Intermediate Nmap](https://siunam321.github.io/ctf/tryhackme/Intermediate-Nmap/), Sept 19, 2022
