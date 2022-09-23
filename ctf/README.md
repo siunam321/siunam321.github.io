@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [Wekor](https://siunam321.github.io/ctf/tryhackme/Wekor/)
 	- [The Server From Hell](https://siunam321.github.io/ctf/tryhackme/The-Server-From-Hell/)
 	- [NahamStore](https://siunam321.github.io/ctf/tryhackme/NahamStore/)
 	- [biteme](https://siunam321.github.io/ctf/tryhackme/biteme/)
