@@ -40,14 +40,7 @@ body {
   border-top: 1px dashed #f00;
 }
 
-.THMbadgeContainer {
-  width: 90%;
-  max-width: $container-max-width;
-  margin: 0 auto;
-  padding-bottom: 30px;
-}
-
-.HTBbadgeContainer {
+.badgeContainer {
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
