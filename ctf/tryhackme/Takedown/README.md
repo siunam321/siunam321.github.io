@@ -438,7 +438,7 @@ In `/api/agents/register`, it returns a 401 status, and says `You're not a live 
 Maybe it's checking if the user has a cookie or not...
 
 **And think back, the `/api/agents` looks like a cookie:**
-```json
+```
 {'okpj-pigz-ypeu-fwaf': 'www-infinity'}
 ```
 
