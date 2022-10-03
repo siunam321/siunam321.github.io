@@ -1,4 +1,4 @@
-# Takedown
+# Takedown | Oct 3, 2022
 
 ## Introduction:
 
