@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [Ghizer](https://siunam321.github.io/ctf/tryhackme/Ghizer/)
 	- [Git and Crumpets](https://siunam321.github.io/ctf/tryhackme/Git-and-Crumpets/)
 	- [ContainMe](https://siunam321.github.io/ctf/tryhackme/ContainMe/)
 	- [One Piece](https://siunam321.github.io/ctf/tryhackme/One-Piece/)
