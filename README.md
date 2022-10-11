@@ -5,15 +5,15 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Oct 10, 2022
+##### Last Update: Oct 11, 2022
 
 - CTF Writeups
 	- TryHackMe
+		- [Attacking ICS Plant #2](https://siunam321.github.io/ctf/tryhackme/Attacking-ICS-Plant-2), Oct 11, 2022
 		- [Ghizer](https://siunam321.github.io/ctf/tryhackme/Ghizer/), Oct 10, 2022
 		- [Git and Crumpets](https://siunam321.github.io/ctf/tryhackme/Git-and-Crumpets/), Oct 9, 2022
 		- [ContainMe](https://siunam321.github.io/ctf/tryhackme/ContainMe/), Oct 8, 2022
 		- [One Piece](https://siunam321.github.io/ctf/tryhackme/One-Piece/), Oct 4, 2022
-		- [Corridor](https://siunam321.github.io/ctf/tryhackme/Corridor/), Oct 3, 2022
 	- HackTheBox
 		- [Support](https://siunam321.github.io/ctf/hackthebox/Support/), Sept 25, 2022
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
