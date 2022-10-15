@@ -45,6 +45,7 @@
 
 * * *
 - HackTheBox
+	- [Shoppy](https://siunam321.github.io/ctf/hackthebox/Shoppy/)
 	- [Support](https://siunam321.github.io/ctf/hackthebox/Support/)
 	- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/)
 	- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/)

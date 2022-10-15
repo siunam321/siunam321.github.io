@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Oct 13, 2022
+##### Last Update: Oct 15, 2022
 
 - CTF Writeups
 	- TryHackMe
@@ -15,6 +15,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Git and Crumpets](https://siunam321.github.io/ctf/tryhackme/Git-and-Crumpets/), Oct 9, 2022
 		- [ContainMe](https://siunam321.github.io/ctf/tryhackme/ContainMe/), Oct 8, 2022
 	- HackTheBox
+		- [Shoppy](https://siunam321.github.io/ctf/hackthebox/Shoppy/), Oct 15, 2022
 		- [Support](https://siunam321.github.io/ctf/hackthebox/Support/), Sept 25, 2022
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
