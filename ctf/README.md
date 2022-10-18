@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [Daily Bugle](https://siunam321.github.io/ctf/tryhackme/Daily-Bugle)
 	- [Surfer](https://siunam321.github.io/ctf/tryhackme/Surfer)
 	- [Gatekeeper](https://siunam321.github.io/ctf/tryhackme/Gatekeeper)
 	- [The Great Escape](https://siunam321.github.io/ctf/tryhackme/The-Great-Escape)
