@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [Binary Heaven](https://siunam321.github.io/ctf/tryhackme/Binary-Heaven)
 	- [Daily Bugle](https://siunam321.github.io/ctf/tryhackme/Daily-Bugle)
 	- [Surfer](https://siunam321.github.io/ctf/tryhackme/Surfer)
 	- [Gatekeeper](https://siunam321.github.io/ctf/tryhackme/Gatekeeper)
