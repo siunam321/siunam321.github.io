@@ -5,15 +5,15 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Oct 20, 2022
+##### Last Update: Oct 22, 2022
 
 - CTF Writeups
 	- TryHackMe
+		- [Bookstore](https://siunam321.github.io/ctf/tryhackme/Bookstore), Oct 22, 2022
 		- [Binary Heaven](https://siunam321.github.io/ctf/tryhackme/Binary-Heaven), Oct 20, 2022
 		- [Daily Bugle](https://siunam321.github.io/ctf/tryhackme/Daily-Bugle), Oct 18, 2022
 		- [Surfer](https://siunam321.github.io/ctf/tryhackme/Surfer), Oct 17, 2022
 		- [Gatekeeper](https://siunam321.github.io/ctf/tryhackme/Gatekeeper), Oct 16, 2022
-		- [The Great Escape](https://siunam321.github.io/ctf/tryhackme/The-Great-Escape), Oct 13, 2022
 	- HackTheBox
 		- [Shoppy](https://siunam321.github.io/ctf/hackthebox/Shoppy/), Oct 15, 2022
 		- [Support](https://siunam321.github.io/ctf/hackthebox/Support/), Sept 25, 2022
