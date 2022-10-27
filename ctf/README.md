@@ -78,6 +78,14 @@
 	- [Vegeta1](https://siunam321.github.io/ctf/pgplay/Vegeta1/)
 
 * * *
+- [Hack The Boo](https://siunam321.github.io/ctf/hacktheboo/)
+	- Web
+	- Pwn
+	- Reversing
+	- Forensics
+	- Crypto
+
+* * *
 - Cyber Apocalypse CTF 2022
 	- Misc
 		- [Compressor](https://siunam321.github.io/ctf/cactf2022/Misc/Compressor/)
