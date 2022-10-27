@@ -55,27 +55,27 @@ For all these questions, we have the answer: **Hack The Boo CTF**.
 ## What I've learned in this CTF
 
 - Web:
-1. Exploiting `compile()` Function in a Python Web Application ([Evaluation Deck](https://siunam321.github.io/ctf/hacktheboo/Web/Evaluation-Deck/README.md))
-2. Server-Side Template Injection (SSTI) in Python's Flask Mako ([Spookifier](https://siunam321.github.io/ctf/hacktheboo/Web/Spookifier/README.md))
-3. Exploiting PHP Type Juggling ([Juggling Facts](https://siunam321.github.io/ctf/hacktheboo/Web/Juggling-Facts/README.md))
+1. Exploiting `compile()` Function in a Python Web Application ([Evaluation Deck](https://siunam321.github.io/ctf/hacktheboo/Web/Evaluation-Deck/))
+2. Server-Side Template Injection (SSTI) in Python's Flask Mako ([Spookifier](https://siunam321.github.io/ctf/hacktheboo/Web/Spookifier/))
+3. Exploiting PHP Type Juggling ([Juggling Facts](https://siunam321.github.io/ctf/hacktheboo/Web/Juggling-Facts/))
 
 - Pwn: (Binary Exploition)
-1. Interger Overflow ([Pumpkin Stand](https://siunam321.github.io/ctf/hacktheboo/Pwn/Pumpkin-Stand/README.md))
-2. Exploiting C Unions ([Entity](https://siunam321.github.io/ctf/hacktheboo/Pwn/Entity/README.md))
+1. Interger Overflow ([Pumpkin Stand](https://siunam321.github.io/ctf/hacktheboo/Pwn/Pumpkin-Stand/))
+2. Exploiting C Unions ([Entity](https://siunam321.github.io/ctf/hacktheboo/Pwn/Entity/))
 
 - Reversing:
-1. Listing Strings in an Executable ([Cult Meeting](https://siunam321.github.io/ctf/hacktheboo/Reversing/Cult-Meeting/README.md))
-2. Using `strace` to Monitor System Calls ([EncodedPayload](https://siunam321.github.io/ctf/hacktheboo/Reversing/EncodedPayload/README.md))
-3. Using `gdb` to Find Loaded Memory Strings ([Ghost Wrangler](https://siunam321.github.io/ctf/hacktheboo/Reversing/Ghost-Wrangler/README.md))
-4. Decrypting Caesar Cipher ([Ouija](https://siunam321.github.io/ctf/hacktheboo/Reversing/Ouija/README.md))
-5. Decrypting AES 256 CBC via Capturing Decryption Key in GDB ([Secured Transfer](https://siunam321.github.io/ctf/hacktheboo/Reversing/Secured-Transfer/README.md))
+1. Listing Strings in an Executable ([Cult Meeting](https://siunam321.github.io/ctf/hacktheboo/Reversing/Cult-Meeting/))
+2. Using `strace` to Monitor System Calls ([EncodedPayload](https://siunam321.github.io/ctf/hacktheboo/Reversing/EncodedPayload/))
+3. Using `gdb` to Find Loaded Memory Strings ([Ghost Wrangler](https://siunam321.github.io/ctf/hacktheboo/Reversing/Ghost-Wrangler/))
+4. Decrypting Caesar Cipher ([Ouija](https://siunam321.github.io/ctf/hacktheboo/Reversing/Ouija/))
+5. Decrypting AES 256 CBC via Capturing Decryption Key in GDB ([Secured Transfer](https://siunam321.github.io/ctf/hacktheboo/Reversing/Secured-Transfer/))
 
 - Crypto:
-1. Decrypting Encrypted Message via Basic Modular Arithmetic ([Gonna-Left-Em-All](https://siunam321.github.io/ctf/hacktheboo/Crypto/Gonna-Left-Em-All/README.md))
+1. Decrypting Encrypted Message via Basic Modular Arithmetic ([Gonna-Left-Em-All](https://siunam321.github.io/ctf/hacktheboo/Crypto/Gonna-Left-Em-All/))
 
 - Forensics:
-1. Inspecting `pcap` File via WireShark ([Wrong Spooky Season](https://siunam321.github.io/ctf/hacktheboo/Forensics/Wrong-Spooky-Season/README.md))
-2. Inspecting DNS Queries ([Trick or Breach](https://siunam321.github.io/ctf/hacktheboo/Forensics/Trick-or-Breach/README.md))
-3. Reverse Engineering Word Macros ([Halloween Invitation](https://siunam321.github.io/ctf/hacktheboo/Forensics/Halloween-Invitation/README.md))
-4. Memory Forensics via Volatility ([POOF](https://siunam321.github.io/ctf/hacktheboo/Forensics/POOF/README.md))
-5. Windows Event Viewer Digital Forensics ([Downgrade](https://siunam321.github.io/ctf/hacktheboo/Forensics/Downgrade/README.md))
+1. Inspecting `pcap` File via WireShark ([Wrong Spooky Season](https://siunam321.github.io/ctf/hacktheboo/Forensics/Wrong-Spooky-Season/))
+2. Inspecting DNS Queries ([Trick or Breach](https://siunam321.github.io/ctf/hacktheboo/Forensics/Trick-or-Breach/))
+3. Reverse Engineering Word Macros ([Halloween Invitation](https://siunam321.github.io/ctf/hacktheboo/Forensics/Halloween-Invitation/))
+4. Memory Forensics via Volatility ([POOF](https://siunam321.github.io/ctf/hacktheboo/Forensics/POOF/))
+5. Windows Event Viewer Digital Forensics ([Downgrade](https://siunam321.github.io/ctf/hacktheboo/Forensics/Downgrade/))
