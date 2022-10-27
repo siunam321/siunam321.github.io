@@ -42,8 +42,6 @@ For all these questions, we have the answer: **Hack The Boo CTF**.
 - Team Size: Individuals
 - Level: Beginners
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/HackTheBoo/result.png)
-
 ## Overview
 
 - Solved: 16/25
@@ -51,6 +49,8 @@ For all these questions, we have the answer: **Hack The Boo CTF**.
 - Rank: 250th/6360
 - Total Players: 6356
 - Overall Difficulty: Very hard
+
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/HackTheBoo/result.png)
 
 ## What I've learned in this CTF
 
