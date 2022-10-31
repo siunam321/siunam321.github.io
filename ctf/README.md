@@ -78,6 +78,11 @@
 	- [Vegeta1](https://siunam321.github.io/ctf/pgplay/Vegeta1/)
 
 * * *
+- [GuidePoint Security Oct27 2022 CTF](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/)
+	- Web
+	- Pwnables
+
+* * *
 - [Hack The Boo](https://siunam321.github.io/ctf/hacktheboo/)
 	- Web
 	- Pwn
