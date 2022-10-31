@@ -4,6 +4,23 @@
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/GuidePoint-Security-Oct27-2022/images/banner.jpeg)
 
+## Writeups
+
+- Web
+	- [Arbit](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Arbit/)
+	- [Brute](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Brute/)
+	- [Rogue One](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Rogue-One/)
+	- [All Inclusive](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/All-Inclusive/)
+	- [Calc](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Calc/)
+	- [Deprecated](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Deprecated/)
+	- [Chess](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Chess/)
+	- [Dev Admin](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Dev-Admin/)
+	- [Responsive](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Responsive/)
+	- [Figgis](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Figgis/)
+	- [SSH Brute](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/SSH-Brute/)
+- Pwnables:
+	- [Alphabet](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Pwnables/Alphabet/)
+
 ## Background
 
 - Starts: Thursday, October 27th – 8:00 am EDT
