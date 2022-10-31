@@ -5,9 +5,24 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Oct 27, 2022
+##### Last Update: Oct 31, 2022
 
 - CTF Writeups
+	- [GuidePoint Security Oct27 2022 CTF](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/), Oct 31, 2022
+		- Web
+			- [Arbit](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Arbit/)
+			- [Brute](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Brute/)
+			- [Rogue One](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Rogue-One/)
+			- [All Inclusive](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/All-Inclusive/)
+			- [Calc](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Calc/)
+			- [Deprecated](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Deprecated/)
+			- [Chess](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Chess/)
+			- [Dev Admin](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Dev-Admin/)
+			- [Responsive](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Responsive/)
+			- [Figgis](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Figgis/)
+			- [SSH Brute](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/SSH-Brute/)
+		- Pwnables:
+			- [Alphabet](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Pwnables/Alphabet/)
 	- [HackTheBoo](https://siunam321.github.io/ctf/hacktheboo/), Oct 27, 2022
 		- [Web](https://siunam321.github.io/ctf/hacktheboo/Web/)
 			- [Evaluation Deck](https://siunam321.github.io/ctf/hacktheboo/Web/Evaluation-Deck/)
