@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [WarZone1](https://siunam321.github.io/ctf/tryhackme/WarZone1)
 	- [Bookstore](https://siunam321.github.io/ctf/tryhackme/Bookstore)
 	- [Binary Heaven](https://siunam321.github.io/ctf/tryhackme/Binary-Heaven)
 	- [Daily Bugle](https://siunam321.github.io/ctf/tryhackme/Daily-Bugle)
