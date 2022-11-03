@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Nov 2, 2022
+##### Last Update: Nov 3, 2022
 
 - CTF Writeups
 	- [GuidePoint Security Oct27 2022 CTF](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/), Oct 31, 2022
@@ -47,11 +47,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Crypto](https://siunam321.github.io/ctf/hacktheboo/Crypto/)
 			- [Gonna Lift Em All](https://siunam321.github.io/ctf/hacktheboo/Crypto/Gonna-Lift-Em-All/)
 	- TryHackMe
+		- [Templates](https://siunam321.github.io/ctf/tryhackme/Templates), Nov 3, 2022
 		- [Epoch](https://siunam321.github.io/ctf/tryhackme/Epoch), Nov 2, 2022
 		- [WarZone1](https://siunam321.github.io/ctf/tryhackme/WarZone1), Nov 1, 2022
 		- [Bookstore](https://siunam321.github.io/ctf/tryhackme/Bookstore), Oct 22, 2022
 		- [Binary Heaven](https://siunam321.github.io/ctf/tryhackme/Binary-Heaven), Oct 20, 2022
-		- [Daily Bugle](https://siunam321.github.io/ctf/tryhackme/Daily-Bugle), Oct 18, 2022
 	- HackTheBox
 		- [Shoppy](https://siunam321.github.io/ctf/hackthebox/Shoppy/), Oct 15, 2022
 		- [Support](https://siunam321.github.io/ctf/hackthebox/Support/), Sept 25, 2022
