@@ -4,6 +4,24 @@
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/BuckeyeCTF-2022/images/banner.png)
 
+## Writeups
+
+- Web
+	- [buckeyenotes](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/buckeyenotes/)
+	- [pong](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/pong/)
+	- [owl](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/owl/)
+	- [textual](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/textual/)
+	- [scanbook](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/scanbook/)
+- Misc
+	- [sus](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/sus/README.md)
+	- [what-you-see-is-what-you-git](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/what-you-see-is-what-you-git/README.md)
+	- [keyboardwarrior](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/keyboardwarrior/README.md)
+	- [pocket-monsters](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/pocket-monsters/README.md) ***(Unsolved)***
+- Crypto
+	- [megaxord](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Crypto/megaxord/README.md)
+- Rev
+	- [soda](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Rev/soda/README.md) ***(Unsolved)***
+
 ## Background
 
 - Starts: 11/4/2022, 8:00:00 PM EDT
@@ -51,13 +69,13 @@ Contact [info@osucyber.club](mailto:info@osucyber.club) with any additional ques
 5. IDOR (Insecure Direct Object References) ([scanbook](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/scanbook/))
 
 - Misc:
-1. Audio Steganography ([sus](https://github.com/siunam321/CTF-Writeups/blob/main/BuckeyeCTF-2022/Misc/sus/))
-2. Git Log Forensics ([what-you-see-is-what-you-git](https://github.com/siunam321/CTF-Writeups/blob/main/BuckeyeCTF-2022/Misc/what-you-see-is-what-you-git/))
-3. Inspecting BlueTooth Packets ([keyboardwarrior](https://github.com/siunam321/CTF-Writeups/blob/main/BuckeyeCTF-2022/Misc/keyboardwarrior/))
-4. Reversing Pokemon Save File?? ([pocket-monsters](https://github.com/siunam321/CTF-Writeups/blob/main/BuckeyeCTF-2022/Misc/pocket-monsters/)) ***(Unsolved)***
+1. Audio Steganography ([sus](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/sus/))
+2. Git Log Forensics ([what-you-see-is-what-you-git](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/what-you-see-is-what-you-git/))
+3. Inspecting BlueTooth Packets ([keyboardwarrior](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/keyboardwarrior/))
+4. Reversing Pokemon Save File?? ([pocket-monsters](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/pocket-monsters/)) ***(Unsolved)***
 
 - Crypto:
-1. Brute Forcing XOR Key ([megaxord](https://github.com/siunam321/CTF-Writeups/blob/main/BuckeyeCTF-2022/Crypto/megaxord/))
+1. Brute Forcing XOR Key ([megaxord](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Crypto/megaxord/))
 
 - Rev:
-1. Reversing Java Application ([soda](https://github.com/siunam321/CTF-Writeups/blob/main/BuckeyeCTF-2022/Rev/soda/)) ***(Unsolved)***
+1. Reversing Java Application ([soda](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Rev/soda/)) ***(Unsolved)***
