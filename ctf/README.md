@@ -81,6 +81,13 @@
 	- [Vegeta1](https://siunam321.github.io/ctf/pgplay/Vegeta1/)
 
 * * *
+- [BuckeyeCTF 2022](https://siunam321.github.io/ctf/BuckeyeCTF-2022/)
+	- Web
+	- Misc
+	- Crypto
+	- Rev
+
+* * *
 - [GuidePoint Security Oct27 2022 CTF](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/)
 	- Web
 	- Pwnables

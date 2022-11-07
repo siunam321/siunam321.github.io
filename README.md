@@ -5,9 +5,25 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Nov 3, 2022
+##### Last Update: Nov 7, 2022
 
 - CTF Writeups
+	- [BuckeyeCTF 2022](https://siunam321.github.io/ctf/BuckeyeCTF-2022/), Nov 7, 2022
+		- Web
+			- [buckeyenotes](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/buckeyenotes/))
+			- [pong](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/pong/))
+			- [owl](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/owl/))
+			- [textual](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/textual/))
+			- [scanbook](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/scanbook/))
+		- Misc
+			- [sus](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/sus/README.md))
+			- [what-you-see-is-what-you-git](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/what-you-see-is-what-you-git/README.md))
+			- [keyboardwarrior](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/keyboardwarrior/README.md))
+			- [pocket-monsters](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Misc/pocket-monsters/README.md)) ***(Unsolved)***
+		- Crypto
+			- [megaxord](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Crypto/megaxord/README.md)
+		- Rev
+			- [soda](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Rev/soda/README.md)) ***(Unsolved)***
 	- [GuidePoint Security Oct27 2022 CTF](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/), Oct 31, 2022
 		- Web
 			- [Arbit](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/Web/Arbit/)
