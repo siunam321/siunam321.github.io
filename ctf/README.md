@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [PS Eclipse](https://siunam321.github.io/ctf/tryhackme/PS-Eclipse)
 	- [Templates](https://siunam321.github.io/ctf/tryhackme/Templates)
 	- [Epoch](https://siunam321.github.io/ctf/tryhackme/Epoch)
 	- [WarZone1](https://siunam321.github.io/ctf/tryhackme/WarZone1)
