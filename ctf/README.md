@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [PrintNightmare, thrice!](https://siunam321.github.io/ctf/tryhackme/PrintNightmare-thrice)
 	- [PS Eclipse](https://siunam321.github.io/ctf/tryhackme/PS-Eclipse)
 	- [Templates](https://siunam321.github.io/ctf/tryhackme/Templates)
 	- [Epoch](https://siunam321.github.io/ctf/tryhackme/Epoch)
