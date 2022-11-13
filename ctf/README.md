@@ -83,6 +83,13 @@
 	- [Vegeta1](https://siunam321.github.io/ctf/pgplay/Vegeta1/)
 
 * * *
+- [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/)
+	- Web
+	- Forensics
+	- Misc
+	- Crypto
+
+* * *
 - [BuckeyeCTF 2022](https://siunam321.github.io/ctf/BuckeyeCTF-2022/)
 	- Web
 	- Misc

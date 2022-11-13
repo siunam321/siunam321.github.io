@@ -5,9 +5,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Nov 9, 2022
+##### Last Update: Nov 11, 2022
 
 - CTF Writeups
+	- [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/), Nov 11, 2022
+		- 
 	- [BuckeyeCTF 2022](https://siunam321.github.io/ctf/BuckeyeCTF-2022/), Nov 7, 2022
 		- Web
 			- [buckeyenotes](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/buckeyenotes/)
