@@ -4,6 +4,21 @@
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/HKCERT-CTF-2022/images/banner.png)
 
+## Writeups
+
+- Web:
+	- [Back to the Past](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/Back-to-the-Past/)
+	- [Spyce](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/Spyce/)
+	- [Secured Web Service](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/Secured-Web-Service/)
+	- [CVE 1999](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/CVE-1999/)
+	- [protoTYPE:v2 - sanityXSS](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/protoTYPEv2-sanityXSS/) ***(Unsolved)***
+- Forensics:
+	- [SD Card](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Forensics/SD-Card/)
+- Misc:
+	- [Zoonn Recording](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Misc/Zoonn-Recording/)
+- Crypto:
+	- [Catch-22](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Crypto/Catch-22/)
+
 ## Background
 
 - Starts: 11 November 2022, 6:00PM HKT

@@ -197,6 +197,7 @@ em":0,"x":15,"y" | e3dd02803671e9359bef00fbc4936c1e
 **You can see that we have a new ciphertext block which filled with bunch of 0's.**
 
 **Now, what if I move the second ciphertext block (0's) to between the fourth and the fifth blocks? If we successfully modify the ciphertext block, it'll be:**
+
 Plaintext Block  | Ciphertext Block
 -----------------|------------------------
 {"username":"siu | aca1fae0ede7f469260b38ab325fc0a7

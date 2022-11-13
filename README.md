@@ -18,7 +18,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- Forensics:
 			- [SD Card](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Forensics/SD-Card/)
 		- Misc:
-			- [Zoonn Recording](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Forensics/Zoonn-Recording/)
+			- [Zoonn Recording](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Misc/Zoonn-Recording/)
 		- Crypto:
 			- [Catch-22](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Crypto/Catch-22/)
 
