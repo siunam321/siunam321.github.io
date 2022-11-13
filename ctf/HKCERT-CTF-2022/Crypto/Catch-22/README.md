@@ -183,8 +183,8 @@ Plaintext Block  | Ciphertext Block
 {"username":"siu | aca1fae0ede7f469260b38ab325fc0a7
 0,0,0,0,0,0,0,0  | 8c1842fb0df889fd6ed5416f7507a0b0
 0nam","x":13,"y" | 5762c9742bf323de4593eee85eca5067
-:5,"inventory":\[ | f90d10d66852d845107a087525c48918
-],"onMapItems":\[ | 42924e9de696556ccd87cd2fc3521bb5
+:5,"inventory":[ | f90d10d66852d845107a087525c48918
+],"onMapItems":[ | 42924e9de696556ccd87cd2fc3521bb5
 {"item":0,"x":3, | a3b6abc3b51b9451c9830d89b581440c
 "y":4},{"item":1 | f7e8419ca8f122e0493ddfc213523685
 ,"x":4,"y":5},{" | 8922e4617b39d6b06abdbb05c8b1a619
@@ -201,9 +201,9 @@ Plaintext Block  | Ciphertext Block
 -----------------|------------------------
 {"username":"siu | aca1fae0ede7f469260b38ab325fc0a7
 0nam","x":13,"y" | 5762c9742bf323de4593eee85eca5067
-:5,"inventory":\[ | f90d10d66852d845107a087525c48918
+:5,"inventory":[ | f90d10d66852d845107a087525c48918
 0,0,0,0,0,0,0,0  | 8c1842fb0df889fd6ed5416f7507a0b0
-],"onMapItems":\[ | 42924e9de696556ccd87cd2fc3521bb5
+],"onMapItems":[ | 42924e9de696556ccd87cd2fc3521bb5
 {"item":0,"x":3, | a3b6abc3b51b9451c9830d89b581440c
 "y":4},{"item":1 | f7e8419ca8f122e0493ddfc213523685
 ,"x":4,"y":5},{" | 8922e4617b39d6b06abdbb05c8b1a619

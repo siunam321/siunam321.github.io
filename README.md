@@ -9,7 +9,19 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 - CTF Writeups
 	- [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/), Nov 11, 2022
-		- 
+		- Web:
+			- [Back to the Past](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/Back-to-the-Past/)
+			- [Spyce](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/Spyce/)
+			- [Secured Web Service](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/Secured-Web-Service/)
+			- [CVE 1999](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/CVE-1999/)
+			- [protoTYPE:v2 - sanityXSS](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Web/protoTYPEv2-sanityXSS/) ***(Unsolved)***
+		- Forensics:
+			- [SD Card](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Forensics/SD-Card/)
+		- Misc:
+			- [Zoonn Recording](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Forensics/Zoonn-Recording/)
+		- Crypto:
+			- [Catch-22](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Crypto/Catch-22/)
+
 	- [BuckeyeCTF 2022](https://siunam321.github.io/ctf/BuckeyeCTF-2022/), Nov 7, 2022
 		- Web
 			- [buckeyenotes](https://siunam321.github.io/ctf/BuckeyeCTF-2022/Web/buckeyenotes/)
