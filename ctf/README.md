@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [Neighbour](https://siunam321.github.io/ctf/tryhackme/Neighbour)
 	- [PrintNightmare, thrice!](https://siunam321.github.io/ctf/tryhackme/PrintNightmare-thrice)
 	- [PS Eclipse](https://siunam321.github.io/ctf/tryhackme/PS-Eclipse)
 	- [Templates](https://siunam321.github.io/ctf/tryhackme/Templates)
