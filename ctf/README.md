@@ -2,6 +2,7 @@
 
 * * *
 - TryHackMe
+	- [toc2](https://siunam321.github.io/ctf/tryhackme/toc2)
 	- [harder](https://siunam321.github.io/ctf/tryhackme/harder)
 	- [Neighbour](https://siunam321.github.io/ctf/tryhackme/Neighbour)
 	- [PrintNightmare, thrice!](https://siunam321.github.io/ctf/tryhackme/PrintNightmare-thrice)
