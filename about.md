@@ -8,6 +8,12 @@ In around mid January 2022, I was randomly watching YouTube videos, and suddenly
 
 Started on 12nd March 2022, I started to learn ethical hacking much deeper, and registered a [TryHackMe](https://tryhackme.com/p/siunam) account and learning all the fundamentals from scratch, and constantly writing CTF writeups, taking part in CTF competitions, and so on.
 
+# Timeline
+
+- Mid January 2022: Started my ethical hacking journey
+- 12nd March 2022: Registered [TryHackMe](https://tryhackme.com/) account
+- 29th March 2022: Played my first CTF competition ([NahamCon CTF 2022](https://ctftime.org/event/1630/): [Writeup](https://siunam321.github.io/ctf/))
+
 # Contact Me
 
 - Email: [siunam321atcybersec@gmail.com](mailto:siunam321atcybersec@gmail.com)
