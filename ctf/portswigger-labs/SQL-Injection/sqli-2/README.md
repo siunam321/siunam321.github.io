@@ -16,19 +16,19 @@ To solve the lab, perform an SQL injection attack that logs in to the applicatio
 
 **Home page:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQLi-2/images/Pasted%20image%2020221203042233.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQL-Injection/SQLi-2/images/Pasted%20image%2020221203042233.png)
 
 **We can see that there is a `My account` link, let's enumerate that page!**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQLi-2/images/Pasted%20image%2020221203042315.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQL-Injection/SQLi-2/images/Pasted%20image%2020221203042315.png)
 
 It's a login form!
 
 We can try to guess the `administrator` user's password! Like `administrator:password`
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQLi-2/images/Pasted%20image%2020221203042442.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQL-Injection/SQLi-2/images/Pasted%20image%2020221203042442.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQLi-2/images/Pasted%20image%2020221203042449.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQL-Injection/SQLi-2/images/Pasted%20image%2020221203042449.png)
 
 Nope. It didn't work.
 
@@ -57,11 +57,11 @@ As you can see, **we've commented out the `AND` clause**, which means we don't n
 
 **Let's use that payload to bypass the authentication!**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQLi-2/images/Pasted%20image%2020221203043239.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQL-Injection/SQLi-2/images/Pasted%20image%2020221203043239.png)
 
 > Note: The password can be anything.
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQLi-2/images/Pasted%20image%2020221203043006.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQL-Injection/SQLi-2/images/Pasted%20image%2020221203043006.png)
 
 **We're logged in as user `administrator`!**
 
