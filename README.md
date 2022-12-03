@@ -34,6 +34,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- Portswigger Labs
 		- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-1), Dec 3, 2022
+		- [SQL injection vulnerability allowing login bypass](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-2), Dec 3, 2022
 
 * * *
 - Blog
