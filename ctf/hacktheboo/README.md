@@ -71,7 +71,7 @@ For all these questions, we have the answer: **Hack The Boo CTF**.
 5. Decrypting AES 256 CBC via Capturing Decryption Key in GDB ([Secured Transfer](https://siunam321.github.io/ctf/hacktheboo/Reversing/Secured-Transfer/))
 
 - Crypto:
-1. Decrypting Encrypted Message via Basic Modular Arithmetic ([Gonna-Left-Em-All](https://siunam321.github.io/ctf/hacktheboo/Crypto/Gonna-Left-Em-All/))
+1. Decrypting Encrypted Message via Basic Modular Arithmetic ([Gonna-Lift-Em-All](https://siunam321.github.io/ctf/hacktheboo/Crypto/Gonna-Lift-Em-All/))
 
 - Forensics:
 1. Inspecting `pcap` File via WireShark ([Wrong Spooky Season](https://siunam321.github.io/ctf/hacktheboo/Forensics/Wrong-Spooky-Season/))
