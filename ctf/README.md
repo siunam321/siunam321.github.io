@@ -90,6 +90,7 @@
 - Portswigger Labs
 	- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-1), Dec 3, 2022
 	- [SQL injection vulnerability allowing login bypass](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-2)
+	- [SQL injection UNION attack, determining the number of columns returned by the query](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-3)
 
 * * *
 - [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/)
