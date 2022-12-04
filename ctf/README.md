@@ -93,6 +93,7 @@
 	- [SQL injection UNION attack, determining the number of columns returned by the query](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-3)
 	- [SQL injection UNION attack, finding a column containing text](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-4)
 	- [SQL injection UNION attack, retrieving data from other tables](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-5)
+	- [SQL injection UNION attack, retrieving multiple values in a single column](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-6)
 
 * * *
 - [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/)

@@ -38,6 +38,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [SQL injection UNION attack, determining the number of columns returned by the query](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-3), Dec 4, 2022
 		- [SQL injection UNION attack, finding a column containing text](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-4), Dec 4, 2022
 		- [SQL injection UNION attack, retrieving data from other tables](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-5), Dec 4, 2022
+		- [SQL injection UNION attack, retrieving multiple values in a single column](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-6), Dec 4, 2022
 
 * * *
 - Blog
