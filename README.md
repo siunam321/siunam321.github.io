@@ -33,11 +33,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- Portswigger Labs
+		- [SQL injection attack, listing the database contents on Oracle](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-10), Dec 5, 2022
 		- [SQL injection attack, listing the database contents on non-Oracle databases](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-9), Dec 5, 2022
 		- [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-8), Dec 5, 2022
 		- [SQL injection attack, querying the database type and version on Oracle](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-7), Dec 4, 2022
 		- [SQL injection UNION attack, finding a column containing text](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-4), Dec 4, 2022
-		- [SQL injection UNION attack, determining the number of columns returned by the query](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-3), Dec 4, 2022
 
 * * *
 - Blog
