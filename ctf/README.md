@@ -88,6 +88,7 @@
 
 * * *
 - Portswigger Labs
+	- [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-8)
 	- [SQL injection attack, querying the database type and version on Oracle](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-7)
 	- [SQL injection UNION attack, retrieving multiple values in a single column](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-6)
 	- [SQL injection UNION attack, retrieving data from other tables](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-5)
