@@ -88,6 +88,7 @@
 
 * * *
 - Portswigger Labs
+	- [Blind SQL injection with conditional responses](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-11)
 	- [SQL injection attack, listing the database contents on Oracle](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-10)
 	- [SQL injection attack, listing the database contents on non-Oracle databases](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-9)
 	- [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-8)
