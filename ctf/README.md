@@ -89,7 +89,7 @@
 * * *
 - Portswigger Labs
 	- SQL injection
-		- [Blind SQL injection with time delays and information retrieval](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13)
+		- [Blind SQL injection with time delays and information retrieval](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-14)
 		- [Blind SQL injection with conditional errors](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-12)
 		- [Blind SQL injection with conditional responses](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-11)
 		- [SQL injection attack, listing the database contents on Oracle](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-10)
