@@ -62,7 +62,7 @@ We indeed triggered an error.
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/SQL-Injection/SQLi-12/images/Pasted%20image%2020221207055814.png)
 
-Still error?? Looks like it's using Oracle database. In SQL injection [lab 7](https://github.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/SQL-Injection/SQLi-7/README.md), we found that Oracle database **must have `FROM` clause in `SELECT` statement.**
+Still error?? Looks like it's using Oracle database. In SQL injection [lab 7](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-7/), we found that Oracle database **must have `FROM` clause in `SELECT` statement.**
 
 To solve this problem, **we can use the `dual` in-memory table:**
 
