@@ -34,7 +34,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- Portswigger Labs
 		- SQL injection
-			- [Blind SQL injection with conditional errors](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13), Dec 8, 2022
+			- [Blind SQL injection with time delays and information retrieval](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13), Dec 8, 2022
 			- [Blind SQL injection with conditional errors](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-12), Dec 7, 2022
 			- [Blind SQL injection with conditional responses](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-11), Dec 6, 2022
 			- [SQL injection attack, listing the database contents on Oracle](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-10), Dec 5, 2022
