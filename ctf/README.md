@@ -89,6 +89,7 @@
 * * *
 - Portswigger Labs
 	- SQL injection
+		- [SQL injection with filter bypass via XML encoding](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-17)
 		- [Blind SQL injection with time delays and information retrieval](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-14)
 		- [Blind SQL injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13)
 		- [Blind SQL injection with conditional errors](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-12)
