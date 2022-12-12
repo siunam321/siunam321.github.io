@@ -89,6 +89,7 @@
 * * *
 - Portswigger Labs
 	- Directory Traversal
+		- [File path traversal, traversal sequences stripped non-recursively](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-3)
 		- [File path traversal, traversal sequences blocked with absolute path bypass](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-2)
 		- [File path traversal, simple case](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-1)
 	- SQL injection
