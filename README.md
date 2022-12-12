@@ -34,6 +34,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Access Control
+			- [Unprotected admin functionality with unpredictable URL](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-2), Dec 12, 2022
 			- [Unprotected admin functionality](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-1), Dec 12, 2022
 		- Directory Traversal
 			- [File path traversal, validation of file extension with null byte bypass](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-6), Dec 12, 2022
