@@ -88,6 +88,8 @@
 
 * * *
 - PortSwigger Labs
+	- Access Control
+		- [Unprotected admin functionality](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-1)
 	- Directory Traversal
 		- [File path traversal, validation of file extension with null byte bypass](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-6)
 		- [File path traversal, validation of start of path](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-5)
