@@ -89,6 +89,7 @@
 * * *
 - PortSwigger Labs
 	- Access Control
+		- [User role can be modified in user profile](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-4)
 		- [User role controlled by request parameter](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-3)
 		- [Unprotected admin functionality with unpredictable URL](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-2)
 		- [Unprotected admin functionality](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-1)
