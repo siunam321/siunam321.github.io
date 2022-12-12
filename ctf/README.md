@@ -89,6 +89,7 @@
 * * *
 - Portswigger Labs
 	- Directory Traversal
+		- [File path traversal, validation of file extension with null byte bypass](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-6)
 		- [File path traversal, validation of start of path](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-5)
 		- [File path traversal, traversal sequences stripped with superfluous URL-decode](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-4)
 		- [File path traversal, traversal sequences stripped non-recursively](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-3)
