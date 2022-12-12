@@ -34,16 +34,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- Portswigger Labs
 		- Directory Traversal
+			- [File path traversal, validation of start of path](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-5), Dec 12, 2022
 			- [File path traversal, traversal sequences stripped with superfluous URL-decode](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-4), Dec 12, 2022
 			- [File path traversal, traversal sequences stripped non-recursively](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-3), Dec 12, 2022
 			- [File path traversal, traversal sequences blocked with absolute path bypass](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-2), Dec 12, 2022
 			- [File path traversal, simple case](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-1), Dec 12, 2022
-		- SQL injection
-			- [SQL injection with filter bypass via XML encoding](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-17), Dec 11, 2022
-			- [Blind SQL injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13), Dec 9, 2022
-			- [Blind SQL injection with time delays and information retrieval](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-14), Dec 8, 2022
-			- [Blind SQL injection with conditional errors](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-12), Dec 7, 2022
-			- [Blind SQL injection with conditional responses](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-11), Dec 6, 2022
 
 * * *
 - Blog
