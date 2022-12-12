@@ -88,6 +88,8 @@
 
 * * *
 - Portswigger Labs
+	- Directory Traversal
+		- [File path traversal, simple case](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-1)
 	- SQL injection
 		- [SQL injection with filter bypass via XML encoding](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-17)
 		- [Blind SQL injection with time delays and information retrieval](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-14)
