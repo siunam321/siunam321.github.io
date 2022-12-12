@@ -32,7 +32,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Support](https://siunam321.github.io/ctf/hackthebox/Support/), Sept 25, 2022
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
-	- Portswigger Labs
+	- PortSwigger Labs
 		- Directory Traversal
 			- [File path traversal, validation of file extension with null byte bypass](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-6), Dec 12, 2022
 			- [File path traversal, validation of start of path](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-5), Dec 12, 2022

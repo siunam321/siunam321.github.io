@@ -87,7 +87,7 @@
 	- [Vegeta1](https://siunam321.github.io/ctf/pgplay/Vegeta1/)
 
 * * *
-- Portswigger Labs
+- PortSwigger Labs
 	- Directory Traversal
 		- [File path traversal, validation of file extension with null byte bypass](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-6)
 		- [File path traversal, validation of start of path](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-5)
