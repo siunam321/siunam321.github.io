@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 12, 2022
+##### Last Update: Dec 13, 2022
 
 - CTF Writeups
 	- [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/), Nov 11, 2022
@@ -22,11 +22,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- Crypto
 			- [Catch-22](https://siunam321.github.io/ctf/HKCERT-CTF-2022/Crypto/Catch-22/)
 	- TryHackMe
+		- [Madeye's Castle](https://siunam321.github.io/ctf/tryhackme/Madeyes-Castle), Dec 13, 2022
 		- [Warzone 2](https://siunam321.github.io/ctf/tryhackme/Warzone2), Dec 2, 2022
 		- [toc2](https://siunam321.github.io/ctf/tryhackme/toc2), Nov 24, 2022
 		- [harder](https://siunam321.github.io/ctf/tryhackme/harder), Nov 20, 2022
 		- [Neighbour](https://siunam321.github.io/ctf/tryhackme/Neighbour), Nov 15, 2022
-		- [PrintNightmare, thrice!](https://siunam321.github.io/ctf/tryhackme/PrintNightmare-thrice), Nov 9, 2022
 	- HackTheBox
 		- [Shoppy](https://siunam321.github.io/ctf/hackthebox/Shoppy/), Oct 15, 2022
 		- [Support](https://siunam321.github.io/ctf/hackthebox/Support/), Sept 25, 2022
