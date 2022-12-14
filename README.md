@@ -34,11 +34,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Access Control
+			- [User ID controlled by request parameter with data leakage in redirect](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-7), Dec 14, 2022
 			- [User ID controlled by request parameter, with unpredictable user IDs](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-6), Dec 14, 2022
 			- [User ID controlled by request parameter](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-5), Dec 14, 2022
 			- [User role can be modified in user profile](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-4), Dec 12, 2022
 			- [User role controlled by request parameter](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-3), Dec 12, 2022
-			- [Unprotected admin functionality with unpredictable URL](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-2), Dec 12, 2022
 		- Directory Traversal
 			- [File path traversal, validation of file extension with null byte bypass](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-6), Dec 12, 2022
 			- [File path traversal, validation of start of path](https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-5), Dec 12, 2022
