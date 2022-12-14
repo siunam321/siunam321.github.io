@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 13, 2022
+##### Last Update: Dec 14, 2022
 
 - CTF Writeups
 	- [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/), Nov 11, 2022
@@ -34,6 +34,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Access Control
+			- [User ID controlled by request parameter](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-5), Dec 14, 2022
 			- [User role can be modified in user profile](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-4), Dec 12, 2022
 			- [User role controlled by request parameter](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-3), Dec 12, 2022
 			- [Unprotected admin functionality with unpredictable URL](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-2), Dec 12, 2022
