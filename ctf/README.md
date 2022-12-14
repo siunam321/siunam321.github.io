@@ -90,6 +90,7 @@
 * * *
 - PortSwigger Labs
 	- Access Control
+		- [User ID controlled by request parameter, with unpredictable user IDs](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-6)
 		- [User ID controlled by request parameter](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-5)
 		- [User role can be modified in user profile](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-4)
 		- [User role controlled by request parameter](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-3)
