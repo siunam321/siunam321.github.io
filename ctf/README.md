@@ -90,6 +90,7 @@
 * * *
 - PortSwigger Labs
 	- Access Control
+		- [Insecure direct object references](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-9)
 		- [User ID controlled by request parameter with password disclosure](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-8)
 		- [User ID controlled by request parameter with data leakage in redirect](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-7)
 		- [User ID controlled by request parameter, with unpredictable user IDs](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-6)
