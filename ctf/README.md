@@ -90,6 +90,7 @@
 * * *
 - PortSwigger Labs
 	- Access Control
+		- [Multi-step process with no access control on one step](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-12)
 		- [Method-based access control can be circumvented](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-11)
 		- [URL-based access control can be circumvented](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-10)
 		- [Insecure direct object references](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-9)
