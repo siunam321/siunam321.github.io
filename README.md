@@ -34,11 +34,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Access Control
+			- [Method-based access control can be circumvented](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-11), Dec 14, 2022
 			- [URL-based access control can be circumvented](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-10), Dec 14, 2022
 			- [Insecure direct object references](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-9), Dec 14, 2022
 			- [User ID controlled by request parameter with password disclosure](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-8), Dec 14, 2022
 			- [User ID controlled by request parameter with data leakage in redirect](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-7), Dec 14, 2022
-			- [User ID controlled by request parameter, with unpredictable user IDs](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-6), Dec 14, 2022
 
 * * *
 - Blog
