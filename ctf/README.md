@@ -1,4 +1,4 @@
-# CTF Writeups
+<!-- # CTF Writeups -->
 
 <!-- * * *
 - TryHackMe
@@ -219,6 +219,8 @@
 }
 </script>
 
+<h1>CTF Writeups</h1>
+<hr>
 <div class="tab">
 	<button class="tablinks" onmouseover="openTab(event, 'TryHackMe')">TryHackMe</button>
 	<button class="tablinks" onmouseover="openTab(event, 'HackTheBox')">HackTheBox</button>
