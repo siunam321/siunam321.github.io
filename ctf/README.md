@@ -2,17 +2,16 @@
 * * *
 
 ## Table of Content
-* * *
-1. [TryHackMe](#tryhackme)
-2. [HackTheBox](#hackthebox)
-3. [Proving Grounds Play](#proving-grounds-play)
-4. [PortSwigger Labs](#portswigger-labs)
-5. [HKCERT CTF 2022](#hkcert-ctf-2022)
-6. [BuckeyeCTF 2022](#buckeyectf-2022)
-7. [GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)
-8. [Hack The Boo](#hack-the-boo)
-9. [Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)
-10. [NahamCon CTF 2022](#nahamcon-ctf-2022)
+1. **[TryHackMe](#tryhackme)**
+2. **[HackTheBox](#hackthebox)**
+3. **[Proving Grounds Play](#proving-grounds-play)**
+4. **[PortSwigger Labs](#portswigger-labs)**
+5. **[HKCERT CTF 2022](#hkcert-ctf-2022)**
+6. **[BuckeyeCTF 2022](#buckeyectf-2022)**
+7. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**
+8. **[Hack The Boo](#hack-the-boo)**
+9. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**
+10. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
 
 * * *
 ## TryHackMe
