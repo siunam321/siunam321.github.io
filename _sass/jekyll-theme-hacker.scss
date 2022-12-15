@@ -289,7 +289,7 @@ a {
     border: 1px solid #ccc;
     background-color: #f1f1f1;
     width: 30%;
-    height: 300px;
+    height: auto;
 }
   
 /* Style the buttons that are used to open the tab content */
@@ -322,6 +322,6 @@ a {
     border: 1px solid #ccc;
     width: 50%;
     border-left: none;
-    height: 300px;
+    height: auto;
     display: none;
 }
