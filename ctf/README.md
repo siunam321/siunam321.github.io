@@ -89,6 +89,8 @@
 
 * * *
 - PortSwigger Labs
+	- CSRF
+		- [CSRF vulnerability with no defenses](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-1)
 	- Access Control
 		- [Referer-based access control](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-13)
 		- [Multi-step process with no access control on one step](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-12)
