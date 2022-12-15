@@ -34,11 +34,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- CSRF
+			- [CSRF where Referer validation depends on header being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7), Dec 15, 2022
 			- [CSRF where token is duplicated in cookie](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-6), Dec 15, 2022
 			- [CSRF where token is tied to non-session cookie](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-5), Dec 15, 2022
 			- [CSRF where token is not tied to user session](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-4), Dec 15, 2022
 			- [CSRF where token validation depends on token being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-3), Dec 15, 2022
-			- [CSRF where token validation depends on request method](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-2), Dec 15, 2022
 		- Access Control
 			- [Referer-based access control](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-13), Dec 14, 2022
 			- [Multi-step process with no access control on one step](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-12), Dec 14, 2022
