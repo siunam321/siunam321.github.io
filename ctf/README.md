@@ -90,6 +90,7 @@
 * * *
 - PortSwigger Labs
 	- CSRF
+		- [CSRF where token validation depends on request method](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-2)
 		- [CSRF vulnerability with no defenses](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-1)
 	- Access Control
 		- [Referer-based access control](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-13)
