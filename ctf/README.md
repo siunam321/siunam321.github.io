@@ -1,6 +1,6 @@
 # CTF Writeups
 
-* * *
+<!-- * * *
 - TryHackMe
 	- [Madeye's Castle](https://siunam321.github.io/ctf/tryhackme/Madeyes-Castle)
 	- [Warzone 2](https://siunam321.github.io/ctf/tryhackme/Warzone2)
@@ -194,8 +194,7 @@
 		- [Wizard](https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Wizard/)
 	- Web
 		- [EXtravagant](https://siunam321.github.io/ctf/nahamconctf2022/Web/EXtravagant/)
-		- [Jurassic Park](https://siunam321.github.io/ctf/nahamconctf2022/Web/Jurassic-Park/)
-
+		- [Jurassic Park](https://siunam321.github.io/ctf/nahamconctf2022/Web/Jurassic-Park/) -->
 
 <script>
 	function openTab(evt, tabName) {
@@ -221,12 +220,19 @@
 </script>
 
 <div class="tab">
-    <button class="tablinks" onmouseover="openTab(event, 'TryHackMe')">TryHackMe</button>
-    <button class="tablinks" onmouseover="openTab(event, 'Paris')">Paris</button>
-    <button class="tablinks" onmouseover="openTab(event, 'Tokyo')">Tokyo</button>
-  </div>
-  
-  <div id="TryHackMe" class="tabcontent">
+	<button class="tablinks" onmouseover="openTab(event, 'TryHackMe')">TryHackMe</button>
+	<button class="tablinks" onmouseover="openTab(event, 'HackTheBox')">HackTheBox</button>
+	<button class="tablinks" onmouseover="openTab(event, 'Proving Grounds Play')">Proving Grounds Play</button>
+	<button class="tablinks" onmouseover="openTab(event, 'PortSwigger Labs')">PortSwigger Labs</button>
+	<button class="tablinks" onmouseover="openTab(event, 'HKCERT CTF 2022')">HKCERT CTF 2022</button>
+	<button class="tablinks" onmouseover="openTab(event, 'BuckeyeCTF 2022')">BuckeyeCTF 2022</button>
+	<button class="tablinks" onmouseover="openTab(event, 'GuidePoint Security Oct27 2022 CTF')">GuidePoint Security Oct27 2022 CTF</button>
+	<button class="tablinks" onmouseover="openTab(event, 'Hack The Boo')">Hack The Boo</button>
+	<button class="tablinks" onmouseover="openTab(event, 'Cyber Apocalypse CTF 2022')">Cyber Apocalypse CTF 2022</button>
+	<button class="tablinks" onmouseover="openTab(event, 'NahamCon CTF 2022')">NahamCon CTF 2022</button>
+</div>
+
+<div id="TryHackMe" class="tabcontent">
 	<ul>
 		<li><a href="https://siunam321.github.io/ctf/tryhackme/Madeyes-Castle">Madeye&#39;s Castle</a></li>
 		<li><a href="https://siunam321.github.io/ctf/tryhackme/Warzone2">Warzone 2</a></li>
@@ -284,14 +290,212 @@
 		<li><a href="https://siunam321.github.io/ctf/tryhackme/VulnNet/">VulnNet</a></li>
 		<li><a href="https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/">VulnNet:Roasted</a></li>
 	</ul>  
-  </div>
-  
-  <div id="Paris" class="tabcontent">
-    <h3>Paris</h3>
-    <p>Paris is the capital of France.</p>
-  </div>
-  
-  <div id="Tokyo" class="tabcontent">
-    <h3>Tokyo</h3>
-    <p>Tokyo is the capital of Japan.</p>
+</div>
+
+<div id="HackTheBox" class="tabcontent">
+	<ul>
+		<li><a href="https://siunam321.github.io/ctf/hackthebox/Shoppy/">Shoppy</a></li>
+		<li><a href="https://siunam321.github.io/ctf/hackthebox/Support/">Support</a></li>
+		<li><a href="https://siunam321.github.io/ctf/hackthebox/OpenSource/">OpenSource</a></li>
+		<li><a href="https://siunam321.github.io/ctf/hackthebox/RedPanda/">RedPanda</a></li>
+	</ul>
+</div>
+
+<div id="Proving Grounds Play" class="tabcontent">
+	<ul>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/DC-9/">DC-9</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/ICMP/">ICMP</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/My-CMSMS/">My-CMSMS</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/GlasgowSmile/">GlasgowSmile</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/Deception/">Deception</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/Tre/">Tre</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/Assertion101/">Assertion101</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/BTRSys2.1/">BTRSys2.1</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/SunsetMidnight/">SunsetMidnight</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/SoSimple/">SoSimple</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/FunBox/">FunBox</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/Election1/">Election1</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/NoName/">NoName</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/BBSCute/">BBSCute</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/Ha-natraj/">Ha-natraj</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/HAWordy/">HAWordy</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/Loly/">Loly</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/Pwned1/">Pwned1</a></li>
+		<li><a href="https://siunam321.github.io/ctf/pgplay/Vegeta1/">Vegeta1</a></li>
+	</ul>
+</div>
+
+<div id="PortSwigger Labs" class="tabcontent">
+	<ul>
+		<li>CSRF
+			<ul>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8">CSRF with broken Referer validation</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7">CSRF where Referer validation depends on header being present</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-6">CSRF where token is duplicated in cookie</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-5">CSRF where token is tied to non-session cookie</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-4">CSRF where token is not tied to user session</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-3">CSRF where token validation depends on token being present</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-2">CSRF where token validation depends on request method</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-1">CSRF vulnerability with no defenses</a></li>
+			</ul>
+		</li>
+	</ul>
+	<ul>
+		<li>Access Control
+			<ul>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-13">Referer-based access control</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-12">Multi-step process with no access control on one step</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-11">Method-based access control can be circumvented</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-10">URL-based access control can be circumvented</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-9">Insecure direct object references</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-8">User ID controlled by request parameter with password disclosure</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-7">User ID controlled by request parameter with data leakage in redirect</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-6">User ID controlled by request parameter, with unpredictable user IDs</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-5">User ID controlled by request parameter</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-4">User role can be modified in user profile</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-3">User role controlled by request parameter</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-2">Unprotected admin functionality with unpredictable URL</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-1">Unprotected admin functionality</a></li>
+			</ul>
+		</li>
+	</ul>
+	<ul>
+		<li>Directory Traversal
+			<ul>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-6">File path traversal, validation of file extension with null byte bypass</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-5">File path traversal, validation of start of path</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-4">File path traversal, traversal sequences stripped with superfluous URL-decode</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-3">File path traversal, traversal sequences stripped non-recursively</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-2">File path traversal, traversal sequences blocked with absolute path bypass</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/Directory-Traversal/dt-1">File path traversal, simple case</a></li>
+			</ul>
+		</li>
+	</ul>
+	<ul>
+		<li>SQL injection
+			<ul>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-17">SQL injection with filter bypass via XML encoding</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-14">Blind SQL injection with time delays and information retrieval</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13">Blind SQL injection with time delays</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-12">Blind SQL injection with conditional errors</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-11">Blind SQL injection with conditional responses</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-10">SQL injection attack, listing the database contents on Oracle</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-9">SQL injection attack, listing the database contents on non-Oracle databases</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-8">SQL injection attack, querying the database type and version on MySQL and Microsoft</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-7">SQL injection attack, querying the database type and version on Oracle</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-6">SQL injection UNION attack, retrieving multiple values in a single column</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-5">SQL injection UNION attack, retrieving data from other tables</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-4">SQL injection UNION attack, finding a column containing text</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-3">SQL injection UNION attack, determining the number of columns returned by the query</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-2">SQL injection vulnerability allowing login bypass</a></li>
+				<li><a href="https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-1">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a></li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+<div id="HKCERT CTF 2022" class="tabcontent">
+	<ul>
+		<li><a href="https://siunam321.github.io/ctf/HKCERT-CTF-2022/">HKCERT CTF 2022</a><ul>
+			<li>Web</li>
+			<li>Forensics</li>
+			<li>Misc</li>
+			<li>Crypto</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+<div id="BuckeyeCTF 2022" class="tabcontent">
+	<ul>
+		<li><a href="https://siunam321.github.io/ctf/BuckeyeCTF-2022/">BuckeyeCTF 2022</a><ul>
+			<li>Web</li>
+			<li>Misc</li>
+			<li>Crypto</li>
+			<li>Rev</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+<div id="GuidePoint Security Oct27 2022 CTF" class="tabcontent">
+	<ul>
+		<li><a href="https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/">GuidePoint Security Oct27 2022 CTF</a><ul>
+			<li>Web</li>
+			<li>Pwnables</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+<div id="Hack The Boo" class="tabcontent">
+	<ul>
+		<li><a href="https://siunam321.github.io/ctf/hacktheboo/">Hack The Boo</a><ul>
+			<li>Web</li>
+			<li>Pwn</li>
+			<li>Reversing</li>
+			<li>Forensics</li>
+			<li>Crypto</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+<div id="Cyber Apocalypse CTF 2022" class="tabcontent">
+	<ul>
+	<li>Cyber Apocalypse CTF 2022<ul>
+		<li>Misc<ul>
+			<li><a href="https://siunam321.github.io/ctf/cactf2022/Misc/Compressor/">Compressor</a></li>
+			<li><a href="https://siunam321.github.io/ctf/cactf2022/Misc/Matrioshka-Brain/">Matrioshka Brain</a></li>
+		</ul>
+		</li>
+		<li>Pwn<ul>
+			<li><a href="https://siunam321.github.io/ctf/cactf2022/Pwn/Space-Pirate:Entrypoint/">Space-Pirate:Entrypoint</a></li>
+		</ul>
+		</li>
+		<li>Reversing<ul>
+			<li><a href="https://siunam321.github.io/ctf/cactf2022/Reversing/Omega-One/">Omega One</a></li>
+			<li><a href="https://siunam321.github.io/ctf/cactf2022/Reversing/WIDE/">WIDE</a></li>
+		</ul>
+		</li>
+		<li>Warmup<ul>
+			<li><a href="https://siunam321.github.io/ctf/cactf2022/Warmup/Welcome!/">Welcome!</a></li>
+		</ul>
+		</li>
+		</ul>
+		</li>
+	</ul>
+</div>
+
+<div id="NahamCon CTF 2022" class="tabcontent">
+	<ul>
+		<li>NahamCon CTF 2022<ul>
+			<li>Miscellaneous<ul>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/">One Mantissa Please</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/The-Balloon/">The Balloon</a></li>
+			</ul>
+			</li>
+			<li>OSINT<ul>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/OSINT/Keeber/">Keeber</a></li>
+			</ul>
+			</li>
+			<li>Warmups<ul>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Crash-Override/">Crash Override</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Exit-Vim/">Exit Vim</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Flagcat/">Flagcat</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Prisoner/">Prisoner</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Quirky/">Quirky</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Read-The-Rules/">Read The Rules</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Technical-Support/">Technical Support</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Wizard/">Wizard</a></li>
+			</ul>
+			</li>
+			<li>Web<ul>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Web/EXtravagant/">EXtravagant</a></li>
+				<li><a href="https://siunam321.github.io/ctf/nahamconctf2022/Web/Jurassic-Park/">Jurassic Park</a></li>
+			</ul>
+			</li>
+			</ul>
+		</li>
+	</ul>
 </div>
