@@ -90,6 +90,7 @@
 * * *
 - PortSwigger Labs
 	- CSRF
+		- [CSRF with broken Referer validation](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8)
 		- [CSRF where Referer validation depends on header being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7)
 		- [CSRF where token is duplicated in cookie](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-6)
 		- [CSRF where token is tied to non-session cookie](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-5)
