@@ -34,6 +34,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Information Disclosure
+			- [Information disclosure on debug page](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-2), Dec 16, 2022
 			- [Information disclosure in error messages](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-1), Dec 16, 2022
 		- File Upload Vulnerabilities
 			- [Web shell upload via race condition](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-7), Dec 16, 2022
