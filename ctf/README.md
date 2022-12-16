@@ -103,6 +103,7 @@
 * * *
 ## PortSwigger Labs
 - File Upload Vulnerabilities
+	- [Web shell upload via Content-Type restriction bypass](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-2)
 	- [Remote code execution via web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-1)
 - CSRF
 	- [CSRF with broken Referer validation](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8)
