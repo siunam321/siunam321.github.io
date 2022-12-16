@@ -34,6 +34,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- File Upload Vulnerabilities
+			- [Web shell upload via extension blacklist bypass](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-4), Dec 16, 2022
 			- [Web shell upload via path traversal](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-3), Dec 16, 2022
 			- [Web shell upload via Content-Type restriction bypass](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-2), Dec 16, 2022
 			- [Remote code execution via web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-1), Dec 16, 2022
