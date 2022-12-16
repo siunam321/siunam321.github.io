@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 15, 2022
+##### Last Update: Dec 16, 2022
 
 - CTF Writeups
 	- [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/), Nov 11, 2022
@@ -33,18 +33,14 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
+		- File Upload Vulnerabilities
+			- [Remote code execution via web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-1), Dec 16, 2022
 		- CSRF
 			- [CSRF with broken Referer validation](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8), Dec 15, 2022
 			- [CSRF where Referer validation depends on header being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7), Dec 15, 2022
 			- [CSRF where token is duplicated in cookie](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-6), Dec 15, 2022
 			- [CSRF where token is tied to non-session cookie](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-5), Dec 15, 2022
 			- [CSRF where token is not tied to user session](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-4), Dec 15, 2022
-		- Access Control
-			- [Referer-based access control](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-13), Dec 14, 2022
-			- [Multi-step process with no access control on one step](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-12), Dec 14, 2022
-			- [Method-based access control can be circumvented](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-11), Dec 14, 2022
-			- [URL-based access control can be circumvented](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-10), Dec 14, 2022
-			- [Insecure direct object references](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-9), Dec 14, 2022
 
 * * *
 - Blog

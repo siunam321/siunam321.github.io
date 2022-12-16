@@ -102,6 +102,8 @@
 
 * * *
 ## PortSwigger Labs
+- File Upload Vulnerabilities
+	- [Remote code execution via web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-1)
 - CSRF
 	- [CSRF with broken Referer validation](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8)
 	- [CSRF where Referer validation depends on header being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7)
