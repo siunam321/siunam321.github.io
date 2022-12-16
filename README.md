@@ -34,11 +34,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- File Upload Vulnerabilities
+			- [Web shell upload via race condition](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-7), Dec 16, 2022
 			- [Remote code execution via polyglot web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-6), Dec 16, 2022
 			- [Web shell upload via obfuscated file extension](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-5), Dec 16, 2022
 			- [Web shell upload via extension blacklist bypass](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-4), Dec 16, 2022
 			- [Web shell upload via path traversal](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-3), Dec 16, 2022
-			- [Web shell upload via Content-Type restriction bypass](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-2), Dec 16, 2022
 		- CSRF
 			- [CSRF with broken Referer validation](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8), Dec 15, 2022
 			- [CSRF where Referer validation depends on header being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7), Dec 15, 2022

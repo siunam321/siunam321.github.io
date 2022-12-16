@@ -103,6 +103,7 @@
 * * *
 ## PortSwigger Labs
 - File Upload Vulnerabilities
+	- [Web shell upload via race condition](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-7)
 	- [Remote code execution via polyglot web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-6)
 	- [Web shell upload via obfuscated file extension](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-5)
 	- [Web shell upload via extension blacklist bypass](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-4)
