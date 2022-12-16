@@ -103,6 +103,7 @@
 * * *
 ## PortSwigger Labs
 - File Upload Vulnerabilities
+	- [Web shell upload via path traversal](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-3)
 	- [Web shell upload via Content-Type restriction bypass](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-2)
 	- [Remote code execution via web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-1)
 - CSRF
