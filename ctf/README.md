@@ -102,6 +102,8 @@
 
 * * *
 ## PortSwigger Labs
+- Information Disclosure
+	- [Information disclosure in error messages](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-1)
 - File Upload Vulnerabilities
 	- [Web shell upload via race condition](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-7)
 	- [Remote code execution via polyglot web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-6)
