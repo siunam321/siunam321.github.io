@@ -105,6 +105,7 @@
 - Information Disclosure
 	- [Information disclosure in error messages](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-1)
 	- [Information disclosure on debug page](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-2)
+	- [Source code disclosure via backup files](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-3)
 - File Upload Vulnerabilities
 	- [Remote code execution via web shell upload](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-1)
 	- [Web shell upload via Content-Type restriction bypass](https://siunam321.github.io/ctf/portswigger-labs/File-Upload-Vulnerabilities/fuv-2)
