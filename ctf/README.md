@@ -6,12 +6,13 @@
 2. **[HackTheBox](#hackthebox)**
 3. **[Proving Grounds Play](#proving-grounds-play)**
 4. **[PortSwigger Labs](#portswigger-labs)**
-5. **[HKCERT CTF 2022](#hkcert-ctf-2022)**
-6. **[BuckeyeCTF 2022](#buckeyectf-2022)**
-7. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**
-8. **[Hack The Boo](#hack-the-boo)**
-9. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**
-10. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
+5. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**
+6. **[HKCERT CTF 2022](#hkcert-ctf-2022)**
+7. **[BuckeyeCTF 2022](#buckeyectf-2022)**
+8. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**
+9. **[Hack The Boo](#hack-the-boo)**
+10. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**
+11. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
 
 * * *
 ## TryHackMe
@@ -162,6 +163,11 @@
 	- [Blind SQL injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13)
 	- [Blind SQL injection with time delays and information retrieval](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-14)
 	- [SQL injection with filter bypass via XML encoding](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-17)
+
+* * *
+## [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/)
+- Warmups
+- Web
 
 * * *
 ## [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/)
