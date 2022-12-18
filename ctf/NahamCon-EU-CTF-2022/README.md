@@ -7,15 +7,15 @@
 ## Writeups
 
 - Web:
-	- RCE(Remote Code Execution) via File Upload & Blacklisted Extensions Bypass ([Byepass](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Byepass/))
+	- [Byepass](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Byepass/)
 	- [Use After Exit](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Use-After-Exit/) (***Unsolved***)
 - Warmups:
-	- Converting binary data to ASCII text ([Way 2 Basic](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Way-2-Basic/))
-	- Cracking SHA256 Hash via [CrackStation](https://crackstation.net/) ([Hashstation](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Hashstation/))
-	- Linux Reading File via `cat` ([catscii](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/catscii/))
-	- Converting RGB Color To Hexadecimal ([Arjeebee](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Arjeebee/))
-	- Linux List Strings via `strings` ([Banjo](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Banjo/))
-	- Leaking The Flag via No Input Validation ([Baby's First Heartbleed](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Babys-First-Heartbleed/))
+	- [Way 2 Basic](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Way-2-Basic/)
+	- [Hashstation](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Hashstation/)
+	- [catscii](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/catscii/)
+	- [Arjeebee](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Arjeebee/)
+	- [Banjo](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Banjo/)
+	- [Baby's First Heartbleed](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Babys-First-Heartbleed/)
 
 ## Background
 

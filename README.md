@@ -8,17 +8,16 @@ In this website, you will find things about my ethical hacking journey, like Cap
 ##### Last Update: Dec 18, 2022 (UTC+8)
 
 - CTF Writeups
-	- [NahamCon-EU-CTF-2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/), Dec 18, 2022
-		- Web:
-			- RCE(Remote Code Execution) via File Upload & Blacklisted Extensions Bypass ([Byepass](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Byepass/))
-			- [Use After Exit](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Use-After-Exit/) (***Unsolved***)
-		- Warmups:
-			- Converting binary data to ASCII text ([Way 2 Basic](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Way-2-Basic/))
-			- Cracking SHA256 Hash via [CrackStation](https://crackstation.net/) ([Hashstation](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Hashstation/))
-			- Linux Reading File via `cat` ([catscii](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/catscii/))
-			- Converting RGB Color To Hexadecimal ([Arjeebee](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Arjeebee/))
-			- Linux List Strings via `strings` ([Banjo](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Banjo/))
-			- Leaking The Flag via No Input Validation ([Baby's First Heartbleed](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Babys-First-Heartbleed/))
+	- Web:
+		- [Byepass](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Byepass/)
+		- [Use After Exit](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Use-After-Exit/) (***Unsolved***)
+	- Warmups:
+		- [Way 2 Basic](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Way-2-Basic/)
+		- [Hashstation](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Hashstation/)
+		- [catscii](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/catscii/)
+		- [Arjeebee](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Arjeebee/)
+		- [Banjo](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Banjo/)
+		- [Baby's First Heartbleed](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Babys-First-Heartbleed/)
 	- TryHackMe
 		- [Madeye's Castle](https://siunam321.github.io/ctf/tryhackme/Madeyes-Castle), Dec 13, 2022
 		- [Warzone 2](https://siunam321.github.io/ctf/tryhackme/Warzone2), Dec 2, 2022
