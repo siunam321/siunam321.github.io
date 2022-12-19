@@ -32,6 +32,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- WebSockets
+			- [Manipulating the WebSocket handshake to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-2), Dec 19, 2022
 			- [Manipulating WebSocket messages to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-1), Dec 19, 2022
 		- Information Disclosure
 			- [Information disclosure in version control history](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-5), Dec 16, 2022
