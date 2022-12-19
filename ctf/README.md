@@ -104,8 +104,9 @@
 * * *
 ## PortSwigger Labs
 - WebSockets
-	- [Manipulating the WebSocket handshake to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-2)
 	- [Manipulating WebSocket messages to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-1)
+	- [Manipulating the WebSocket handshake to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-2)
+	- [Cross-site WebSocket hijacking](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-3)
 - Information Disclosure
 	- [Information disclosure in error messages](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-1)
 	- [Information disclosure on debug page](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-2)
