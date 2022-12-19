@@ -14,57 +14,57 @@ This lab's flawed logic allows arbitrary users to access administrative function
 
 **Home page:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219061608.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219061608.png)
 
 **Let's register an account:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219061837.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219061837.png)
 
 In here, we can see that the `DontWannaCry` company is using `dontwannacry.com` as the email domain.
 
 **Also, we can go to `Email client` to get a new email address:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062006.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062006.png)
 
 - Our email: `attacker@exploit-0ae0001703bbf4a6c0e86cfd01cb0052.exploit-server.net`
 
 **Now we can register an account:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062112.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062112.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062147.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062147.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062216.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062216.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062248.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062248.png)
 
 **Let's login as user `attacker`:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062331.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062331.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062406.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062406.png)
 
 **In here, we can try to go to the admin panel at `/admin`:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062518.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062518.png)
 
 Hmm... It's only available to DontWannaCry user.
 
 **Now, what if I change to email address to `attacker@dontwannacry.com`??**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062934.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062934.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219062942.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219062942.png)
 
 We successfully changed the email address to `dontwannacry.com` domain!
 
 Can we access to the admin panel?
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219063026.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219063026.png)
 
 **Yes we can! Let's delete user `carlos`:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3images/Pasted%20image%2020221219063049.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Business-Logic-Vulnerabilities/BLV-3/images/Pasted%20image%2020221219063049.png)
 
 # What we've learned:
 

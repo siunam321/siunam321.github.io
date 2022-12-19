@@ -107,6 +107,7 @@
 	- [Excessive trust in client-side controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-1)
 	- [High-level logic vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-2)
 	- [Inconsistent security controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-3)
+	- [Flawed enforcement of business rules](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-4)
 - WebSockets
 	- [Manipulating WebSocket messages to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-1)
 	- [Manipulating the WebSocket handshake to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-2)

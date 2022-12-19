@@ -32,6 +32,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Business Logic Vulnerabilities
+			- [Flawed enforcement of business rules](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-4), Dec 19, 2022
 			- [Inconsistent security controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-3), Dec 19, 2022
 			- [High-level logic vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-2), Dec 19, 2022
 			- [Excessive trust in client-side controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-1), Dec 19, 2022
