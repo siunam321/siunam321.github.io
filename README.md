@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 18, 2022 (UTC+8)
+##### Last Update: Dec 19, 2022 (UTC+8)
 
 - CTF Writeups
 	- [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/)
@@ -31,6 +31,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
+		- WebSockets
+			- [Manipulating WebSocket messages to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-1), Dec 19, 2022
 		- Information Disclosure
 			- [Information disclosure in version control history](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-5), Dec 16, 2022
 			- [Authentication bypass via information disclosure](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-4), Dec 16, 2022
