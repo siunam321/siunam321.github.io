@@ -32,11 +32,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Business Logic Vulnerabilities
+			- [Inconsistent handling of exceptional input](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-6), Dec 20, 2022
 			- [Low-level logic flaw](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-5), Dec 20, 2022
 			- [Flawed enforcement of business rules](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-4), Dec 19, 2022
 			- [Inconsistent security controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-3), Dec 19, 2022
 			- [High-level logic vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-2), Dec 19, 2022
-			- [Excessive trust in client-side controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-1), Dec 19, 2022
 		- WebSockets
 			- [Cross-site WebSocket hijacking](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-3), Dec 19, 2022
 			- [Manipulating the WebSocket handshake to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-2), Dec 19, 2022
