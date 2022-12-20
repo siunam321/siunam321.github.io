@@ -112,6 +112,7 @@
 	- [Inconsistent handling of exceptional input](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-6)
 	- [Weak isolation on dual-use endpoint](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-7)
 	- [Insufficient workflow validation](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-8)
+	- [Authentication bypass via flawed state machine](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-9)
 - WebSockets
 	- [Manipulating WebSocket messages to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-1)
 	- [Manipulating the WebSocket handshake to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-2)
