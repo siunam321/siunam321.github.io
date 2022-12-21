@@ -32,11 +32,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Authentication
+			- [Broken brute-force protection, IP block](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-6), Dec 21, 2022
 			- [Username enumeration via response timing](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-5), Dec 21, 2022
 			- [Username enumeration via subtly different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-4), Dec 21, 2022
 			- [Password reset broken logic](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-3), Dec 21, 2022
 			- [2FA simple bypass](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-2), Dec 21, 2022
-			- [Username enumeration via different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-1), Dec 21, 2022
 		- Business Logic Vulnerabilities
 			- [Authentication bypass via encryption oracle](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-11), Dec 21, 2022
 			- [Infinite money logic flaw](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-10), Dec 20, 2022
