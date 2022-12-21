@@ -114,6 +114,7 @@
 	- [Insufficient workflow validation](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-8)
 	- [Authentication bypass via flawed state machine](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-9)
 	- [Infinite money logic flaw](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-10)
+	- [Authentication bypass via encryption oracle](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-11)
 - WebSockets
 	- [Manipulating WebSocket messages to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-1)
 	- [Manipulating the WebSocket handshake to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-2)
