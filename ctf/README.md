@@ -103,6 +103,8 @@
 
 * * *
 ## PortSwigger Labs
+- Authentication
+	- [Username enumeration via different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-1)
 - Business Logic Vulnerabilities
 	- [Excessive trust in client-side controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-1)
 	- [High-level logic vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-2)

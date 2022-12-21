@@ -31,16 +31,14 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
+		- Authentication
+			- [Username enumeration via different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-1), Dec 21, 2022
 		- Business Logic Vulnerabilities
 			- [Authentication bypass via encryption oracle](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-11), Dec 21, 2022
 			- [Infinite money logic flaw](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-10), Dec 20, 2022
 			- [Authentication bypass via flawed state machine](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-9), Dec 20, 2022
 			- [Insufficient workflow validation](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-8), Dec 20, 2022
 			- [Weak isolation on dual-use endpoint](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-7), Dec 20, 2022
-		- WebSockets
-			- [Cross-site WebSocket hijacking](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-3), Dec 19, 2022
-			- [Manipulating the WebSocket handshake to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-2), Dec 19, 2022
-			- [Manipulating WebSocket messages to exploit vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/WebSockets/ws-1), Dec 19, 2022
 
 * * *
 - Blog
