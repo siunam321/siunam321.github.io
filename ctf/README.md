@@ -108,6 +108,7 @@
 	- [2FA simple bypass](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-2)
 	- [Password reset broken logic](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-3)
 	- [Username enumeration via subtly different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-4)
+	- [Username enumeration via response timing](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-5)
 - Business Logic Vulnerabilities
 	- [Excessive trust in client-side controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-1)
 	- [High-level logic vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-2)
