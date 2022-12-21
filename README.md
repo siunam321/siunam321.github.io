@@ -32,6 +32,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Authentication
+			- [2FA simple bypass](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-2), Dec 21, 2022
 			- [Username enumeration via different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-1), Dec 21, 2022
 		- Business Logic Vulnerabilities
 			- [Authentication bypass via encryption oracle](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-11), Dec 21, 2022
