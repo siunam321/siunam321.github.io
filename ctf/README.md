@@ -110,6 +110,7 @@
 	- [Username enumeration via subtly different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-4)
 	- [Username enumeration via response timing](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-5)
 	- [Broken brute-force protection, IP block](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-6)
+	- [Username enumeration via account lock](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-7)
 - Business Logic Vulnerabilities
 	- [Excessive trust in client-side controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-1)
 	- [High-level logic vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-2)

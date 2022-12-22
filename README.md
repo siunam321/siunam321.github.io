@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 21, 2022 (UTC+8)
+##### Last Update: Dec 22, 2022 (UTC+8)
 
 - CTF Writeups
 	- [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/)
@@ -32,17 +32,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Authentication
+			- [Username enumeration via account lock](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-7), Dec 22, 2022
 			- [Broken brute-force protection, IP block](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-6), Dec 21, 2022
 			- [Username enumeration via response timing](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-5), Dec 21, 2022
 			- [Username enumeration via subtly different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-4), Dec 21, 2022
 			- [Password reset broken logic](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-3), Dec 21, 2022
-			- [2FA simple bypass](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-2), Dec 21, 2022
-		- Business Logic Vulnerabilities
-			- [Authentication bypass via encryption oracle](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-11), Dec 21, 2022
-			- [Infinite money logic flaw](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-10), Dec 20, 2022
-			- [Authentication bypass via flawed state machine](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-9), Dec 20, 2022
-			- [Insufficient workflow validation](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-8), Dec 20, 2022
-			- [Weak isolation on dual-use endpoint](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-7), Dec 20, 2022
 
 * * *
 - Blog
