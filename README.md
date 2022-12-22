@@ -32,11 +32,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Authentication
+			- [Brute-forcing a stay-logged-in cookie](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-9), Dec 22, 2022
 			- [2FA broken logic](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-8), Dec 22, 2022
 			- [Username enumeration via account lock](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-7), Dec 22, 2022
 			- [Broken brute-force protection, IP block](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-6), Dec 21, 2022
 			- [Username enumeration via response timing](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-5), Dec 21, 2022
-			- [Username enumeration via subtly different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-4), Dec 21, 2022
 
 * * *
 - Blog
