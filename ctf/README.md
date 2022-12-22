@@ -113,6 +113,7 @@
 	- [Username enumeration via account lock](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-7)
 	- [2FA broken logic](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-8)
 	- [Brute-forcing a stay-logged-in cookie](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-9)
+	- [Offline password cracking](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-10)
 - Business Logic Vulnerabilities
 	- [Excessive trust in client-side controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-1)
 	- [High-level logic vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-2)
