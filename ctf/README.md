@@ -116,6 +116,7 @@
 	- [Offline password cracking](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-10)
 	- [Password reset poisoning via middleware](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-11)
 	- [Password brute-force via password change](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-12)
+	- [Broken brute-force protection, multiple credentials per request](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-13)
 - Business Logic Vulnerabilities
 	- [Excessive trust in client-side controls](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-1)
 	- [High-level logic vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-2)
