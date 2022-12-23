@@ -5,10 +5,10 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 22, 2022 (UTC+8)
+##### Last Update: Dec 23, 2022 (UTC+8)
 
 - CTF Writeups
-	- [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/)
+	- [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/), Dec 18, 2022
 		- Web:
 			- [Byepass](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Byepass/)
 			- [Use After Exit](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Use-After-Exit/) (***Unsolved***)
@@ -31,6 +31,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
+		- OS Command Injection
+			- [OS command injection, simple case](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-1), Dec 23, 2022
 		- Authentication
 			- [2FA bypass using a brute-force attack](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-14), Dec 22, 2022
 			- [Broken brute-force protection, multiple credentials per request](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-13), Dec 22, 2022
