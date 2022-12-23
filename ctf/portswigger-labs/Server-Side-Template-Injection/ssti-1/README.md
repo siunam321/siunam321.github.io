@@ -20,7 +20,7 @@ To solve the lab, review the ERB documentation to find out how to execute arbitr
 
 First, we need to **detect** does the SSTI(Server-Side Template Injection) vulnerability exist.
 
-**To do so, we can fuzz the site via `${{<%[%'"}}%\`, which might trigger an template error.**
+**To do so, we can fuzz the site via `$\{\{<\%[\%'"\}\}\%\\`, which might trigger an template error.**
 
 **In the home page, I notice something interesting:**
 
@@ -39,10 +39,10 @@ When I try to view the details in the first, it displays `Unfortunately this pro
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-1/images/Pasted%20image%2020221223001953.png)
 
 **Hmm... Let's try to do some maths:**
-```
-{{7*7}}
-${7*7}
-```
+
+\{\{7\*7\}\}
+
+$\{7\*7\}
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-1/images/Pasted%20image%2020221223002533.png)
 
