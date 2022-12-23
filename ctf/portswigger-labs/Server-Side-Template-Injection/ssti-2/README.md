@@ -107,9 +107,8 @@ After Identified the template engine, we can go to the exploitation session!
 Since I'm quite familiar with Python, I knew that **we can import a module called `os`, which allows us to execute OS commands!**
 
 **Payload:**
-```
-{% import os %}{{os.system("cmd_here")}}
-```
+
+`{\% import os \%}{{os.system("cmd_here")}}`
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223031757.png)
 
