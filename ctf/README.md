@@ -105,6 +105,7 @@
 ## PortSwigger Labs
 - Server-Side Template Injection
 	- [Basic server-side template injection](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-1)
+	- [Basic server-side template injection (code context)](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-2)
 - OS Command Injection
 	- [OS command injection, simple case](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-1)
 	- [Blind OS command injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-2)
