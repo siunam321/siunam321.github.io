@@ -109,6 +109,7 @@
 	- [Server-side template injection using documentation](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-3)
 	- [Server-side template injection in an unknown language with a documented exploit](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-4)
 	- [Server-side template injection with information disclosure via user-supplied objects](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-5)
+	- [Server-side template injection in a sandboxed environment](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-6)
 - OS Command Injection
 	- [OS command injection, simple case](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-1)
 	- [Blind OS command injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-2)

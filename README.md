@@ -32,11 +32,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Server-Side Template Injection
+			- [Server-side template injection in a sandboxed environment](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-6), Dec 23, 2022
 			- [Server-side template injection with information disclosure via user-supplied objects](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-5), Dec 23, 2022
 			- [Server-side template injection in an unknown language with a documented exploit](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-4), Dec 23, 2022
 			- [Server-side template injection using documentation](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-3), Dec 23, 2022
 			- [Basic server-side template injection (code context)](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-2), Dec 23, 2022
-			- [Basic server-side template injection](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-1), Dec 23, 2022
 		- OS Command Injection
 			- [Blind OS command injection with output redirection](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-3), Dec 23, 2022
 			- [Blind OS command injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-2), Dec 23, 2022
