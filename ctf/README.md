@@ -106,6 +106,7 @@
 - OS Command Injection
 	- [OS command injection, simple case](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-1)
 	- [Blind OS command injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-2)
+	- [Blind OS command injection with output redirection](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-3)
 - Authentication
 	- [Username enumeration via different responses](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-1)
 	- [2FA simple bypass](https://siunam321.github.io/ctf/portswigger-labs/Authentication/auth-2)

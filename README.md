@@ -32,6 +32,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- OS Command Injection
+			- [Blind OS command injection with output redirection](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-3), Dec 23, 2022
 			- [Blind OS command injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-2), Dec 23, 2022
 			- [OS command injection, simple case](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-1), Dec 23, 2022
 		- Authentication
