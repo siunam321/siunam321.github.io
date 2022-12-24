@@ -103,6 +103,8 @@
 
 * * *
 ## PortSwigger Labs
+- Server-Side Request Forgery
+	- [Basic SSRF against the local server](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-1)
 - Server-Side Template Injection
 	- [Basic server-side template injection](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-1)
 	- [Basic server-side template injection (code context)](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-2)
