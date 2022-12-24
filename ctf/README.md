@@ -108,6 +108,7 @@
 	- [Basic SSRF against another back-end system](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-2)
 	- [SSRF with blacklist-based input filter](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-3)
 	- [SSRF with filter bypass via open redirection vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-4)
+	- [SSRF with whitelist-based input filter](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-6)
 - Server-Side Template Injection
 	- [Basic server-side template injection](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-1)
 	- [Basic server-side template injection (code context)](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-2)
