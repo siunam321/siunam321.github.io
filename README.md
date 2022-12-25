@@ -32,17 +32,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- XXE Injection
+			- [Exploiting XXE via image file upload](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-8), Dec 25, 2022
 			- [Exploiting XInclude to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-7), Dec 25, 2022
 			- [Exploiting blind XXE to retrieve data via error messages](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-6), Dec 25, 2022
 			- [Exploiting blind XXE to exfiltrate data using a malicious external DTD](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-5), Dec 25, 2022
 			- [Exploiting XXE to perform SSRF attacks](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-2), Dec 25, 2022
-			- [Exploiting XXE using external entities to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-1), Dec 25, 2022
-		- Server-Side Request Forgery
-			- [SSRF with whitelist-based input filter](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-6), Dec 24, 2022
-			- [SSRF with filter bypass via open redirection vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-4), Dec 24, 2022
-			- [SSRF with blacklist-based input filter](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-3), Dec 24, 2022
-			- [Basic SSRF against another back-end system](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-2), Dec 24, 2022
-			- [Basic SSRF against the local server](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-1), Dec 24, 2022
 
 * * *
 - Blog
