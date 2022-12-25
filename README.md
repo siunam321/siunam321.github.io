@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 24, 2022 (UTC+8)
+##### Last Update: Dec 25, 2022 (UTC+8)
 
 - CTF Writeups
 	- [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/), Dec 18, 2022
@@ -31,18 +31,14 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
+		- XXE Injection
+			- [Exploiting XXE using external entities to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-1), Dec 25, 2022
 		- Server-Side Request Forgery
 			- [SSRF with whitelist-based input filter](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-6), Dec 24, 2022
 			- [SSRF with filter bypass via open redirection vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-4), Dec 24, 2022
 			- [SSRF with blacklist-based input filter](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-3), Dec 24, 2022
 			- [Basic SSRF against another back-end system](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-2), Dec 24, 2022
 			- [Basic SSRF against the local server](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-1), Dec 24, 2022
-		- Server-Side Template Injection
-			- [Server-side template injection with a custom exploit](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-7), Dec 24, 2022
-			- [Server-side template injection in a sandboxed environment](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-6), Dec 23, 2022
-			- [Server-side template injection with information disclosure via user-supplied objects](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-5), Dec 23, 2022
-			- [Server-side template injection in an unknown language with a documented exploit](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-4), Dec 23, 2022
-			- [Server-side template injection using documentation](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-3), Dec 23, 2022
 
 * * *
 - Blog
