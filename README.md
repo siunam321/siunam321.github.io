@@ -32,6 +32,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- XXE Injection
+			- [Exploiting XXE to perform SSRF attacks](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-2), Dec 25, 2022
 			- [Exploiting XXE using external entities to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-1), Dec 25, 2022
 		- Server-Side Request Forgery
 			- [SSRF with whitelist-based input filter](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-6), Dec 24, 2022

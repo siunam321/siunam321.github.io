@@ -105,6 +105,7 @@
 ## PortSwigger Labs
 - XXE Injection
 	- [Exploiting XXE using external entities to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-1)
+	- [Exploiting XXE to perform SSRF attacks](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-2)
 - Server-Side Request Forgery
 	- [Basic SSRF against the local server](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-1)
 	- [Basic SSRF against another back-end system](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-2)
