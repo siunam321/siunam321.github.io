@@ -107,6 +107,7 @@
 	- [Exploiting XXE using external entities to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-1)
 	- [Exploiting XXE to perform SSRF attacks](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-2)
 	- [Exploiting blind XXE to exfiltrate data using a malicious external DTD](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-5)
+	- [Exploiting blind XXE to retrieve data via error messages](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-6)
 - Server-Side Request Forgery
 	- [Basic SSRF against the local server](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-1)
 	- [Basic SSRF against another back-end system](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-2)
