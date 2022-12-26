@@ -32,6 +32,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- JWT
+			- [JWT authentication bypass via flawed signature verification](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-2), Dec 26, 2022
 			- [JWT authentication bypass via unverified signature](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-1), Dec 26, 2022
 		- XXE Injection
 			- [Exploiting XXE to retrieve data by repurposing a local DTD](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-9), Dec 25, 2022
