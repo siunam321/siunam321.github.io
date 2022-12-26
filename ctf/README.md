@@ -108,6 +108,7 @@
 	- [JWT authentication bypass via flawed signature verification](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-2)
 	- [JWT authentication bypass via weak signing key](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-3)
 	- [JWT authentication bypass via jwk header injection](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-4)
+	- [JWT authentication bypass via jku header injection](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-5)
 - XXE Injection
 	- [Exploiting XXE using external entities to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-1)
 	- [Exploiting XXE to perform SSRF attacks](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-2)
