@@ -32,17 +32,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- JWT
+			- [JWT authentication bypass via algorithm confusion](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-7), Dec 26, 2022
 			- [JWT authentication bypass via kid header path traversal](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-6), Dec 26, 2022
 			- [JWT authentication bypass via jku header injection](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-5), Dec 26, 2022
 			- [JWT authentication bypass via jwk header injection](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-4), Dec 26, 2022
 			- [JWT authentication bypass via weak signing key](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-3), Dec 26, 2022
-			- [JWT authentication bypass via flawed signature verification](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-2), Dec 26, 2022
-		- XXE Injection
-			- [Exploiting XXE to retrieve data by repurposing a local DTD](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-9), Dec 25, 2022
-			- [Exploiting XXE via image file upload](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-8), Dec 25, 2022
-			- [Exploiting XInclude to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-7), Dec 25, 2022
-			- [Exploiting blind XXE to retrieve data via error messages](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-6), Dec 25, 2022
-			- [Exploiting blind XXE to exfiltrate data using a malicious external DTD](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-5), Dec 25, 2022
 
 * * *
 - Blog
