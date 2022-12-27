@@ -16,6 +16,7 @@
 
 * * *
 ## TryHackMe
+- [Revenge](https://siunam321.github.io/ctf/tryhackme/Revenge)
 - [Madeye's Castle](https://siunam321.github.io/ctf/tryhackme/Madeyes-Castle)
 - [Warzone 2](https://siunam321.github.io/ctf/tryhackme/Warzone2)
 - [toc2](https://siunam321.github.io/ctf/tryhackme/toc2)
