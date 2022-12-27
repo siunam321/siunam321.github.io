@@ -32,7 +32,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Cross-Origin Resource Sharing
-			- [CORS vulnerability with basic origin reflection](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-1), Dec 28, 2022
+			- [CORS vulnerability with trusted null origin](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-2), Dec 27, 2022
+			- [CORS vulnerability with basic origin reflection](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-1), Dec 27, 2022
 		- JWT
 			- [JWT authentication bypass via algorithm confusion with no exposed key](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-8), Dec 26, 2022
 			- [JWT authentication bypass via algorithm confusion](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-7), Dec 26, 2022
