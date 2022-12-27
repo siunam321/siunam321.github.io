@@ -108,6 +108,7 @@
 	- [CORS vulnerability with basic origin reflection](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-1)
 	- [CORS vulnerability with trusted null origin](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-2)
 	- [CORS vulnerability with trusted insecure protocols](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-3)
+	- [CORS vulnerability with internal network pivot attack](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-4)
 - JWT
 	- [JWT authentication bypass via unverified signature](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-1)
 	- [JWT authentication bypass via flawed signature verification](https://siunam321.github.io/ctf/portswigger-labs/JWT/jwt-2)
