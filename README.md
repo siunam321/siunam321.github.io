@@ -32,15 +32,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- HTTP Host Header Attacks
+			- [Password reset poisoning via dangling markup](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-7), Dec 28, 2022
 			- [Host validation bypass via connection state attack](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-6), Dec 28, 2022
 			- [Web cache poisoning via ambiguous requests](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-3), Dec 28, 2022
 			- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2), Dec 28, 2022
 			- [Basic password reset poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-1), Dec 28, 2022
-		- Cross-Origin Resource Sharing
-			- [CORS vulnerability with internal network pivot attack](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-4), Dec 27, 2022
-			- [CORS vulnerability with trusted insecure protocols](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-3), Dec 27, 2022
-			- [CORS vulnerability with trusted null origin](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-2), Dec 27, 2022
-			- [CORS vulnerability with basic origin reflection](https://siunam321.github.io/ctf/portswigger-labs/Cross-Origin-Resource-Sharing/cors-1), Dec 27, 2022
 
 * * *
 - Blog
