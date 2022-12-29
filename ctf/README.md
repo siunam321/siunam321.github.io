@@ -112,6 +112,7 @@
 	- [DOM XSS in `document.write` sink using source `location.search`](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-3)
 	- [DOM XSS in `innerHTML` sink using source `location.search`](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-4)
 	- [DOM XSS in jQuery anchor `href` attribute sink using `location.search` source](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-5)
+	- [DOM XSS in jQuery selector sink using a hashchange event](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-6)
 - HTTP Host Header Attacks
 	- [Basic password reset poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-1)
 	- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2)
