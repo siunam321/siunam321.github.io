@@ -106,6 +106,8 @@
 
 * * *
 ## PortSwigger Labs
+- Cross-Site Scripting
+	- [Reflected XSS into HTML context with nothing encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-1)
 - HTTP Host Header Attacks
 	- [Basic password reset poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-1)
 	- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2)

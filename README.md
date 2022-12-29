@@ -31,6 +31,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
+		- Cross-Site Scripting
+			- [Reflected XSS into HTML context with nothing encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-1), Dec 29, 2022
 		- HTTP Host Header Attacks
 			- [Password reset poisoning via dangling markup](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-7), Dec 28, 2022
 			- [Host validation bypass via connection state attack](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-6), Dec 28, 2022
