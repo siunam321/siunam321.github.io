@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 29, 2022 (UTC+8)
+##### Last Update: Dec 30, 2022 (UTC+8)
 
 - CTF Writeups
 	- [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/), Dec 18, 2022
@@ -20,11 +20,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 			- [Banjo](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Banjo/)
 			- [Baby's First Heartbleed](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Babys-First-Heartbleed/)
 	- TryHackMe
+		- [SafeZone](https://siunam321.github.io/ctf/tryhackme/SafeZone), Dec 30, 2022
 		- [Bank CTF](https://siunam321.github.io/ctf/tryhackme/Bank-CTF), Dec 29, 2022
 		- [VulnNet: dotpy](https://siunam321.github.io/ctf/tryhackme/VulnNet-dotpy), Dec 28, 2022
 		- [Revenge](https://siunam321.github.io/ctf/tryhackme/Revenge), Dec 27, 2022
 		- [Madeye's Castle](https://siunam321.github.io/ctf/tryhackme/Madeyes-Castle), Dec 13, 2022
-		- [Warzone 2](https://siunam321.github.io/ctf/tryhackme/Warzone2), Dec 2, 2022
 	- HackTheBox
 		- [Shoppy](https://siunam321.github.io/ctf/hackthebox/Shoppy/), Oct 15, 2022
 		- [Support](https://siunam321.github.io/ctf/hackthebox/Support/), Sept 25, 2022
