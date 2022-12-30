@@ -32,6 +32,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Cross-Site Scripting
+			- [Reflected DOM XSS](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-12), Dec 30, 2022
 			- [DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-11), Dec 30, 2022
 			- [DOM XSS in `document.write` sink using source `location.search` inside a select element](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-10), Dec 29, 2022
 			- [Reflected XSS into a JavaScript string with angle brackets HTML encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-9), Dec 29, 2022
