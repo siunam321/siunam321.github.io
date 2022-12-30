@@ -59,9 +59,6 @@ In here, we see the **AngularJS JavaScript library is being used, and the `<body
 As you can see, the `<>` is HTML encoded.
 
 **However, since AngularJS is being used, we can execute JavaScript expressions within double curly braces:** (From [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/XSS%20in%20Angular.md#storedreflected-xss---simple-alert-in-angularjs))
-```js
-{{constructor.constructor('alert(document.domain)')()}}
-```
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Cross-Site-Scripting/XSS-11/images/Pasted%20image%2020221230055646.png)
 
