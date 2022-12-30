@@ -121,6 +121,7 @@
 	- [DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-11)
 	- [Reflected DOM XSS](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-12)
 	- [Stored DOM XSS](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-13)
+	- [Exploiting cross-site scripting to steal cookies](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-14)
 - HTTP Host Header Attacks
 	- [Basic password reset poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-1)
 	- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2)
