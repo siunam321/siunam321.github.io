@@ -124,6 +124,7 @@
 	- [Stored DOM XSS](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-13)
 	- [Exploiting cross-site scripting to steal cookies](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-14)
 	- [Exploiting cross-site scripting to capture passwords](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-15)
+	- [Exploiting XSS to perform CSRF](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-16)
 - HTTP Host Header Attacks
 	- [Basic password reset poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-1)
 	- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2)
