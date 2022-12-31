@@ -16,6 +16,7 @@
 
 * * *
 ## TryHackMe
+- [Undiscovered](https://siunam321.github.io/ctf/tryhackme/Undiscovered)
 - [SafeZone](https://siunam321.github.io/ctf/tryhackme/SafeZone)
 - [Bank CTF](https://siunam321.github.io/ctf/tryhackme/Bank-CTF)
 - [VulnNet: dotpy](https://siunam321.github.io/ctf/tryhackme/VulnNet-dotpy)
