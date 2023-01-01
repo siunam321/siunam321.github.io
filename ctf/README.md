@@ -134,6 +134,7 @@
 	- [Reflected XSS into HTML context with all tags blocked except custom ones](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-18)
 	- [Reflected XSS with some SVG markup allowed](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-19)
 	- [Reflected XSS in canonical link tag](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-20)
+	- [Reflected XSS into a JavaScript string with single quote and backslash escaped](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-21)
 - HTTP Host Header Attacks
 	- [Basic password reset poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-1)
 	- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2)
