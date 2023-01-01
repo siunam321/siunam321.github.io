@@ -39,12 +39,12 @@ As you can, our input is reflected to the web page.
         $scope.query[key] = 'test';
         $scope.value = $parse(key)($scope.query);
     });</script>
-    <h1 ng-controller=vulnCtrl>1 search results for {{value}}</h1>
+    <h1 ng-controller=vulnCtrl>1 search results for \{\{value\}\}</h1>
     <hr>
 </section>
 ```
 
-As you can see, the search functionality is using **AngularJS 1.4.4**. Also, our input is **being rendered as a template: `{{value}}`.**
+As you can see, the search functionality is using **AngularJS 1.4.4**. Also, our input is **being rendered as a template: \{\{value\}\}.**
 
 **Let's try to use an AngularJS sandbox bypass in [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/XSS%20in%20Angular.md):**
 
