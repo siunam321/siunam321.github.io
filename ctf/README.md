@@ -2,20 +2,24 @@
 * * *
 
 ## Table of Content
+- Wargames/Academy Labs:
 1. **[TryHackMe](#tryhackme)**
 2. **[HackTheBox](#hackthebox)**
 3. **[Proving Grounds Play](#proving-grounds-play)**
 4. **[PortSwigger Labs](#portswigger-labs)**
-5. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**
+
+- CTFs:
+1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
+2. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**
+3. **[Hack The Boo](#hack-the-boo)**
+4. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**
+5. **[BuckeyeCTF 2022](#buckeyectf-2022)**
 6. **[HKCERT CTF 2022](#hkcert-ctf-2022)**
-7. **[BuckeyeCTF 2022](#buckeyectf-2022)**
-8. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**
-9. **[Hack The Boo](#hack-the-boo)**
-10. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**
-11. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
+7. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**
 
 * * *
 ## TryHackMe
+- [En-pass](https://siunam321.github.io/ctf/tryhackme/En-pass)
 - [Undiscovered](https://siunam321.github.io/ctf/tryhackme/Undiscovered)
 - [SafeZone](https://siunam321.github.io/ctf/tryhackme/SafeZone)
 - [Bank CTF](https://siunam321.github.io/ctf/tryhackme/Bank-CTF)
@@ -268,51 +272,6 @@
 	- [SQL injection with filter bypass via XML encoding](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-17)
 
 * * *
-## [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/)
-- Warmups
-- Web
-
-* * *
-## [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/)
-- Web
-- Forensics
-- Misc
-- Crypto
-
-* * *
-## [BuckeyeCTF 2022](https://siunam321.github.io/ctf/BuckeyeCTF-2022/)
-- Web
-- Misc
-- Crypto
-- Rev
-
-* * *
-## [GuidePoint Security Oct27 2022 CTF](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/)
-- Web
-- Pwnables
-
-* * *
-## [Hack The Boo](https://siunam321.github.io/ctf/hacktheboo/)
-- Web
-- Pwn
-- Reversing
-- Forensics
-- Crypto
-
-* * *
-## Cyber Apocalypse CTF 2022
-- Misc
-	- [Compressor](https://siunam321.github.io/ctf/cactf2022/Misc/Compressor/)
-	- [Matrioshka Brain](https://siunam321.github.io/ctf/cactf2022/Misc/Matrioshka-Brain/)
-- Pwn
-	- [Space-Pirate:Entrypoint](https://siunam321.github.io/ctf/cactf2022/Pwn/Space-Pirate:Entrypoint/)
-- Reversing
-	- [Omega One](https://siunam321.github.io/ctf/cactf2022/Reversing/Omega-One/)
-	- [WIDE](https://siunam321.github.io/ctf/cactf2022/Reversing/WIDE/)
-- Warmup
-	- [Welcome!](https://siunam321.github.io/ctf/cactf2022/Warmup/Welcome!/)
-
-* * *
 ## NahamCon CTF 2022
 - Miscellaneous
 	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
@@ -331,3 +290,48 @@
 - Web
 	- [EXtravagant](https://siunam321.github.io/ctf/nahamconctf2022/Web/EXtravagant/)
 	- [Jurassic Park](https://siunam321.github.io/ctf/nahamconctf2022/Web/Jurassic-Park/)
+
+* * *
+## Cyber Apocalypse CTF 2022
+- Misc
+	- [Compressor](https://siunam321.github.io/ctf/cactf2022/Misc/Compressor/)
+	- [Matrioshka Brain](https://siunam321.github.io/ctf/cactf2022/Misc/Matrioshka-Brain/)
+- Pwn
+	- [Space-Pirate:Entrypoint](https://siunam321.github.io/ctf/cactf2022/Pwn/Space-Pirate:Entrypoint/)
+- Reversing
+	- [Omega One](https://siunam321.github.io/ctf/cactf2022/Reversing/Omega-One/)
+	- [WIDE](https://siunam321.github.io/ctf/cactf2022/Reversing/WIDE/)
+- Warmup
+	- [Welcome!](https://siunam321.github.io/ctf/cactf2022/Warmup/Welcome!/)
+
+* * *
+## [Hack The Boo](https://siunam321.github.io/ctf/hacktheboo/)
+- Web
+- Pwn
+- Reversing
+- Forensics
+- Crypto
+
+* * *
+## [GuidePoint Security Oct27 2022 CTF](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/)
+- Web
+- Pwnables
+
+* * *
+## [BuckeyeCTF 2022](https://siunam321.github.io/ctf/BuckeyeCTF-2022/)
+- Web
+- Misc
+- Crypto
+- Rev
+
+* * *
+## [HKCERT CTF 2022](https://siunam321.github.io/ctf/HKCERT-CTF-2022/)
+- Web
+- Forensics
+- Misc
+- Crypto
+
+* * *
+## [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/)
+- Warmups
+- Web

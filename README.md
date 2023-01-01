@@ -5,31 +5,15 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Dec 31, 2022 (UTC+8)
+##### Last Update: Jan 1, 2023 (UTC+8)
 
 - CTF Writeups
-	- [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/), Dec 18, 2022
-		- Web:
-			- [Byepass](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Byepass/)
-			- [Use After Exit](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Web/Use-After-Exit/) (***Unsolved***)
-		- Warmups:
-			- [Way 2 Basic](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Way-2-Basic/)
-			- [Hashstation](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Hashstation/)
-			- [catscii](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/catscii/)
-			- [Arjeebee](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Arjeebee/)
-			- [Banjo](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Banjo/)
-			- [Baby's First Heartbleed](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/Warmups/Babys-First-Heartbleed/)
 	- TryHackMe
+		- [En-pass](https://siunam321.github.io/ctf/tryhackme/En-pass), Jan 1, 2023
 		- [Undiscovered](https://siunam321.github.io/ctf/tryhackme/Undiscovered), Dec 31, 2022
 		- [SafeZone](https://siunam321.github.io/ctf/tryhackme/SafeZone), Dec 30, 2022
 		- [Bank CTF](https://siunam321.github.io/ctf/tryhackme/Bank-CTF), Dec 29, 2022
 		- [VulnNet: dotpy](https://siunam321.github.io/ctf/tryhackme/VulnNet-dotpy), Dec 28, 2022
-		- [Revenge](https://siunam321.github.io/ctf/tryhackme/Revenge), Dec 27, 2022
-	- HackTheBox
-		- [Shoppy](https://siunam321.github.io/ctf/hackthebox/Shoppy/), Oct 15, 2022
-		- [Support](https://siunam321.github.io/ctf/hackthebox/Support/), Sept 25, 2022
-		- [OpenSource](https://siunam321.github.io/ctf/hackthebox/OpenSource/), Sept 17, 2022
-		- [RedPanda](https://siunam321.github.io/ctf/hackthebox/RedPanda/), Sept 12, 2022
 	- PortSwigger Labs
 		- Cross-Site Scripting
 			- [Reflected XSS in canonical link tag](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-20), Dec 31, 2022
@@ -41,4 +25,3 @@ In this website, you will find things about my ethical hacking journey, like Cap
 * * *
 - Blog
 	- [OSCP First Attempt Failled](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled), Aug 31, 2022
-
