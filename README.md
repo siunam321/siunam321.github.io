@@ -16,11 +16,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [VulnNet: dotpy](https://siunam321.github.io/ctf/tryhackme/VulnNet-dotpy), Dec 28, 2022
 	- PortSwigger Labs
 		- Cross-Site Scripting
+			- [Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-24), Jan 1, 2023
 			- [Stored XSS into `onclick` event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-23), Jan 1, 2023
 			- [Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-22), Jan 1, 2023
 			- [Reflected XSS into a JavaScript string with single quote and backslash escaped](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-21), Jan 1, 2023
 			- [Reflected XSS in canonical link tag](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-20), Dec 31, 2022
-			- [Reflected XSS with some SVG markup allowed](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-19), Dec 31, 2022
 
 * * *
 - Blog
