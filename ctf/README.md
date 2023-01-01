@@ -2,13 +2,13 @@
 * * *
 
 ## Table of Content
-- Wargames/Academy Labs:
+***Wargames/Academy Labs:***
 1. **[TryHackMe](#tryhackme)**
 2. **[HackTheBox](#hackthebox)**
 3. **[Proving Grounds Play](#proving-grounds-play)**
 4. **[PortSwigger Labs](#portswigger-labs)**
 
-- CTFs:
+***CTFs:***
 1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
 2. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**
 3. **[Hack The Boo](#hack-the-boo)**
