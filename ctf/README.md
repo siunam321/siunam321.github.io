@@ -138,6 +138,7 @@
 	- [Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-22)
 	- [Stored XSS into `onclick` event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-23)
 	- [Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-24)
+	- [Reflected XSS with event handlers and `href` attributes blocked](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-25)
 - HTTP Host Header Attacks
 	- [Basic password reset poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-1)
 	- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2)
