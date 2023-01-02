@@ -119,6 +119,7 @@
 	- [Clickjacking with form input data prefilled from a URL parameter](https://siunam321.github.io/ctf/portswigger-labs/Clickjacking/clickjacking-2)
 	- [Clickjacking with a frame buster script](https://siunam321.github.io/ctf/portswigger-labs/Clickjacking/clickjacking-3)
 	- [Exploiting clickjacking vulnerability to trigger DOM-based XSS](https://siunam321.github.io/ctf/portswigger-labs/Clickjacking/clickjacking-4)
+	- [Multistep clickjacking](https://siunam321.github.io/ctf/portswigger-labs/Clickjacking/clickjacking-5)
 - Cross-Site Scripting
 	- [Reflected XSS into HTML context with nothing encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-1)
 	- [Stored XSS into HTML context with nothing encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-2)
