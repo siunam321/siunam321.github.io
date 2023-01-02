@@ -16,11 +16,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Bank CTF](https://siunam321.github.io/ctf/tryhackme/Bank-CTF), Dec 29, 2022
 	- PortSwigger Labs
 		- Cross-Site Scripting
-			- [Reflected XSS protected by very strict CSP, with dangling markup attack](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-29), Jan 1, 2023
+			- [Reflected XSS protected by CSP, with CSP bypass](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-30), Jan 2, 2023
+			- [Reflected XSS protected by very strict CSP, with dangling markup attack](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-29), Jan 2, 2023
 			- [Reflected XSS with AngularJS sandbox escape and CSP](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-28), Jan 1, 2023
 			- [Reflected XSS with AngularJS sandbox escape without strings](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-27), Jan 1, 2023
 			- [Reflected XSS in a JavaScript URL with some characters blocked](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-26), Jan 1, 2023
-			- [Reflected XSS with event handlers and `href` attributes blocked](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-25), Jan 1, 2023
 
 * * *
 - Blog
