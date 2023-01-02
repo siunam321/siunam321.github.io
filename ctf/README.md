@@ -143,6 +143,7 @@
 	- [Reflected XSS in a JavaScript URL with some characters blocked](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-26)
 	- [Reflected XSS with AngularJS sandbox escape without strings](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-27)
 	- [Reflected XSS with AngularJS sandbox escape and CSP](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-28)
+	- [Reflected XSS protected by very strict CSP, with dangling markup attack](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-29)
 - HTTP Host Header Attacks
 	- [Basic password reset poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-1)
 	- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2)
