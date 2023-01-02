@@ -114,6 +114,8 @@
 
 * * *
 ## PortSwigger Labs
+- Clickjacking
+	- [Basic clickjacking with CSRF token protection](https://siunam321.github.io/ctf/portswigger-labs/Clickjacking/clickjacking-1)
 - Cross-Site Scripting
 	- [Reflected XSS into HTML context with nothing encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-1)
 	- [Stored XSS into HTML context with nothing encoded](https://siunam321.github.io/ctf/portswigger-labs/Cross-Site-Scripting/xss-2)
