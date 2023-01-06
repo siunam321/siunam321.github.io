@@ -20,6 +20,7 @@
 
 * * *
 ## TryHackMe
+- [WWBuddy](https://siunam321.github.io/ctf/tryhackme/WWBuddy)
 - [Unstable Twin](https://siunam321.github.io/ctf/tryhackme/Unstable-Twin)
 - [Super-Spam](https://siunam321.github.io/ctf/tryhackme/Super-Spam)
 - [broker](https://siunam321.github.io/ctf/tryhackme/broker)
