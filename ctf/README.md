@@ -121,6 +121,7 @@
 	- [Authentication bypass via OAuth implicit flow](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-1)
 	- [Forced OAuth profile linking](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-2)
 	- [OAuth account hijacking via redirect_uri](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-3)
+	- [Stealing OAuth access tokens via an open redirect](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-4)
 - Clickjacking
 	- [Basic clickjacking with CSRF token protection](https://siunam321.github.io/ctf/portswigger-labs/Clickjacking/clickjacking-1)
 	- [Clickjacking with form input data prefilled from a URL parameter](https://siunam321.github.io/ctf/portswigger-labs/Clickjacking/clickjacking-2)
