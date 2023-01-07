@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Jan 6, 2023 (UTC+8)
+##### Last Update: Jan 7, 2023 (UTC+8)
 
 - CTF Writeups
 	- TryHackMe
@@ -16,6 +16,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [En-pass](https://siunam321.github.io/ctf/tryhackme/En-pass), Jan 1, 2023
 	- PortSwigger Labs
 		- OAuth Authentication
+			- [Forced OAuth profile linking](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-2), Jan 7, 2023
 			- [Authentication bypass via OAuth implicit flow](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-1), Jan 3, 2023
 		- Clickjacking
 			- [Multistep clickjacking](https://siunam321.github.io/ctf/portswigger-labs/Clickjacking/clickjacking-5), Jan 2, 2023
