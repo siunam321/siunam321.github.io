@@ -16,6 +16,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [En-pass](https://siunam321.github.io/ctf/tryhackme/En-pass), Jan 1, 2023
 	- PortSwigger Labs
 		- OAuth Authentication
+			- [OAuth account hijacking via redirect_uri](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-3), Jan 7, 2023
 			- [Forced OAuth profile linking](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-2), Jan 7, 2023
 			- [Authentication bypass via OAuth implicit flow](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-1), Jan 3, 2023
 		- Clickjacking
