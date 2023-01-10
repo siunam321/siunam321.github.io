@@ -3,6 +3,7 @@
 * * *
 ## Python
 
+- Generates and sends `ysoserial` serialized object gadget chains payload: [ysoserial automate](https://github.com/siunam321/ysoserial-automate)
 - CVE-1999-1053 Proof-of-Concept Exploit: [https://github.com/siunam321/CVE-1999-1053-PoC](https://github.com/siunam321/CVE-1999-1053-PoC)
 
 # CTFs Exploit Development
