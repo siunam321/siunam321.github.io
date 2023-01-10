@@ -124,6 +124,7 @@
 	- [Modifying serialized objects](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-1)
 	- [Modifying serialized data types](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-2)
 	- [Using application functionality to exploit insecure deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-3)
+	- [Arbitrary object injection in PHP](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-4)
 - OAuth Authentication
 	- [Authentication bypass via OAuth implicit flow](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-1)
 	- [Forced OAuth profile linking](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-2)

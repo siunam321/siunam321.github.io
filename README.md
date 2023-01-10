@@ -16,6 +16,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Unstable Twin](https://siunam321.github.io/ctf/tryhackme/Unstable-Twin), Jan 4, 2023
 	- PortSwigger Labs
 		- Insecure Deserialization
+			- [Arbitrary object injection in PHP](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-4), Jan 10, 2023
 			- [Using application functionality to exploit insecure deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-3), Jan 10, 2023
 			- [Modifying serialized data types](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-2), Jan 10, 2023
 			- [Modifying serialized objects](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-1), Jan 10, 2023
