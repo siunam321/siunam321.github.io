@@ -15,6 +15,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [WWBuddy](https://siunam321.github.io/ctf/tryhackme/WWBuddy), Jan 6, 2023
 		- [Unstable Twin](https://siunam321.github.io/ctf/tryhackme/Unstable-Twin), Jan 4, 2023
 	- PortSwigger Labs
+		- Insecure Deserialization
+			- [Modifying serialized objects](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-1), Jan 10, 2023
 		- OAuth Authentication
 			- [Stealing OAuth access tokens via a proxy page](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-6), Jan 7, 2023
 			- [Stealing OAuth access tokens via an open redirect](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-4), Jan 7, 2023
