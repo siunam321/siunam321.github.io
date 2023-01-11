@@ -127,6 +127,7 @@
 	- [Using application functionality to exploit insecure deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-3)
 	- [Arbitrary object injection in PHP](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-4)
 	- [Exploiting Java deserialization with Apache Commons](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-5)
+	- [Exploiting PHP deserialization with a pre-built gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-6)
 - OAuth Authentication
 	- [Authentication bypass via OAuth implicit flow](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-1)
 	- [Forced OAuth profile linking](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-2)
