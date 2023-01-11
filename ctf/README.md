@@ -20,6 +20,7 @@
 
 * * *
 ## TryHackMe
+- [Metamorphosis](https://siunam321.github.io/ctf/tryhackme/Metamorphosis)
 - [pyLon](https://siunam321.github.io/ctf/tryhackme/pyLon)
 - [The Blob Blog](https://siunam321.github.io/ctf/tryhackme/The-Blob-Blog)
 - [New Hire Old Artifacts](https://siunam321.github.io/ctf/tryhackme/New-Hire-Old-Artifacts)

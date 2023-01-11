@@ -5,15 +5,15 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Jan 10, 2023 (UTC+8)
+##### Last Update: Jan 11, 2023 (UTC+8)
 
 - CTF Writeups
 	- TryHackMe
+		- [Metamorphosis](https://siunam321.github.io/ctf/tryhackme/Metamorphosis), Jan 11, 2023
 		- [pyLon](https://siunam321.github.io/ctf/tryhackme/pyLon), Jan 10, 2023
 		- [The Blob Blog](https://siunam321.github.io/ctf/tryhackme/The-Blob-Blog), Jan 9, 2023
 		- [New Hire Old Artifacts](https://siunam321.github.io/ctf/tryhackme/New-Hire-Old-Artifacts), Jan 8, 2023
 		- [WWBuddy](https://siunam321.github.io/ctf/tryhackme/WWBuddy), Jan 6, 2023
-		- [Unstable Twin](https://siunam321.github.io/ctf/tryhackme/Unstable-Twin), Jan 4, 2023
 	- PortSwigger Labs
 		- Insecure Deserialization
 			- [Exploiting Java deserialization with Apache Commons](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-5), Jan 10, 2023
