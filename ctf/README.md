@@ -131,6 +131,7 @@
 	- [Exploiting PHP deserialization with a pre-built gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-6)
 	- [Exploiting Ruby deserialization using a documented gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-7)
 	- [Developing a custom gadget chain for Java deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-8)
+	- [Developing a custom gadget chain for PHP deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-9)
 - OAuth Authentication
 	- [Authentication bypass via OAuth implicit flow](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-1)
 	- [Forced OAuth profile linking](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-2)
