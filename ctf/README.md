@@ -278,6 +278,7 @@
 	- [SameSite Lax bypass via method override](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7)
 	- [SameSite Strict bypass via client-side redirect](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8)
 	- [SameSite Strict bypass via sibling domain](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-9)
+	- [SameSite Lax bypass via cookie refresh](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-10)
 	- [CSRF where Referer validation depends on header being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-11)
 	- [CSRF with broken Referer validation](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-12)
 - Access Control
