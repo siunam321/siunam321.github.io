@@ -275,8 +275,9 @@
 	- [CSRF where token is not tied to user session](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-4)
 	- [CSRF where token is tied to non-session cookie](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-5)
 	- [CSRF where token is duplicated in cookie](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-6)
-	- [CSRF where Referer validation depends on header being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7)
-	- [CSRF with broken Referer validation](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8)
+	- [SameSite Lax bypass via method override](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7)
+	- [CSRF where Referer validation depends on header being present](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-11)
+	- [CSRF with broken Referer validation](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-12)
 - Access Control
 	- [Unprotected admin functionality](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-1)
 	- [Unprotected admin functionality with unpredictable URL](https://siunam321.github.io/ctf/portswigger-labs/Access-Control/ac-2)
