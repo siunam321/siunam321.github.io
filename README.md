@@ -16,11 +16,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [The Blob Blog](https://siunam321.github.io/ctf/tryhackme/The-Blob-Blog), Jan 9, 2023
 	- PortSwigger Labs
 		- Insecure Deserialization
+			- [Using PHAR deserialization to deploy a custom gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-10), Jan 13, 2023
 			- [Developing a custom gadget chain for PHP deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-9), Jan 12, 2023
 			- [Developing a custom gadget chain for Java deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-8), Jan 12, 2023
 			- [Exploiting Ruby deserialization using a documented gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-7), Jan 12, 2023
 			- [Exploiting PHP deserialization with a pre-built gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-6), Jan 11, 2023
-			- [Exploiting Java deserialization with Apache Commons](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-5), Jan 10, 2023
 
 * * *
 - Blog
