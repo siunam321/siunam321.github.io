@@ -16,6 +16,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [The Blob Blog](https://siunam321.github.io/ctf/tryhackme/The-Blob-Blog), Jan 9, 2023
 	- PortSwigger Labs
 		- CSRF
+			- [SameSite Strict bypass via client-side redirect](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8), Jan 13, 2023
 			- [SameSite Lax bypass via method override](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7), Jan 13, 2023
 		- Insecure Deserialization
 			- [Using PHAR deserialization to deploy a custom gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-10), Jan 13, 2023
