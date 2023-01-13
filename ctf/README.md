@@ -20,6 +20,7 @@
 
 * * *
 ## TryHackMe
+- [Unbaked Pie](https://siunam321.github.io/ctf/tryhackme/Unbaked-Pie)
 - [Red Stone One Carat](https://siunam321.github.io/ctf/tryhackme/Red-Stone-One-Carat)
 - [Metamorphosis](https://siunam321.github.io/ctf/tryhackme/Metamorphosis)
 - [pyLon](https://siunam321.github.io/ctf/tryhackme/pyLon)
