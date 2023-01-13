@@ -16,14 +16,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [The Blob Blog](https://siunam321.github.io/ctf/tryhackme/The-Blob-Blog), Jan 9, 2023
 	- PortSwigger Labs
 		- CSRF
+			- [SameSite Strict bypass via sibling domain](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-9), Jan 13, 2023
 			- [SameSite Strict bypass via client-side redirect](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-8), Jan 13, 2023
 			- [SameSite Lax bypass via method override](https://siunam321.github.io/ctf/portswigger-labs/CSRF/csrf-7), Jan 13, 2023
 		- Insecure Deserialization
 			- [Using PHAR deserialization to deploy a custom gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-10), Jan 13, 2023
-			- [Developing a custom gadget chain for PHP deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-9), Jan 12, 2023
-			- [Developing a custom gadget chain for Java deserialization](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-8), Jan 12, 2023
-			- [Exploiting Ruby deserialization using a documented gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-7), Jan 12, 2023
-			- [Exploiting PHP deserialization with a pre-built gadget chain](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-6), Jan 11, 2023
 
 * * *
 - Blog
