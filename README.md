@@ -16,6 +16,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [The Blob Blog](https://siunam321.github.io/ctf/tryhackme/The-Blob-Blog), Jan 9, 2023
 	- PortSwigger Labs
 		- DOM-Based Vulnerabilities
+			- [DOM-based cookie manipulation](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-5), Jan 14, 2023
 			- [DOM-based open redirection](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-4), Jan 14, 2023
 			- [DOM XSS using web messages and `JSON.parse`](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-3), Jan 14, 2023
 			- [DOM XSS using web messages and a JavaScript URL](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-2), Jan 14, 2023
