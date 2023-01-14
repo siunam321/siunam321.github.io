@@ -129,6 +129,7 @@
 	- [DOM XSS using web messages and `JSON.parse`](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-3)
 	- [DOM-based open redirection](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-4)
 	- [DOM-based cookie manipulation](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-5)
+	- [Exploiting DOM clobbering to enable XSS](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-6)
 - Insecure Deserialization
 	- [Modifying serialized objects](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-1)
 	- [Modifying serialized data types](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-2)
