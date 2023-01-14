@@ -125,6 +125,7 @@
 ## PortSwigger Labs
 - DOM-Based Vulnerabilities
 	- [DOM XSS using web messages](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-1)
+	- [DOM XSS using web messages and a JavaScript URL](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-2)
 - Insecure Deserialization
 	- [Modifying serialized objects](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-1)
 	- [Modifying serialized data types](https://siunam321.github.io/ctf/portswigger-labs/Insecure-Deserialization/deserial-2)
