@@ -23,7 +23,6 @@ You can solve this lab manually in your browser, or use [DOM Invader](https://po
 **To find a source (Inputs that are under attacker's control), we can do it manually:**
 
 1. Try to inject an arbitrary property via the query string, URL fragment, and any web message data. For example:
-
 ```js
 vulnerable-website.com/?__proto__[foo]=bar
 ```
