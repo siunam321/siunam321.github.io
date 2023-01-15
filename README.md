@@ -15,6 +15,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Metamorphosis](https://siunam321.github.io/ctf/tryhackme/Metamorphosis), Jan 11, 2023
 		- [pyLon](https://siunam321.github.io/ctf/tryhackme/pyLon), Jan 10, 2023
 	- PortSwigger Labs
+		- Prototype Pollution
+			- [DOM XSS via client-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-1), Jan 15, 2023
 		- DOM-Based Vulnerabilities
 			- [Clobbering DOM attributes to bypass HTML filters](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-7), Jan 14, 2023
 			- [Exploiting DOM clobbering to enable XSS](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-6), Jan 14, 2023
