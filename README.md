@@ -5,15 +5,15 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Jan 14, 2023 (UTC+8)
+##### Last Update: Jan 15, 2023 (UTC+8)
 
 - CTF Writeups
 	- TryHackMe
+		- [SigHunt](https://siunam321.github.io/ctf/tryhackme/SigHunt), Jan 15, 2023
 		- [Unbaked Pie](https://siunam321.github.io/ctf/tryhackme/Unbaked-Pie), Jan 13, 2023
 		- [Red Stone One Carat](https://siunam321.github.io/ctf/tryhackme/Red-Stone-One-Carat), Jan 12, 2023
 		- [Metamorphosis](https://siunam321.github.io/ctf/tryhackme/Metamorphosis), Jan 11, 2023
 		- [pyLon](https://siunam321.github.io/ctf/tryhackme/pyLon), Jan 10, 2023
-		- [The Blob Blog](https://siunam321.github.io/ctf/tryhackme/The-Blob-Blog), Jan 9, 2023
 	- PortSwigger Labs
 		- DOM-Based Vulnerabilities
 			- [Clobbering DOM attributes to bypass HTML filters](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-7), Jan 14, 2023
