@@ -20,6 +20,7 @@
 
 * * *
 ## TryHackMe
+- [StuxCTF](https://siunam321.github.io/ctf/tryhackme/StuxCTF)
 - [SigHunt](https://siunam321.github.io/ctf/tryhackme/SigHunt)
 - [Unbaked Pie](https://siunam321.github.io/ctf/tryhackme/Unbaked-Pie)
 - [Red Stone One Carat](https://siunam321.github.io/ctf/tryhackme/Red-Stone-One-Carat)
