@@ -20,6 +20,7 @@
 
 * * *
 ## TryHackMe
+- [Hamlet](https://siunam321.github.io/ctf/tryhackme/Hamlet)
 - [StuxCTF](https://siunam321.github.io/ctf/tryhackme/StuxCTF)
 - [SigHunt](https://siunam321.github.io/ctf/tryhackme/SigHunt)
 - [Unbaked Pie](https://siunam321.github.io/ctf/tryhackme/Unbaked-Pie)
