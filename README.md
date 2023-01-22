@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Jan 21, 2023 (UTC+8)
+##### Last Update: Jan 22, 2023 (UTC+8)
 
 - CTF Writeups
 	- [KnightCTF 2023](https://siunam321.github.io/ctf/KnightCTF-2023/)
