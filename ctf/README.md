@@ -401,6 +401,7 @@
 - Warmups
 - Web
 
+* * *
 ## [KnightCTF 2023](https://siunam321.github.io/ctf/KnightCTF-2023/)
 - Web/API
 - Misc
