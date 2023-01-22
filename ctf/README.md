@@ -133,6 +133,7 @@
 	- [DOM XSS via client-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-1)
 	- [DOM XSS via an alternative prototype pollution vector](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-2)
 	- [Client-side prototype pollution in third-party libraries](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-3)
+	- [Client-side prototype pollution via browser APIs](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-4)
 - DOM-Based Vulnerabilities
 	- [DOM XSS using web messages](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-1)
 	- [DOM XSS using web messages and a JavaScript URL](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-2)
