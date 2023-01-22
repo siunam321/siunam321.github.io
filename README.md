@@ -5,9 +5,14 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Jan 20, 2023 (UTC+8)
+##### Last Update: Jan 21, 2023 (UTC+8)
 
 - CTF Writeups
+	- [KnightCTF 2023](https://siunam321.github.io/ctf/KnightCTF-2023/)
+		- Web/API
+		- Misc
+		- Cryptography
+		- Osint
 	- TryHackMe
 		- [Cold VVars](https://siunam321.github.io/ctf/tryhackme/Cold-VVars), Jan 20, 2023
 		- [Hamlet](https://siunam321.github.io/ctf/tryhackme/Hamlet), Jan 19, 2023
@@ -19,12 +24,6 @@ In this website, you will find things about my ethical hacking journey, like Cap
 			- [Client-side prototype pollution in third-party libraries](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-3), Jan 18, 2023
 			- [DOM XSS via an alternative prototype pollution vector](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-2), Jan 18, 2023
 			- [DOM XSS via client-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-1), Jan 15, 2023
-		- DOM-Based Vulnerabilities
-			- [Clobbering DOM attributes to bypass HTML filters](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-7), Jan 14, 2023
-			- [Exploiting DOM clobbering to enable XSS](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-6), Jan 14, 2023
-			- [DOM-based cookie manipulation](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-5), Jan 14, 2023
-			- [DOM-based open redirection](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-4), Jan 14, 2023
-			- [DOM XSS using web messages and `JSON.parse`](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-3), Jan 14, 2023
 
 * * *
 - Blog

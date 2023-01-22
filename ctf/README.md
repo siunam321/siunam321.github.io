@@ -17,6 +17,7 @@
 5. **[BuckeyeCTF 2022](#buckeyectf-2022)**
 6. **[HKCERT CTF 2022](#hkcert-ctf-2022)**
 7. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**
+8. **[KnightCTF 2023](#knightctf-2023)**
 
 * * *
 ## TryHackMe
@@ -399,3 +400,9 @@
 ## [NahamCon EU CTF 2022](https://siunam321.github.io/ctf/NahamCon-EU-CTF-2022/)
 - Warmups
 - Web
+
+## [KnightCTF 2023](https://siunam321.github.io/ctf/KnightCTF-2023/)
+- Web/API
+- Misc
+- Cryptography
+- Osint
