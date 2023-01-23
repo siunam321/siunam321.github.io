@@ -21,15 +21,10 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [StuxCTF](https://siunam321.github.io/ctf/tryhackme/StuxCTF), Jan 17, 2023
 	- PortSwigger Labs
 		- Web Cache Poisoning
+			- [Targeted web cache poisoning using an unknown header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-4), Jan 23, 2023
 			- [Web cache poisoning with multiple headers](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-3), Jan 23, 2023
 			- [Web cache poisoning with an unkeyed cookie](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-2), Jan 23, 2023
 			- [Web cache poisoning with an unkeyed header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-1), Jan 22, 2023
-		- Prototype Pollution
-			- [Client-side prototype pollution via flawed sanitization](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-5), Jan 22, 2023
-			- [Client-side prototype pollution via browser APIs](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-4), Jan 22, 2023
-			- [Client-side prototype pollution in third-party libraries](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-3), Jan 18, 2023
-			- [DOM XSS via an alternative prototype pollution vector](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-2), Jan 18, 2023
-			- [DOM XSS via client-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-1), Jan 15, 2023
 
 * * *
 - Blog
