@@ -132,6 +132,7 @@
 ## PortSwigger Labs
 - Web Cache Poisoning
 	- [Web cache poisoning with an unkeyed header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-1)
+	- [Web cache poisoning with an unkeyed cookie](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-2)
 - Prototype Pollution
 	- [DOM XSS via client-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-1)
 	- [DOM XSS via an alternative prototype pollution vector](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-2)
