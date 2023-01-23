@@ -21,6 +21,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [StuxCTF](https://siunam321.github.io/ctf/tryhackme/StuxCTF), Jan 17, 2023
 	- PortSwigger Labs
 		- Web Cache Poisoning
+			- [Web cache poisoning with multiple headers](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-3), Jan 23, 2023
 			- [Web cache poisoning with an unkeyed cookie](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-2), Jan 23, 2023
 			- [Web cache poisoning with an unkeyed header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-1), Jan 22, 2023
 		- Prototype Pollution
