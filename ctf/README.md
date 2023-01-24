@@ -138,6 +138,7 @@
 	- [Targeted web cache poisoning using an unknown header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-4)
 	- [Web cache poisoning via an unkeyed query string](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-5)
 	- [Web cache poisoning via an unkeyed query parameter](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-6)
+	- [Parameter cloaking](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-7)
 - Prototype Pollution
 	- [DOM XSS via client-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-1)
 	- [DOM XSS via an alternative prototype pollution vector](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-2)
