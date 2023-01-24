@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Jan 23, 2023 (UTC+8)
+##### Last Update: Jan 24, 2023 (UTC+8)
 
 - CTF Writeups
 	- [KnightCTF 2023](https://siunam321.github.io/ctf/KnightCTF-2023/), Jan 22, 2023
@@ -14,11 +14,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- Cryptography
 		- Osint
 	- TryHackMe
+		- [GameBuzz](https://siunam321.github.io/ctf/tryhackme/GameBuzz), Jan 24, 2023
 		- [VulnNet: dotjar](https://siunam321.github.io/ctf/tryhackme/VulnNet-dotjar), Jan 23, 2023
 		- [TakeOver](https://siunam321.github.io/ctf/tryhackme/TakeOver), Jan 22, 2023
 		- [Cold VVars](https://siunam321.github.io/ctf/tryhackme/Cold-VVars), Jan 20, 2023
 		- [Hamlet](https://siunam321.github.io/ctf/tryhackme/Hamlet), Jan 19, 2023
-		- [StuxCTF](https://siunam321.github.io/ctf/tryhackme/StuxCTF), Jan 17, 2023
 	- PortSwigger Labs
 		- Web Cache Poisoning
 			- [Targeted web cache poisoning using an unknown header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-4), Jan 23, 2023

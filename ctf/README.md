@@ -21,6 +21,7 @@
 
 * * *
 ## TryHackMe
+- [GameBuzz](https://siunam321.github.io/ctf/tryhackme/GameBuzz)
 - [VulnNet: dotjar](https://siunam321.github.io/ctf/tryhackme/VulnNet-dotjar)
 - [TakeOver](https://siunam321.github.io/ctf/tryhackme/TakeOver)
 - [Cold VVars](https://siunam321.github.io/ctf/tryhackme/Cold-VVars)
