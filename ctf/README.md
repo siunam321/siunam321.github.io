@@ -141,6 +141,7 @@
 	- [Parameter cloaking](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-7)
 	- [Web cache poisoning via a fat GET request](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-8)
 	- [URL normalization](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-9)
+	- [Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-10)
 - Prototype Pollution
 	- [DOM XSS via client-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-1)
 	- [DOM XSS via an alternative prototype pollution vector](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-2)
