@@ -21,11 +21,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Hamlet](https://siunam321.github.io/ctf/tryhackme/Hamlet), Jan 19, 2023
 	- PortSwigger Labs
 		- Web Cache Poisoning
+			- [Internal cache poisoning](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-13), Jan 26, 2023
 			- [Cache key injection](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-12), Jan 26, 2023
 			- [Combining web cache poisoning vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-11), Jan 26, 2023
 			- [Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-10), Jan 25, 2023
 			- [URL normalization](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-9), Jan 25, 2023
-			- [Web cache poisoning via a fat GET request](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-8), Jan 25, 2023
 
 * * *
 - Blog
