@@ -134,6 +134,7 @@
 ## PortSwigger Labs
 - HTTP Request Smuggling
 	- [HTTP request smuggling, basic CL.TE vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-1)
+	- [HTTP request smuggling, basic TE.CL vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-2)
 - Web Cache Poisoning
 	- [Web cache poisoning with an unkeyed header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-1)
 	- [Web cache poisoning with an unkeyed cookie](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-2)
