@@ -21,6 +21,7 @@
 
 * * *
 ## TryHackMe
+- [M4tr1x: Exit Denied](https://siunam321.github.io/ctf/tryhackme/M4tr1x-Exit-Denied)
 - [GameBuzz](https://siunam321.github.io/ctf/tryhackme/GameBuzz)
 - [VulnNet: dotjar](https://siunam321.github.io/ctf/tryhackme/VulnNet-dotjar)
 - [TakeOver](https://siunam321.github.io/ctf/tryhackme/TakeOver)
