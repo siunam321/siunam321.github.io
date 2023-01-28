@@ -21,6 +21,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Cold VVars](https://siunam321.github.io/ctf/tryhackme/Cold-VVars), Jan 20, 2023
 	- PortSwigger Labs
 		- HTTP Request Smuggling
+			- [HTTP request smuggling, confirming a TE.CL vulnerability via differential responses](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-5), Jan 28, 2023
 			- [HTTP request smuggling, confirming a CL.TE vulnerability via differential responses](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-4), Jan 28, 2023
 			- [HTTP request smuggling, obfuscating the TE header](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-3), Jan 28, 2023
 			- [HTTP request smuggling, basic TE.CL vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-2), Jan 27, 2023
