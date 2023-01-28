@@ -21,15 +21,10 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Cold VVars](https://siunam321.github.io/ctf/tryhackme/Cold-VVars), Jan 20, 2023
 	- PortSwigger Labs
 		- HTTP Request Smuggling
+			- [HTTP request smuggling, obfuscating the TE header](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-3), Jan 28, 2023
 			- [HTTP request smuggling, basic TE.CL vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-2), Jan 27, 2023
 			- [HTTP request smuggling, basic CL.TE vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-1), Jan 27, 2023
-		- Web Cache Poisoning
-			- [Internal cache poisoning](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-13), Jan 26, 2023
-			- [Cache key injection](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-12), Jan 26, 2023
-			- [Combining web cache poisoning vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-11), Jan 26, 2023
-			- [Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-10), Jan 25, 2023
-			- [URL normalization](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-9), Jan 25, 2023
-
+		
 * * *
 - Blog
 	- [OSCP First Attempt Failled](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled), Aug 31, 2022
