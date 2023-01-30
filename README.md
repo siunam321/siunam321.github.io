@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Jan 27, 2023 (UTC+8)
+##### Last Update: Jan 30, 2023 (UTC+8)
 
 - CTF Writeups
 	- [KnightCTF 2023](https://siunam321.github.io/ctf/KnightCTF-2023/), Jan 22, 2023
@@ -14,11 +14,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- Cryptography
 		- Osint
 	- TryHackMe
+		- [MalBuster](https://siunam321.github.io/ctf/tryhackme/MalBuster), Jan 30, 2023
 		- [M4tr1x: Exit Denied](https://siunam321.github.io/ctf/tryhackme/M4tr1x-Exit-Denied), Jan 27, 2023
 		- [GameBuzz](https://siunam321.github.io/ctf/tryhackme/GameBuzz), Jan 24, 2023
 		- [VulnNet: dotjar](https://siunam321.github.io/ctf/tryhackme/VulnNet-dotjar), Jan 23, 2023
 		- [TakeOver](https://siunam321.github.io/ctf/tryhackme/TakeOver), Jan 22, 2023
-		- [Cold VVars](https://siunam321.github.io/ctf/tryhackme/Cold-VVars), Jan 20, 2023
 	- PortSwigger Labs
 		- HTTP Request Smuggling
 			- [HTTP request smuggling, confirming a TE.CL vulnerability via differential responses](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-5), Jan 28, 2023
