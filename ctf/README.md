@@ -143,6 +143,7 @@
 	- [Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-7)
 	- [Exploiting HTTP request smuggling to reveal front-end request rewriting](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-8)
 	- [Exploiting HTTP request smuggling to capture other users' requests](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-9)
+	- [Exploiting HTTP request smuggling to deliver reflected XSS](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-10)
 - Web Cache Poisoning
 	- [Web cache poisoning with an unkeyed header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-1)
 	- [Web cache poisoning with an unkeyed cookie](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-2)
