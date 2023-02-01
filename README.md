@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Jan 30, 2023 (UTC+8)
+##### Last Update: Feb 1, 2023 (UTC+8)
 
 - CTF Writeups
 	- [KnightCTF 2023](https://siunam321.github.io/ctf/KnightCTF-2023/), Jan 22, 2023
@@ -21,11 +21,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [TakeOver](https://siunam321.github.io/ctf/tryhackme/TakeOver), Jan 22, 2023
 	- PortSwigger Labs
 		- HTTP Request Smuggling
+			- [Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-6), Feb 1, 2023
 			- [HTTP request smuggling, confirming a TE.CL vulnerability via differential responses](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-5), Jan 28, 2023
 			- [HTTP request smuggling, confirming a CL.TE vulnerability via differential responses](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-4), Jan 28, 2023
 			- [HTTP request smuggling, obfuscating the TE header](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-3), Jan 28, 2023
 			- [HTTP request smuggling, basic TE.CL vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-2), Jan 27, 2023
-			- [HTTP request smuggling, basic CL.TE vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-1), Jan 27, 2023
 		
 * * *
 - Blog
