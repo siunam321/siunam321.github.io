@@ -7,7 +7,7 @@
 ## Writeups
 
 - Web:
-	- [GET Me](https://siunam321.github.io/ctf/DiceCTF-2023/Web/recursive-csp/)
+	- [recursive-csp](https://siunam321.github.io/ctf/DiceCTF-2023/Web/recursive-csp/)
 
 ## Background
 
