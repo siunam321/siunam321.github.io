@@ -1,6 +1,6 @@
 # DiceCTF 2023 Writeups
 
-> CTFtime event link: [https://ctftime.org/event/1838/)
+> CTFtime event link: [https://ctftime.org/event/1838/](https://ctftime.org/event/1838/)
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/DiceCTF-2023/images/banner.png)
 
