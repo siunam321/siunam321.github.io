@@ -18,6 +18,7 @@
 6. **[HKCERT CTF 2022](#hkcert-ctf-2022)**
 7. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**
 8. **[KnightCTF 2023](#knightctf-2023)**
+9. **[DiceCTF 2023](#dicectf-2023)**
 
 * * *
 ## TryHackMe
@@ -441,3 +442,7 @@
 - Misc
 - Cryptography
 - Osint
+
+* * *
+## [DiceCTF 2023](https://siunam321.github.io/ctf/DiceCTF-2023/)
+- Web

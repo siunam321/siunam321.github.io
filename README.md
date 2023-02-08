@@ -5,14 +5,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Feb 6, 2023 (UTC+8)
+##### Last Update: Feb 8, 2023 (UTC+8)
 
 - CTF Writeups
-	- [KnightCTF 2023](https://siunam321.github.io/ctf/KnightCTF-2023/), Jan 22, 2023
-		- Web/API
-		- Misc
-		- Cryptography
-		- Osint
+	- [DiceCTF 2023](https://siunam321.github.io/ctf/DiceCTF-2023/), Feb 8, 2023
+		- Web
 	- TryHackMe
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 		- [Different-CTF](https://siunam321.github.io/ctf/tryhackme/Different-CTF), Feb 2, 2023
