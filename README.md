@@ -5,11 +5,14 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Feb 9, 2023 (UTC+8)
+##### Last Update: Feb 13, 2023 (UTC+8)
 
 - CTF Writeups
-	- [DiceCTF 2023](https://siunam321.github.io/ctf/DiceCTF-2023/), Feb 8, 2023
+	- [LA CTF 2023](https://siunam321.github.io/ctf/LA-CTF-2023/), Feb 13, 2023
 		- Web
+		- Misc
+		- Rev
+		- Pwn
 	- TryHackMe
 		- [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering), Feb 9, 2023
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
