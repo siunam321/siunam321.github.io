@@ -10,7 +10,7 @@
 	- [college-tour](https://siunam321.github.io/ctf/LA-CTF-2023/Web/college-tour/)
 	- [metaverse](https://siunam321.github.io/ctf/LA-CTF-2023/Web/metaverse/)
 	- [uuid-hell](https://siunam321.github.io/ctf/LA-CTF-2023/Web/uuid-hell/)
-	- [my-chemical-romance](https://siunam321.github.io/ctf/LA-CTF-2023/Web/my-chemical-romance/) ***(Unsolved)***
+	- [my-chemical-romance](https://siunam321.github.io/ctf/LA-CTF-2023/Web/my-chemical-romance/)
 	- [california-state-police](https://siunam321.github.io/ctf/LA-CTF-2023/Web/california-state-police/) ***(Unsolved)***
 - Misc:
 	- [CATS!](https://siunam321.github.io/ctf/LA-CTF-2023/Misc/CATS!/)
