@@ -52,7 +52,7 @@ LA CTF is an annual Capture the Flag (CTF) cybersecurity competition hosted by A
 - Web:
 1. Information Gathering Via View Source Page ([college-tour](https://siunam321.github.io/ctf/LA-CTF-2023/Web/college-tour/))
 2. Leveraging Stored XSS To Perform CSRF attack ([metaverse](https://siunam321.github.io/ctf/LA-CTF-2023/Web/metaverse/))
-3. Predicting UUID Version 1 Via Known Nodes & Clock Sequence ([uuid-hell](https://siunam321.github.io/ctf/LA-CTF-2023/Web/uuid-hell/))
+3. Predicting UUID Version 1 Via Known Nodes & Clock Sequence ([uuid hell](https://siunam321.github.io/ctf/LA-CTF-2023/Web/uuid-hell/))
 4. Leaking Mercurial SCM Repository In An Web Application ([my-chemical-romance](https://siunam321.github.io/ctf/LA-CTF-2023/Web/my-chemical-romance/))
 5. [california-state-police](https://siunam321.github.io/ctf/LA-CTF-2023/Web/california-state-police/) ***(Unsolved)***
 - Misc:
