@@ -21,11 +21,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [MalBuster](https://siunam321.github.io/ctf/tryhackme/MalBuster), Jan 30, 2023
 	- PortSwigger Labs
 		- HTTP Request Smuggling
+			- [Response queue poisoning via H2.TE request smuggling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-11), Feb 13, 2023
 			- [Exploiting HTTP request smuggling to deliver reflected XSS](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-10), Feb 1, 2023
 			- [Exploiting HTTP request smuggling to capture other users' requests](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-9), Feb 1, 2023
 			- [Exploiting HTTP request smuggling to reveal front-end request rewriting](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-8), Feb 1, 2023
 			- [Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-7), Feb 1, 2023
-			- [Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-6), Feb 1, 2023
 		
 * * *
 - Blog
