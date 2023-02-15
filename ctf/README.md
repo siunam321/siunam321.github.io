@@ -154,6 +154,7 @@
 	- [H2.CL request smuggling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-12)
 	- [HTTP/2 request smuggling via CRLF injection](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-13)
 	- [HTTP/2 request splitting via CRLF injection](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-14)
+	- [CL.0 request smuggling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-15)
 - Web Cache Poisoning
 	- [Web cache poisoning with an unkeyed header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-1)
 	- [Web cache poisoning with an unkeyed cookie](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-2)
