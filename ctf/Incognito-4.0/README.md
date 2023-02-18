@@ -14,10 +14,6 @@
 	- [Meow](https://siunam321.github.io/ctf/Incognito-4.0/Rev/Meow/)
 - crypto:
 	- [Ancient](https://siunam321.github.io/ctf/Incognito-4.0/crypto/Ancient/)
-- Pwn:
-	- [gatekeep](https://siunam321.github.io/ctf/Incognito-4.0/Pwn/gatekeep/)
-- crypto:
-    - [Ancient](https://siunam321.github.io/ctf/Incognito-4.0/crypto/Ancient)
 - pyjail:
     - [TheOnlyJail](https://siunam321.github.io/ctf/Incognito-4.0/pyjail/TheOnlyJail)
 - pwn:
@@ -56,14 +52,14 @@ Incognito 4.0 is a CTF competition being held in the Equinox-Annual Techno-Cultu
 ## What I've learned in this CTF
 
 - Web:
-    1. Exploiting SSRF (Server-Side Request Forgery) & Bypassing Filters ([get flag 1](https://github.com/siunam321/CTF-Writeups/blob/main/Incognito-4.0/Web/get-flag-1/README.md))
-    2. Exploiting SSRF (Server-Side Request Forgery) & Bypassing Filters Via IPv6 IP Address ([get flag 2](https://github.com/siunam321/CTF-Writeups/blob/main/Incognito-4.0/Web/get-flag-2/README.md))
-    3. [massive](https://github.com/siunam321/CTF-Writeups/blob/main/Incognito-4.0/Web/massive/README.md) ***(Unsolved)***
+    1. Exploiting SSRF (Server-Side Request Forgery) & Bypassing Filters ([get flag 1](https://siunam321.github.io/ctf/Incognito-4.0/Web/get-flag-1/))
+    2. Exploiting SSRF (Server-Side Request Forgery) & Bypassing Filters Via IPv6 IP Address ([get flag 2](https://siunam321.github.io/ctf/Incognito-4.0/Web/get-flag-2/))
+    3. [massive](https://siunam321.github.io/ctf/Incognito-4.0/Web/massive/) ***(Unsolved)***
 - Rev:
-    1. Using `xxd` To View Hex Value ([Meow](https://github.com/siunam321/CTF-Writeups/blob/main/Incognito-4.0/Rev/Meow/README.md))
+    1. Using `xxd` To View Hex Value ([Meow](https://siunam321.github.io/ctf/Incognito-4.0/Rev/Meow/))
 - crypto:
-    1. Fixing PNG Magic Header & Cistercian Number System ([Ancient](https://github.com/siunam321/CTF-Writeups/blob/main/Incognito-4.0/crypto/Ancient/README.md))
+    1. Fixing PNG Magic Header & Cistercian Number System ([Ancient](https://siunam321.github.io/ctf/Incognito-4.0/crypto/Ancient/))
 - pyjail:
-    1. Python Jailbreak Via Importing OS Library ([TheOnlyJail](https://github.com/siunam321/CTF-Writeups/blob/main/Incognito-4.0/pyjail/TheOnlyJail/README.md))
+    1. Python Jailbreak Via Importing OS Library ([TheOnlyJail](https://siunam321.github.io/ctf/Incognito-4.0/pyjail/TheOnlyJail))
 - pwn:
-    1. Basic Stack Buffer Overflow Via `gets()` Function ([babyFlow](https://github.com/siunam321/CTF-Writeups/blob/main/Incognito-4.0/pwn/babyFlow/README.md))
+    1. Basic Stack Buffer Overflow Via `gets()` Function ([babyFlow](https://siunam321.github.io/ctf/Incognito-4.0/Pwn/gatekeep/))
