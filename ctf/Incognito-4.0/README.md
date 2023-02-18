@@ -62,4 +62,4 @@ Incognito 4.0 is a CTF competition being held in the Equinox-Annual Techno-Cultu
 - pyjail:
     1. Python Jailbreak Via Importing OS Library ([TheOnlyJail](https://siunam321.github.io/ctf/Incognito-4.0/pyjail/TheOnlyJail))
 - pwn:
-    1. Basic Stack Buffer Overflow Via `gets()` Function ([babyFlow](https://siunam321.github.io/ctf/Incognito-4.0/Pwn/gatekeep/))
+    1. Basic Stack Buffer Overflow Via `gets()` Function ([babyFlow](https://siunam321.github.io/ctf/Incognito-4.0/Pwn/babyFlow/))
