@@ -7,8 +7,8 @@
 ## Writeups
 
 - Web:
-    - [Makima](https://siunam321.github.io/ctf/Incognito-4.0/Web/Makima/) ***(Unsolved)***
-    - [The Mindful Zone](https://siunam321.github.io/ctf/Incognito-4.0/Web/The-Mindful-Zone/) ***(Unsolved)***
+    - [Makima](https://siunam321.github.io/ctf/pbctf-2023/Web/Makima/) ***(Unsolved)***
+    - [The Mindful Zone](https://siunam321.github.io/ctf/pbctf-2023/Web/The-Mindful-Zone/) ***(Unsolved)***
 
 ## Background
 
@@ -48,5 +48,5 @@ Discord: [https://discord.gg/7mNgBEHreu](https://discord.gg/7mNgBEHreu)
 ## What I've learned in this CTF
 
 - Web:
-    1. [Makima](https://siunam321.github.io/ctf/Incognito-4.0/Web/Makima/) ***(Unsolved)***
-    2. [The Mindful Zone](https://siunam321.github.io/ctf/Incognito-4.0/Web/The-Mindful-Zone/) ***(Unsolved)***
+    1. [Makima](https://siunam321.github.io/ctf/pbctf-2023/Web/Makima/) ***(Unsolved)***
+    2. [The Mindful Zone](https://siunam321.github.io/ctf/pbctf-2023/Web/The-Mindful-Zone/) ***(Unsolved)***
