@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Feb 18, 2023 (UTC+8)
+##### Last Update: Feb 20, 2023 (UTC+8)
 
 - CTF Writeups
 	- [Incognito 4.0](https://siunam321.github.io/ctf/Incognito-4.0/), Feb 18, 2023
@@ -15,11 +15,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- pyjail
 		- pwn
 	- TryHackMe
+		- [Uranium CTF](https://siunam321.github.io/ctf/tryhackme/Uranium-CTF), Feb 20, 2023
 		- [MD2PDF](https://siunam321.github.io/ctf/tryhackme/MD2PDF), Feb 13, 2023
 		- [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering), Feb 9, 2023
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 		- [Different-CTF](https://siunam321.github.io/ctf/tryhackme/Different-CTF), Feb 2, 2023
-		- [MalBuster](https://siunam321.github.io/ctf/tryhackme/MalBuster), Jan 30, 2023
 	- PortSwigger Labs
 		- HTTP Request Smuggling
 			- [CL.0 request smuggling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-15), Feb 15, 2023

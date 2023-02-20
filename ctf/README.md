@@ -24,6 +24,7 @@
 
 * * *
 ## TryHackMe
+- [Uranium CTF](https://siunam321.github.io/ctf/tryhackme/Uranium-CTF)
 - [MD2PDF](https://siunam321.github.io/ctf/tryhackme/MD2PDF)
 - [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering)
 - [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper)
