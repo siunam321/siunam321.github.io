@@ -174,6 +174,7 @@
 	- [Client-side prototype pollution in third-party libraries](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-3)
 	- [Client-side prototype pollution via browser APIs](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-4)
 	- [Client-side prototype pollution via flawed sanitization](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-5)
+	- [Privilege escalation via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-6)
 - DOM-Based Vulnerabilities
 	- [DOM XSS using web messages](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-1)
 	- [DOM XSS using web messages and a JavaScript URL](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-2)
