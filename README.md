@@ -24,6 +24,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Different-CTF](https://siunam321.github.io/ctf/tryhackme/Different-CTF), Feb 2, 2023
 	- PortSwigger Labs
 		- Prototype Pollution
+			- [Detecting server-side prototype pollution without polluted property reflection](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-7), Feb 22, 2023
 			- [Privilege escalation via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-6), Feb 22, 2023
 		- HTTP Request Smuggling
 			- [CL.0 request smuggling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-15), Feb 15, 2023
