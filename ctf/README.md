@@ -177,6 +177,7 @@
 	- [Privilege escalation via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-6)
 	- [Detecting server-side prototype pollution without polluted property reflection](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-7)
 	- [Bypassing flawed input filters for server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-8)
+	- [Remote code execution via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-9)
 - DOM-Based Vulnerabilities
 	- [DOM XSS using web messages](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-1)
 	- [DOM XSS using web messages and a JavaScript URL](https://siunam321.github.io/ctf/portswigger-labs/DOM-Based-Vulnerabilities/dom-2)
