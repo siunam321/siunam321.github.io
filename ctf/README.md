@@ -156,6 +156,7 @@
 	- [CL.0 request smuggling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-15)
 	- [Exploiting HTTP request smuggling to perform web cache poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-16)
 	- [Exploiting HTTP request smuggling to perform web cache deception](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-17)
+	- [Bypassing access controls via HTTP/2 request tunnelling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-18)
 - Web Cache Poisoning
 	- [Web cache poisoning with an unkeyed header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-1)
 	- [Web cache poisoning with an unkeyed cookie](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-2)
