@@ -22,6 +22,7 @@
 10. **[LA CTF 2023](#la-ctf-2023)**
 11. **[Incognito 4.0](#incognito-40)**
 12. **[pbctf 2023](#pbctf-2023)**
+13. **[VU Cyberthon 2023](#vu-cyberthon-2023)**
 
 ## TryHackMe
 - [Uranium CTF](https://siunam321.github.io/ctf/tryhackme/Uranium-CTF)
@@ -467,3 +468,10 @@
 
 ## [pbctf 2023](https://siunam321.github.io/ctf/pbctf-2023/)
 - Web
+
+## [VU Cyberthon 2023](https://siunam321.github.io/ctf/VU-Cyberthon-2023/)
+- Web Exploitation
+- OSINT
+- Network Security
+- Steganography
+- Digital Forensics
