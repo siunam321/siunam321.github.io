@@ -14,14 +14,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- Network Security
 		- Steganography
 		- Digital Forensics
-	- [pbctf 2023](https://siunam321.github.io/ctf/pbctf-2023/), Feb 20, 2023
-		- Web
 	- TryHackMe
+		- [Generic University](https://siunam321.github.io/ctf/tryhackme/Generic-University), Feb 26, 2023
 		- [Uranium CTF](https://siunam321.github.io/ctf/tryhackme/Uranium-CTF), Feb 20, 2023
 		- [MD2PDF](https://siunam321.github.io/ctf/tryhackme/MD2PDF), Feb 13, 2023
 		- [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering), Feb 9, 2023
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
-		- [Different-CTF](https://siunam321.github.io/ctf/tryhackme/Different-CTF), Feb 2, 2023
 	- PortSwigger Labs
 		- HTTP Request Smuggling
 			- [Bypassing access controls via HTTP/2 request tunnelling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-18), Feb 25, 2023

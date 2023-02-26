@@ -25,6 +25,7 @@
 13. **[VU Cyberthon 2023](#vu-cyberthon-2023)**
 
 ## TryHackMe
+- [Generic University](https://siunam321.github.io/ctf/tryhackme/Generic-University)
 - [Uranium CTF](https://siunam321.github.io/ctf/tryhackme/Uranium-CTF)
 - [MD2PDF](https://siunam321.github.io/ctf/tryhackme/MD2PDF)
 - [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering)
