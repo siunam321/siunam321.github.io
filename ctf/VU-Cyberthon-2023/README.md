@@ -43,7 +43,7 @@ Registration: [https://2023.cyberthon.lt/register](https://2023.cyberthon.lt/reg
 
 ## Overview
 
-- Solved: 10
+- Solved: 10 (Gave up after 5 hours of playing)
 - Overall Difficulty To Me: ★★★★☆☆☆☆☆☆
 
 ## What I've learned in this CTF
