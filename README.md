@@ -22,11 +22,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- PortSwigger Labs
 		- HTTP Request Smuggling
+			- [Browser cache poisoning via client-side desync](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-21), Feb 26, 2023
 			- [Client-side desync](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-20), Feb 26, 2023
 			- [Web cache poisoning via HTTP/2 request tunnelling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-19), Feb 26, 2023
 			- [Bypassing access controls via HTTP/2 request tunnelling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-18), Feb 25, 2023
 			- [Exploiting HTTP request smuggling to perform web cache deception](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-17), Feb 24, 2023
-			- [Exploiting HTTP request smuggling to perform web cache poisoning](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-16), Feb 24, 2023
 
 * * *
 - Blog

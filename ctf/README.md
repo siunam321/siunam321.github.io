@@ -161,6 +161,7 @@
 	- [Bypassing access controls via HTTP/2 request tunnelling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-18)
 	- [Web cache poisoning via HTTP/2 request tunnelling](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-19)
 	- [Client-side desync](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-20)
+	- [Browser cache poisoning via client-side desync](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-21)
 - Web Cache Poisoning
 	- [Web cache poisoning with an unkeyed header](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-1)
 	- [Web cache poisoning with an unkeyed cookie](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Poisoning/cache-2)
