@@ -274,6 +274,7 @@
 	- [Exploiting XXE using external entities to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-1)
 	- [Exploiting XXE to perform SSRF attacks](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-2)
 	- [Blind XXE with out-of-band interaction](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-3)
+	- [Blind XXE with out-of-band interaction via XML parameter entities](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-4)
 	- [Exploiting blind XXE to exfiltrate data using a malicious external DTD](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-5)
 	- [Exploiting blind XXE to retrieve data via error messages](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-6)
 	- [Exploiting XInclude to retrieve files](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-7)

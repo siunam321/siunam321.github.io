@@ -22,6 +22,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- PortSwigger Labs
 		- XXE Injection
+			- [Blind XXE with out-of-band interaction via XML parameter entities](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-4), Mar 1, 2023
 			- [Blind XXE with out-of-band interaction](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-3), Mar 1, 2023
 		- SQL Injection
 			- [Blind SQL injection with out-of-band data exfiltration](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-16), Mar 1, 2023
