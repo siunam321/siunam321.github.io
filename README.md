@@ -21,6 +21,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering), Feb 9, 2023
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- PortSwigger Labs
+		- Essential Skills
+			- [Discovering vulnerabilities quickly with targeted scanning](https://siunam321.github.io/ctf/portswigger-labs/Essential-Skills/essential-skills-1), Mar 1, 2023
 		- OS Command Injection
 			- [Blind OS command injection with out-of-band data exfiltration](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-5), Mar 1, 2023
 			- [Blind OS command injection with out-of-band interaction](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-4), Mar 1, 2023

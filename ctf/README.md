@@ -140,6 +140,8 @@
 - [Vegeta1](https://siunam321.github.io/ctf/pgplay/Vegeta1/)
 
 ## PortSwigger Labs
+- Essential Skills
+	- [Discovering vulnerabilities quickly with targeted scanning](https://siunam321.github.io/ctf/portswigger-labs/Essential-Skills/essential-skills-1)
 - HTTP Request Smuggling
 	- [HTTP request smuggling, basic CL.TE vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-1)
 	- [HTTP request smuggling, basic TE.CL vulnerability](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Request-Smuggling/smuggling-2)
