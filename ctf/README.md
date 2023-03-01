@@ -390,6 +390,7 @@
 	- [Blind SQL injection with conditional errors](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-12)
 	- [Blind SQL injection with time delays](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13)
 	- [Blind SQL injection with time delays and information retrieval](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-14)
+	- [Blind SQL injection with out-of-band interaction](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-15)
 	- [SQL injection with filter bypass via XML encoding](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-17)
 
 ## NahamCon CTF 2022
