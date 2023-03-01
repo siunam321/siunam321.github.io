@@ -257,6 +257,7 @@
 	- [Host header authentication bypass](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-2)
 	- [Web cache poisoning via ambiguous requests](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-3)
 	- [Routing-based SSRF](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-4)
+	- [SSRF via flawed request parsing](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-5)
 	- [Host validation bypass via connection state attack](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-6)
 	- [Password reset poisoning via dangling markup](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-7)
 - Cross-Origin Resource Sharing
