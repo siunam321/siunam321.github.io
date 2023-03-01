@@ -21,6 +21,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering), Feb 9, 2023
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- PortSwigger Labs
+		- HTTP Host Header Attacks
+			- [Routing-based SSRF](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-4), Mar 1, 2023
 		- Server-Side Request Forgery
 			- [Blind SSRF with Shellshock exploitation](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-7), Mar 1, 2023
 			- [Blind SSRF with out-of-band detection](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-5), Mar 1, 2023
