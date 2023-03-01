@@ -22,6 +22,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- PortSwigger Labs
 		- Server-Side Request Forgery
+			- [Blind SSRF with Shellshock exploitation](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-7), Mar 1, 2023
 			- [Blind SSRF with out-of-band detection](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-5), Mar 1, 2023
 		- Essential Skills
 			- [Discovering vulnerabilities quickly with targeted scanning](https://siunam321.github.io/ctf/portswigger-labs/Essential-Skills/essential-skills-1), Mar 1, 2023
@@ -34,8 +35,6 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- SQL Injection
 			- [Blind SQL injection with out-of-band data exfiltration](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-16), Mar 1, 2023
 			- [Blind SQL injection with out-of-band interaction](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-15), Mar 1, 2023
-		- Prototype Pollution
-			- [Exfiltrating sensitive data via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-10), Feb 28, 2023
 
 * * *
 - Blog

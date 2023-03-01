@@ -289,6 +289,7 @@
 	- [SSRF with filter bypass via open redirection vulnerability](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-4)
 	- [Blind SSRF with out-of-band detection](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-5)
 	- [SSRF with whitelist-based input filter](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-6)
+	- [Blind SSRF with Shellshock exploitation](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Request-Forgery/ssrf-7)
 - Server-Side Template Injection
 	- [Basic server-side template injection](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-1)
 	- [Basic server-side template injection (code context)](https://siunam321.github.io/ctf/portswigger-labs/Server-Side-Template-Injection/ssti-2)
