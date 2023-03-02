@@ -21,6 +21,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering), Feb 9, 2023
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- PortSwigger Labs
+		- OAuth Authentication
+			- [SSRF via OpenID dynamic client registration](https://siunam321.github.io/ctf/portswigger-labs/OAuth-Authentication/oauth-5), Mar 2, 2023
 		- HTTP Host Header Attacks
 			- [SSRF via flawed request parsing](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-5), Mar 1, 2023
 			- [Routing-based SSRF](https://siunam321.github.io/ctf/portswigger-labs/HTTP-Host-Header-Attacks/http-host-header-4), Mar 1, 2023
@@ -32,12 +34,6 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- OS Command Injection
 			- [Blind OS command injection with out-of-band data exfiltration](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-5), Mar 1, 2023
 			- [Blind OS command injection with out-of-band interaction](https://siunam321.github.io/ctf/portswigger-labs/OS-Command-Injection/osci-4), Mar 1, 2023
-		- XXE Injection
-			- [Blind XXE with out-of-band interaction via XML parameter entities](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-4), Mar 1, 2023
-			- [Blind XXE with out-of-band interaction](https://siunam321.github.io/ctf/portswigger-labs/XXE-Injection/xxe-3), Mar 1, 2023
-		- SQL Injection
-			- [Blind SQL injection with out-of-band data exfiltration](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-16), Mar 1, 2023
-			- [Blind SQL injection with out-of-band interaction](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-15), Mar 1, 2023
 
 * * *
 - Blog
