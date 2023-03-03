@@ -22,6 +22,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- picoGym
 		- Web Exploitation
+			- [Scavenger Hunt](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Scavenger-Hunt), Mar 3, 2023
 			- [Insp3ct0r](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Insp3ct0r), Mar 3, 2023
 			- [Cookies](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Cookies), Mar 3, 2023
 			- [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD), Mar 3, 2023
