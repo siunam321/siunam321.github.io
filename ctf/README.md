@@ -408,6 +408,7 @@
 
 ## picoGym
 - Web Exploitation
+	- [Cookies](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Cookies)
 	- [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD)
 
 ## NahamCon CTF 2022

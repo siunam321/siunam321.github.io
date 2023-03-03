@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Mar 1, 2023 (UTC+8)
+##### Last Update: Mar 3, 2023 (UTC+8)
 
 - CTF Writeups
 	- [VU Cyberthon 2023](https://siunam321.github.io/ctf/VU-Cyberthon-2023/), Feb 26, 2023
@@ -22,7 +22,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- picoGym
 		- Web Exploitation
-			- [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD), Mar 1, 2023
+			- [Cookies](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Cookies), Mar 3, 2023
+			- [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD), Mar 3, 2023
 		
 
 * * *
