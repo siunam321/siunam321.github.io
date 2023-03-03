@@ -8,6 +8,7 @@
 2. **[HackTheBox](#hackthebox)**
 3. **[Proving Grounds Play](#proving-grounds-play)**
 4. **[PortSwigger Labs](#portswigger-labs)**
+5. **[picoGym](#picogym)**
 
 ### CTFs:
 1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
@@ -404,6 +405,10 @@
 	- [Exfiltrating sensitive data via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-10)
 - Essential Skills
 	- [Discovering vulnerabilities quickly with targeted scanning](https://siunam321.github.io/ctf/portswigger-labs/Essential-Skills/essential-skills-1)
+
+## picoGym
+- Web Exploitation
+	- [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD)
 
 ## NahamCon CTF 2022
 - Miscellaneous
