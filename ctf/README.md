@@ -408,6 +408,7 @@
 
 ## picoGym
 - Web Exploitation
+	- [Insp3ct0r](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Insp3ct0r)
 	- [Cookies](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Cookies)
 	- [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD)
 
