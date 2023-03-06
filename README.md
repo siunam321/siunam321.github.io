@@ -5,9 +5,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Mar 3, 2023 (UTC+8)
+##### Last Update: Mar 6, 2023 (UTC+8)
 
 - CTF Writeups
+	- [KalmarCTF 2023](https://siunam321.github.io/ctf/KalmarCTF-2023/), Mar 6, 2023
+		- web
+		- forensic
 	- [VU Cyberthon 2023](https://siunam321.github.io/ctf/VU-Cyberthon-2023/), Feb 26, 2023
 		- Web Exploitation
 		- OSINT
