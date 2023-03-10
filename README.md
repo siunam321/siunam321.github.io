@@ -5,24 +5,18 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Mar 6, 2023 (UTC+8)
+##### Last Update: Mar 10, 2023 (UTC+8)
 
 - CTF Writeups
 	- [KalmarCTF 2023](https://siunam321.github.io/ctf/KalmarCTF-2023/), Mar 6, 2023
 		- web
 		- forensic
-	- [VU Cyberthon 2023](https://siunam321.github.io/ctf/VU-Cyberthon-2023/), Feb 26, 2023
-		- Web Exploitation
-		- OSINT
-		- Network Security
-		- Steganography
-		- Digital Forensics
 	- TryHackMe
+		- [Bugged](https://siunam321.github.io/ctf/tryhackme/Bugged), Mar 10, 2023
 		- [Generic University](https://siunam321.github.io/ctf/tryhackme/Generic-University), Feb 26, 2023
 		- [Uranium CTF](https://siunam321.github.io/ctf/tryhackme/Uranium-CTF), Feb 20, 2023
 		- [MD2PDF](https://siunam321.github.io/ctf/tryhackme/MD2PDF), Feb 13, 2023
 		- [JVM Reverse Engineering](https://siunam321.github.io/ctf/tryhackme/JVM-Reverse-Engineering), Feb 9, 2023
-		- [Eavesdropper](https://siunam321.github.io/ctf/tryhackme/Eavesdropper), Feb 6, 2023
 	- picoGym
 		- Web Exploitation
 			- [logon](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/logon), Mar 3, 2023

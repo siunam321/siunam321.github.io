@@ -27,6 +27,7 @@
 14. **[KalmarCTF 2023](#karmalctf-2023)**
 
 ## TryHackMe
+- [Bugged](https://siunam321.github.io/ctf/tryhackme/Bugged)
 - [Generic University](https://siunam321.github.io/ctf/tryhackme/Generic-University)
 - [Uranium CTF](https://siunam321.github.io/ctf/tryhackme/Uranium-CTF)
 - [MD2PDF](https://siunam321.github.io/ctf/tryhackme/MD2PDF)
