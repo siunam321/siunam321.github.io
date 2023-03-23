@@ -341,11 +341,11 @@ As you can see, it's parsing all the usernames to the `admin` template, and rend
   <div class="d-flex justify-content-center align-items-center flex-column" style="height: 100vh;">
     <h1>Active Users</h1>
     <ul class="list-group small-list">
-      {{for users.split(',')}}
+      \{\{for users.split(',')\}\}
         <li class="list-group-item d-flex justify-content-between align-items-center ">
-          <span>{{>}}</span>
+          <span>\{\{>\}\}</span>
         </li>
-      {{/for}}
+      \{\{/for\}\}
     </ul>
   </div>
 </body>
@@ -370,7 +370,7 @@ In that blog, it has a JsRender SSTI RCE payload.
 >  
 > ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-2023/images/Pasted%20image%2020230320141757.png)
 
-> Due to the reflective nature of JavaScript, it is possible to **break out of this restricted context**. One method to achieve this is to access the special **`“constructor”`** property of a built-in JavaScript function, this gives us access to the function used to create the function (or object) we are referencing it from. For example, several JavaScript objects including strings have a default function named **`toString()`** which we can reference within the injected expression, e.g. **`{{:"test".toString()}}`**
+> Due to the reflective nature of JavaScript, it is possible to **break out of this restricted context**. One method to achieve this is to access the special **`“constructor”`** property of a built-in JavaScript function, this gives us access to the function used to create the function (or object) we are referencing it from. For example, several JavaScript objects including strings have a default function named **`toString()`** which we can reference within the injected expression, e.g. **`\{\{:"test".toString()\}\}`**
 
 > From here we can access the function **`constructor`** which allows us to build a new function by calling it. In this example we create an anonymous function designed to display a JavaScript alert box.
 
