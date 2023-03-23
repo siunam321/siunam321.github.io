@@ -375,7 +375,7 @@ In that blog, it has a JsRender SSTI RCE payload.
 > From here we can access the function **`constructor`** which allows us to build a new function by calling it. In this example we create an anonymous function designed to display a JavaScript alert box.
 
 ```js
-{{:%22test%22.toString.constructor.call({},"alert('xss')")}}
+\{\{:%22test%22.toString.constructor.call({},"alert('xss')")\}\}
 ```
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-2023/images/Pasted%20image%2020230320142129.png)
