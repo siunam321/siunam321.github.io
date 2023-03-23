@@ -24,7 +24,8 @@
 11. **[Incognito 4.0](#incognito-40)**
 12. **[pbctf 2023](#pbctf-2023)**
 13. **[VU Cyberthon 2023](#vu-cyberthon-2023)**
-14. **[KalmarCTF 2023](#karmalctf-2023)**
+14. **[KalmarCTF 2023](#kalmarctf-2023)**
+15. **[Cyber Apocalypse 2023](#cyber-apocalypse-2023)**
 
 ## TryHackMe
 - [Bugged](https://siunam321.github.io/ctf/tryhackme/Bugged)
@@ -510,3 +511,9 @@
 ## [KalmarCTF 2023](https://siunam321.github.io/ctf/KalmarCTF-2023/)
 - web
 - forensic
+
+## [Cyber Apocalypse 2023](https://siunam321.github.io/ctf/Cyber-Apocalypse-2023/)
+- Web
+- Pwn
+- Misc
+- Reversing
