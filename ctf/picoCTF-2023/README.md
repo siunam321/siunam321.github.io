@@ -11,7 +11,7 @@
     2. [MatchTheRegex](https://siunam321.github.io/ctf/picoCTF-2023/Web-Exploitation/MatchTheRegex/)
     3. [SOAP](https://siunam321.github.io/ctf/picoCTF-2023/Web-Exploitation/SOAP/)
     4. [More SQLi](https://siunam321.github.io/ctf/picoCTF-2023/Web-Exploitation/More-SQLi/)
-    5. [Java Code Analysis!?!](https://siunam321.github.io/ctf/picoCTF-2023/Web-Exploitation/Java-Code-Analysis!?!/)
+    5. [Java Code Analysis!?!](https://siunam321.github.io/ctf/picoCTF-2023/Web-Exploitation/Java-Code-Analysis/)
     6. [msfroggenerator2](https://siunam321.github.io/ctf/picoCTF-2023/Web-Exploitation/msfroggenerator2/) ***(Unsolved)***
 - General Skills:
     1. [Permissions](https://siunam321.github.io/ctf/picoCTF-2023/General-Skills/Permissions/)
