@@ -12,7 +12,7 @@ In my [Higher Diploma in Cybersecurity at Hong Kong Institute of Vocational Educ
 - Website: [https://phishing-lab.infinityfreeapp.com](https://phishing-lab.infinityfreeapp.com)
 - Source code: [https://github.com/siunam321/phishing-lab](https://github.com/siunam321/phishing-lab)
 
-| ![](../website.png) |
+| ![](/blog/images/website.png) |
 |:--:|
 | *Website* |
 
