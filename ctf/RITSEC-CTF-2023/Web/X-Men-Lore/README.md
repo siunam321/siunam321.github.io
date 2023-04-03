@@ -10,15 +10,15 @@ The 90's X-Men Animated Series is better than the movies. Change my mind.
 
 [https://xmen-lore-web.challenges.ctf.ritsec.club/](https://xmen-lore-web.challenges.ctf.ritsec.club/)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142159.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142159.png)
 
 ## Enumeration
 
 **Home page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142237.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142237.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142246.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142246.png)
 
 In here, we can choose an X-Men Character.
 
@@ -78,13 +78,13 @@ When we click those buttons, **it'll set a new cookie for us**, and the key is `
 
 **Let's click on the "Beast" button:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142517.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142517.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142538.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142538.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142545.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142545.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142636.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401142636.png)
 
 **Hmm... Let's decode that base64 string:**
 ```shell
@@ -130,7 +130,7 @@ if __name__ == '__main__':
 PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz48aW5wdXQ+PHhtZW4+YW55dGhpbmc8L3htZW4+PC9pbnB1dD4=
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401143529.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401143529.png)
 
 Cool! It's ***reflected to the response***!!
 
@@ -159,7 +159,7 @@ Cool! It's ***reflected to the response***!!
 PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgcm9vdCBbIDwhRU5USVRZIHh4ZSBTWVNURU0gImZpbGU6Ly8vZXRjL3Bhc3N3ZCI+IF0+PGlucHV0Pjx4bWVuPiZ4eGU7PC94bWVuPjwvaW5wdXQ+
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401143745.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/RITSEC-CTF-2023/images/Pasted%20image%2020230401143745.png)
 
 Nice! We can confirm the `xmen` cookie is indeed vulnerable to XXE!!
 
