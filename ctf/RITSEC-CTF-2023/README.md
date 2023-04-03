@@ -29,9 +29,6 @@
     2. [Guess the Password?](https://siunam321.github.io/ctf/RITSEC-CTF-2023/Reversing/Guess-the-Password/)
 - Chandi Bot:
     1. [Chandi Bot 1 - 6](https://siunam321.github.io/ctf/RITSEC-CTF-2023/Chandi-Bot/Chandi-Bot-1-6/)
-    2. [Chandi Bot](https://siunam321.github.io/ctf/RITSEC-CTF-2023/Chandi-Bot/Chandi-Bot-1-6/#chandi-bot-3)
-    3. [Chandi Bot](https://siunam321.github.io/ctf/RITSEC-CTF-2023/Chandi-Bot/Chandi-Bot-1-6/#chandi-bot-4)
-    4. [Chandi Bot](https://siunam321.github.io/ctf/RITSEC-CTF-2023/Chandi-Bot/Chandi-Bot-1-6/#chandi-bot-6)
 
 ## Background
 
