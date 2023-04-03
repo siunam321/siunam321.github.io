@@ -5,19 +5,22 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: Mar 31, 2023 (UTC+8)
+##### Last Update: Apr 3, 2023 (UTC+8)
 
 - CTF Writeups
+	- [RITSEC CTF 2023](https://siunam321.github.io/ctf/RITSEC-CTF-2023/), Apr 3, 2023
+		- BIN-PWN
+		- Crypto
+		- Forensics
+		- Steganography
+		- Web
+		- Reversing
+		- Chandi Bot
 	- [picoCTF 2023](https://siunam321.github.io/ctf/picoCTF-2023/), Mar 31, 2023
 		- Web Exploitation
 		- General Skills
 		- Binary Exploitation
 		- Reverse Engineering
-	- [Cyber Apocalypse 2023](https://siunam321.github.io/ctf/Cyber-Apocalypse-2023/), Mar 23, 2023
-		- Web
-		- Pwn
-		- Misc
-		- Reversing
 	- TryHackMe
 		- [Bugged](https://siunam321.github.io/ctf/tryhackme/Bugged), Mar 10, 2023
 		- [Generic University](https://siunam321.github.io/ctf/tryhackme/Generic-University), Feb 26, 2023

@@ -27,6 +27,7 @@
 14. **[KalmarCTF 2023](#kalmarctf-2023)**
 15. **[Cyber Apocalypse 2023](#cyber-apocalypse-2023)**
 16. **[picoCTF 2023](#picoctf-2023)**
+17. **[RITSEC CTF 2023](#ritsec-ctf-2023)**
 
 ## TryHackMe
 - [Bugged](https://siunam321.github.io/ctf/tryhackme/Bugged)
@@ -524,3 +525,12 @@
 - General Skills
 - Binary Exploitation
 - Reverse Engineering
+
+# [RITSEC CTF 2023](https://siunam321.github.io/ctf/RITSEC-CTF-2023/)
+- BIN-PWN
+- Crypto
+- Forensics
+- Steganography
+- Web
+- Reversing
+- Chandi Bot
