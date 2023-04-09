@@ -183,7 +183,7 @@ set winner [check_win $new_board]
 ```tcl
 [...]
 proc check_win {board} {
-    set win {{1 2 3} {4 5 6} {7 8 9} {1 4 7} {2 5 8} {3 6 9} {1 5 9} {3 5 7}}
+    set win \{{1 2 3} {4 5 6} {7 8 9} {1 4 7} {2 5 8} {3 6 9} {1 5 9} {3 5 7}\}
     foreach combo $win {
         foreach player {X O} {
             set count 0
@@ -244,7 +244,7 @@ Let's move on!
 ```tcl
 [...]
 proc computer_make_move {board} {
-    set win {{1 2 3} {4 5 6} {7 8 9} {1 4 7} {2 5 8} {3 6 9} {1 5 9} {3 5 7}}
+    set win \{{1 2 3} {4 5 6} {7 8 9} {1 4 7} {2 5 8} {3 6 9} {1 5 9} {3 5 7}\}
     # check if computer can win
     foreach combo $win {
         set count 0
