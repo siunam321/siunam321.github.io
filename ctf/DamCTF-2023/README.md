@@ -40,7 +40,7 @@ DamCTF is a [Capture the Flag](https://ctftime.org/ctf-wtf/) competition hosted 
 ## What I've learned in this CTF
 
 - web:
-    1. Exploiting Logic Bug & Race Condition ([tcl-tac-toe](https://siunam321.github.io/ctf/DamCTF-2023/web/tcl-tac-toe/))
+    1. Exploiting Logic Bug ([tcl-tac-toe](https://siunam321.github.io/ctf/DamCTF-2023/web/tcl-tac-toe/))
     2. PyScript XSS ([url-stored-notes](https://siunam321.github.io/ctf/DamCTF-2023/web/url-stored-notes/))
 - misc:
     1. Extract Hidden File In PKZip & Unicode Steganography With Zero-Width Characters ([de-compressed](https://siunam321.github.io/ctf/DamCTF-2023/misc/de-compressed/))
