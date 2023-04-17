@@ -29,6 +29,7 @@
 16. **[picoCTF 2023](#picoctf-2023)**
 17. **[RITSEC CTF 2023](#ritsec-ctf-2023)**
 18. **[DamCTF 2023](#damctf-2023)**
+19. **[PlaidCTF 2023](#plaidctf-2023)**
 
 ## TryHackMe
 - [Bugged](https://siunam321.github.io/ctf/tryhackme/Bugged)
@@ -537,5 +538,9 @@
 - Chandi Bot
 
 # [DamCTF 2023](https://siunam321.github.io/ctf/DamCTF-2023/)
+- web
+- misc
+
+# [PlaidCTF 2023](https://siunam321.github.io/ctf/PlaidCTF-2023/)
 - web
 - misc
