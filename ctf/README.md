@@ -32,6 +32,7 @@
 19. **[PlaidCTF 2023](#plaidctf-2023)**
 
 ## TryHackMe
+- [Opacity](https://siunam321.github.io/ctf/tryhackme/Opacity)
 - [Bugged](https://siunam321.github.io/ctf/tryhackme/Bugged)
 - [Generic University](https://siunam321.github.io/ctf/tryhackme/Generic-University)
 - [Uranium CTF](https://siunam321.github.io/ctf/tryhackme/Uranium-CTF)
