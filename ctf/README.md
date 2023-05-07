@@ -30,6 +30,7 @@
 17. **[RITSEC CTF 2023](#ritsec-ctf-2023)**
 18. **[DamCTF 2023](#damctf-2023)**
 19. **[PlaidCTF 2023](#plaidctf-2023)**
+20. **[PwnMe Qualifications : "8 bits"](#pwnme-qualifications-8-bits)**
 
 ## TryHackMe
 - [Opacity](https://siunam321.github.io/ctf/tryhackme/Opacity)
@@ -545,3 +546,8 @@
 # [PlaidCTF 2023](https://siunam321.github.io/ctf/PlaidCTF-2023/)
 - web
 - misc
+
+# [PwnMe Qualifications : "8 bits"](https://siunam321.github.io/ctf/PwnMe-2023-8-bits/)
+- Web
+- Reverse
+- Forenics
