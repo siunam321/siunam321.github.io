@@ -603,7 +603,7 @@ if __name__ == '__main__':
 
 ```shell
 root@2ff4890118ce:/python-docker# python test.py
-{'welcome': 'Test of new template system: {%block test%}Block test{%endblock%}'}
+{'welcome': 'Test of new template system: {\%block test%}Block test{\%endblock%}'}
 Polluted secret
 ```
 
