@@ -568,7 +568,7 @@ secret = 'hello'
 class Articles:
 
     def __init__(self):
-        self.set('welcome', 'Test of new template system: {%block test%}Block test{%endblock%}')
+        self.set('welcome', 'Test of new template system: {\%block test%}Block test{\%endblock%}')
 
     def set(self, article_name, article_content):
         pydash.set_(self, article_name, article_content)
