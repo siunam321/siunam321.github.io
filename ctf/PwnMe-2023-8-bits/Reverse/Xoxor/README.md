@@ -20,7 +20,7 @@
 I need to buy that super duper extra legendary item no matter what !  
 But I can't access their store... Maybe you can help me?
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506141449.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506141449.png)
 
 ## Find the flag
 
@@ -125,7 +125,7 @@ To do so, we can write a Python script.
 
 **However, instead of converting function `FUN_001011e9()` by hand, we can use LLM to help us, like ChatGPT!**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506142948.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506142948.png)
 
 **Then after few modification, it XOR'ed the correct password!**
 ```py

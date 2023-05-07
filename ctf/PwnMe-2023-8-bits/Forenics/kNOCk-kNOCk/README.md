@@ -20,7 +20,7 @@
 We have to monitor our network every day to make sure our admins don't help players get out of the game.  
 We are sending you a suspicious capture. Do your job !
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506134311.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506134311.png)
 
 ## Find the flag
 
@@ -37,23 +37,23 @@ Intro.pcapng: pcapng capture file - version 1.0
 └> wireshark Intro.pcapng
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506134734.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506134734.png)
 
 We can see that there are 15144 packets.
 
 **In "Statistics" -> "Protocol Hierarchy", we can see different protocols has been captured in this pcap file:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506134933.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506134933.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506134947.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506134947.png)
 
 In TCP protocol, there are 6 HTTP packets, and the "Media Type" is interesting to us.
 
 **We can export that object:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506135623.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506135623.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506135640.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506135640.png)
 
 ```shell
 ┌[siunam♥earth]-(~/ctf/PwnMe-2023-8-bits/Forensics/kNOCk-kNOCk)-[2023.05.06|13:52:11(HKT)]

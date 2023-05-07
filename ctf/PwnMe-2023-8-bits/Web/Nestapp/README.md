@@ -20,21 +20,21 @@ In order to create an API with an auth system, a developer used NestJS. He tried
   
 But is it enough ? Your goal is to read the flag, located in /home/flag.txt
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507165029.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507165029.png)
 
 ## Enumeration
 
 **Home page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184314.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184314.png)
 
 In here, we can login and create an account.
 
 Let's create an account!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184400.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184400.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184406.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184406.png)
 
 After logged in, it renders: "As a regular user, you can't do anything for now"
 
@@ -42,9 +42,9 @@ Hmm... Looks like we need to escalate our privilege to admin?
 
 Burp Suite HTTP history:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184609.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184609.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184807.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507184807.png)
 
 When we're registered or logged in, it'll responses us a JWT (JSON Web Token) as the session cookie.
 
@@ -52,7 +52,7 @@ In the header, the JWT uses HS256 (HMAC + SHA256) algorithm. In the payload, we 
 
 **Then, it'll also send a GET request to `/infos`:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507185020.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507185020.png)
 
 This will response us our username and user ID.
 
@@ -130,7 +130,7 @@ According to [safe-eval](https://www.npmjs.com/package/safe-eval) npm page, it s
 
 **Simulating after logged in as `admin`:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507190952.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507190952.png)
 
 Hmm... Maybe we can do sandbox bypass and gain Remote Code Execution (RCE) if we're `admin`?
 

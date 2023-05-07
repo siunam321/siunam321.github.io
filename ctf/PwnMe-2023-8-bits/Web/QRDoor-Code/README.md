@@ -24,23 +24,23 @@ They need you to audit their code and help them to resolve their problem
 
 _Flag is situed in /app/flag.txt_
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120108.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120108.png)
 
 ## Enumeration
 
 **Home page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120211.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120211.png)
 
 In here, we can type something to generate a QR code:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120354.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120354.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120402.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120402.png)
 
 Burp Suite HTTP history:
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120422.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506120422.png)
 
 When the "Generate" button is clicked, it'll send a POST request to `/generate`, with JSON data of our input.
 

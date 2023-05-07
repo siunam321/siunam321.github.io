@@ -20,29 +20,29 @@
 
 Objective: Read the flag, situated on the server in `/app/flag.txt`
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506222918.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506222918.png)
 
 ## Enumeration
 
 **Home page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506222955.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506222955.png)
 
 In here, we can see this web application is a blog, and it's about pollution! (Prototype pollution? :D)
 
 **Articles page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506223142.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506223142.png)
 
 In here, we can create a new article, with it's name and content.
 
 **Register page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506223153.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506223153.png)
 
 **Login page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506223203.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506223203.png)
 
 **Since this challenge provided the [source code](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/Web/Anozer-Blog/another-blog.zip), let's read through them!**
 ```shell
@@ -183,35 +183,8 @@ def show_template():
 When `value` GET parameter is provided and it's value is `1`, it sets user's `seeTemplate` to `True`.
 
 **Then, in `/templates/banner.html`, we see this:**
-```html
-[...]
-{% if 'user' in session %}
-<label style="display: none" class="mx-5 relative inline-flex items-center cursor-pointer">
-  {% if session['user'].seeTemplate != False %}
-  <input id="template" checked type="checkbox" value="" class="sr-only peer">
-  {% else %}
-  <input id="template" type="checkbox" value="" class="sr-only peer">
-  {% endif %}
-  <div
-    class="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600">
-  </div>
-  <span class="ml-3 text-sm font-medium text-gray-900 dark:text-gray-300">Template view (only for admin)</span>
-</label>
 
-<script>
-  var checkbox = document.getElementById("template");
-
-  checkbox.addEventListener('change', function () {
-    if (this.checked) {
-      document.location = '/show_template?value=1'
-    } else {
-      document.location = '/show_template?value=0'
-    }
-  });
-</script>
-
-{% endif %}
-```
+![](/ctf/PwnMe-2023-8-bits/Web/Anozer-Blog/images/img1.png)
 
 In here, we can see that **the template view is only for admin**, which means we need to do privilege escalation?
 
@@ -219,7 +192,7 @@ Also, there's a `<script>` element. When the checkbox is changed and checked, re
 
 **Simulate after logged in home page view:** (The `<label>` element's `style` attribute's `display: none` is removed.)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506231549.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506231549.png)
 
 Hmm... With that said, we need to somehow set our user as not restricted, so that we can see the template view.
 
@@ -241,11 +214,11 @@ If the user can see template, **it uses `render_template_string()` function with
 
 What does `render_template_string()` function do?
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506232821.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506232821.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506232829.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506232829.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506232841.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506232841.png)
 
 Hmm... Which means **if we're not a restricted user, we can abuse the `render_template_string()` function to exploit Server-Side Template Injection (SSTI) vulnerability via creating a new article with SSTI payload in the content, thus having Remote Code Execution (RCE), and read the flag!**
 
@@ -255,7 +228,7 @@ Ah! **Pollution**
 
 **Then, I decided to Google: "python prototype pollution"**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506233254.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506233254.png)
 
 "Class Pollution"?
 
@@ -483,21 +456,21 @@ print(NotAccessibleClass)
 
 **In the Abdulrah33m's blog post, we can see this:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140456.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140456.png)
 
 Ah ha! If we can leverage the Class Pollution, we can try to overwrite the Flask's secret key (It's used for JWT signing)!
 
 **Let's register an account and login!**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140645.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140645.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140650.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140650.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140703.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140703.png)
 
 **We can decode the JWT:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140735.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507140735.png)
 
 As you can see, in the header, the `seeTemplate` is set to `False`. **If we can overwrite the Flask's secret key, we can modify that key to `True`!!**
 
@@ -611,7 +584,7 @@ It worked!
 
 **After some painful debugging, I found [this CTF writeup from idekCTF 2022](https://ctftime.org/writeup/36082):**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507155751.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507155751.png)
 
 **When using the following payload, it polluted the Flask's secret key:**
 ```py
@@ -631,7 +604,7 @@ def index_1():
     return redirect('/')
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507160033.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507160033.png)
 
 ```
 172.17.0.1 - - [07/May/2023 07:59:28] "POST /create HTTP/1.1" 302 -
@@ -652,17 +625,17 @@ eyJ1c2VyIjp7InNlZVRlbXBsYXRlIjp0cnVlLCJ1c2VybmFtZSI6ImFkbWluIn19.ZFdeIw._87tCmpj
 
 **And change the original one:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507161704.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507161704.png)
 
 Boom!! We're the admin user now!!!
 
 **Now, let's view the `welcome` article, and it SHOULD render the `if` block:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162007.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162007.png)
 
 **Before admin:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162051.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162051.png)
 
 Nice!!! It does!!
 
@@ -673,9 +646,9 @@ With that said, let's exploit RCE via SSTI vulnerability!
 \{\{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('id').read() \}\}
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162317.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162317.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162323.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162323.png)
 
 Yes!!! Let's read the flag!!!
 
@@ -683,9 +656,9 @@ Yes!!! Let's read the flag!!!
 \{\{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('cat /app/flag.txt').read() \}\}
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162550.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162550.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162623.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162623.png)
 
 - **Flag: `PWNME{de3P_pOL1uTi0n_cAn_B3_D3s7rUctIv3}`**
 

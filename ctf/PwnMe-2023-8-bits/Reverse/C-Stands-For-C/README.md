@@ -19,7 +19,7 @@
 
 So I heard about a secret shop who uses a strong password, but it seems like they forgot you were even stronger ! Hey, if you find the password I'll give you a flag. Sounds good? Sweet!
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506141006.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506141006.png)
 
 ## Find the flag
 
@@ -61,7 +61,7 @@ Right off the bat, we see a string that looks like a flag. However, it's being r
 
 **We can use [CyberChef](https://gchq.github.io/CyberChef/) to rotate it back:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506141355.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506141355.png)
 
 - **Flag: `PWNME{Why_d1d_Y0u_l00K_h3r3???e65fd03}`**
 

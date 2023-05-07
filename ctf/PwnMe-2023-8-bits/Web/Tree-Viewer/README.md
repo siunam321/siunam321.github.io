@@ -26,13 +26,13 @@ Find a way to abuse this functionality, and read the content of `/home/flag.txt`
 
 **Home page:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506114909.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506114909.png)
 
 In here, we can view the source code, and an input box, which allows us to check a directory.
 
 **Let's look at the source code:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506114959.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506114959.png)
 
 When the `source` GET parameter is provided, it'll highlight the index file.
 
@@ -99,7 +99,7 @@ That being said, although it has a regex filter, it's still **vulnerable to OS c
 
 **Also, I'll be using Burp Suite's Repeater to send the payload:**
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506115756.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506115756.png)
 
 Boom! We have Remote Code Execution (RCE)!
 
@@ -108,7 +108,7 @@ Boom! We have Remote Code Execution (RCE)!
 %0acat /home/flag.txt
 ```
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506115910.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230506115910.png)
 
 - **Flag: `PWNME{U53R_1NpU75_1n_5h3lL_3x3c_77}`**
 
