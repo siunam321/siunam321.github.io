@@ -33,6 +33,7 @@
 20. **[PwnMe Qualifications : "8 bits"](#pwnme-qualifications--8-bits)**
 
 ## TryHackMe
+- [Capture!](https://siunam321.github.io/ctf/tryhackme/Capture)
 - [Opacity](https://siunam321.github.io/ctf/tryhackme/Opacity)
 - [Bugged](https://siunam321.github.io/ctf/tryhackme/Bugged)
 - [Generic University](https://siunam321.github.io/ctf/tryhackme/Generic-University)
