@@ -31,6 +31,7 @@
 18. **[DamCTF 2023](#damctf-2023)**
 19. **[PlaidCTF 2023](#plaidctf-2023)**
 20. **[PwnMe Qualifications : "8 bits"](#pwnme-qualifications--8-bits)**
+21. **[HeroCTF v5](#heroctf-v5)**
 
 ## TryHackMe
 - [Capture!](https://siunam321.github.io/ctf/tryhackme/Capture)
@@ -552,3 +553,13 @@
 - Web
 - Reverse
 - Forenics
+
+# [HeroCTF v5](https://siunam321.github.io/ctf/HeroCTF-v5/)
+- Forensic
+- Misc
+- Prog
+- Reverse
+- Sponsors
+- Steganography
+- System
+- Web
