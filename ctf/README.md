@@ -126,6 +126,7 @@
 - [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 ## HackTheBox
+- [Chatterbox](https://siunam321.github.io/ctf/hackthebox/Chatterbox)
 - [Devel](https://siunam321.github.io/ctf/hackthebox/Devel)
 - [Shoppy](https://siunam321.github.io/ctf/hackthebox/Shoppy/)
 - [Support](https://siunam321.github.io/ctf/hackthebox/Support/)

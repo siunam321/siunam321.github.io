@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: May 16, 2023 (UTC+8)
+##### Last Update: May 18, 2023 (UTC+8)
 
 - CTF Writeups
 	- [HeroCTF v5](https://siunam321.github.io/ctf/HeroCTF-v5/), May 15, 2023
@@ -18,6 +18,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- System
 		- Web
 	- HackTheBox
+		- [Chatterbox](https://siunam321.github.io/ctf/hackthebox/Chatterbox), May 18, 2023
 		- [Devel](https://siunam321.github.io/ctf/hackthebox/Devel), May 16, 2023
 	- TryHackMe
 		- [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback), May 16, 2023
