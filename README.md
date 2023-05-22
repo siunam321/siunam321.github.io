@@ -5,9 +5,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: May 19, 2023 (UTC+8)
+##### Last Update: May 22, 2023 (UTC+8)
 
 - CTF Writeups
+	- [Grey Cat The Flag 2023 Qualifiers](https://siunam321.github.io/ctf/Grey-Cat-The-Flag-2023-Qualifiers/), May 22, 2023
+		- Web
+		- Misc
 	- [HeroCTF v5](https://siunam321.github.io/ctf/HeroCTF-v5/), May 15, 2023
 		- Forensic
 		- Misc
