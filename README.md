@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: May 22, 2023 (UTC+8)
+##### Last Update: May 26, 2023 (UTC+8)
 
 - CTF Writeups
 	- [Grey Cat The Flag 2023 Qualifiers](https://siunam321.github.io/ctf/Grey-Cat-The-Flag-2023-Qualifiers/), May 22, 2023
@@ -24,6 +24,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- SQL injection:
 			- [Visible error-based SQL injection](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13), May 19, 2023
 	- HackTheBox
+		- [SecNotes](https://siunam321.github.io/ctf/hackthebox/SecNotes), May 26, 2023
 		- [Chatterbox](https://siunam321.github.io/ctf/hackthebox/Chatterbox), May 18, 2023
 		- [Devel](https://siunam321.github.io/ctf/hackthebox/Devel), May 16, 2023
 	- TryHackMe
