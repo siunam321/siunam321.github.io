@@ -5,24 +5,15 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: May 26, 2023 (UTC+8)
+##### Last Update: May 29, 2023 (UTC+8)
 
 - CTF Writeups
+	- [DEF CON CTF Qualifier 2023](https://siunam321.github.io/ctf/DEF-CON-CTF-Qualifier-2023/), May 29, 2023
+		- Intro
+		- Quals
 	- [Grey Cat The Flag 2023 Qualifiers](https://siunam321.github.io/ctf/Grey-Cat-The-Flag-2023-Qualifiers/), May 22, 2023
 		- Web
 		- Misc
-	- [HeroCTF v5](https://siunam321.github.io/ctf/HeroCTF-v5/), May 15, 2023
-		- Forensic
-		- Misc
-		- Prog
-		- Reverse
-		- Sponsors
-		- Steganography
-		- System
-		- Web
-	- PortSwigger Labs:
-		- SQL injection:
-			- [Visible error-based SQL injection](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-13), May 19, 2023
 	- HackTheBox
 		- [Access](https://siunam321.github.io/ctf/hackthebox/Access), May 26, 2023
 		- [Jeeves](https://siunam321.github.io/ctf/hackthebox/Jeeves), May 26, 2023
