@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: May 29, 2023 (UTC+8)
+##### Last Update: June 3, 2023 (UTC+8)
 
 - CTF Writeups
 	- [DEF CON CTF Qualifier 2023](https://siunam321.github.io/ctf/DEF-CON-CTF-Qualifier-2023/), May 29, 2023
@@ -15,11 +15,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- Web
 		- Misc
 	- HackTheBox
+		- [Shocker](https://siunam321.github.io/ctf/hackthebox/Shocker), June 3, 2023
 		- [Access](https://siunam321.github.io/ctf/hackthebox/Access), May 26, 2023
 		- [Jeeves](https://siunam321.github.io/ctf/hackthebox/Jeeves), May 26, 2023
 		- [SecNotes](https://siunam321.github.io/ctf/hackthebox/SecNotes), May 26, 2023
 		- [Chatterbox](https://siunam321.github.io/ctf/hackthebox/Chatterbox), May 18, 2023
-		- [Devel](https://siunam321.github.io/ctf/hackthebox/Devel), May 16, 2023
 	- TryHackMe
 		- [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback), May 16, 2023
 		- [Capture!](https://siunam321.github.io/ctf/tryhackme/Capture), May 12, 2023
