@@ -99,7 +99,7 @@ Then, I realized that this machine's name is called `shocker`, which let me thin
 
 > Shellshock is a Remote Command Execution vulnerability in BASH. The vulnerability relies in the fact that BASH incorrectly executes trailing commands when it imports a function definition stored into an environment variable.
 > 
-> We could gain Remote Code Execution (RCE) via Apache with `mod_cgi`, CGI Scripts, Python, Perl. (From [https://owasp.org/www-pdf-archive/Shellshock_-_Tudor_Enache.pdf](https://owasp.org/www-pdf-archive/Shellshock_-_Tudor_Enache.pdf))
+> We could gain Remote Code Execution (RCE) via Apache with `mod_cgi`, CGI Scripts, Python, Perl. (From [https://owasp.org/www-pdf-archive/Shellshock_-\_Tudor_Enache.pdf](https://owasp.org/www-pdf-archive/Shellshock_-_Tudor_Enache.pdf))
 
 That being said, if the web application has CGI script, we can try to exploit Shellshock vulnerability.
 
