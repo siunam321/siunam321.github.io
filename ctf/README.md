@@ -128,6 +128,7 @@
 - [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 ## HackTheBox
+- [Brainfuck](https://siunam321.github.io/ctf/hackthebox/Brainfuck)
 - [Shocker](https://siunam321.github.io/ctf/hackthebox/Shocker)
 - [Access](https://siunam321.github.io/ctf/hackthebox/Access)
 - [Jeeves](https://siunam321.github.io/ctf/hackthebox/Jeeves)
