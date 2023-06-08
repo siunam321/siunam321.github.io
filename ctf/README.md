@@ -1,4 +1,4 @@
-# CTF Writeups
+# Writeups
 * * *
 
 ## Table of Contents
