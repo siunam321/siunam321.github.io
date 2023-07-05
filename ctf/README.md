@@ -427,6 +427,8 @@
 	- [Exfiltrating sensitive data via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-10)
 - Essential Skills
 	- [Discovering vulnerabilities quickly with targeted scanning](https://siunam321.github.io/ctf/portswigger-labs/Essential-Skills/essential-skills-1)
+- Testing GraphQL APIs
+	- [Accessing private GraphQL posts](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-1)
 
 ## picoGym
 - Web Exploitation
