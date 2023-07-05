@@ -429,6 +429,7 @@
 	- [Discovering vulnerabilities quickly with targeted scanning](https://siunam321.github.io/ctf/portswigger-labs/Essential-Skills/essential-skills-1)
 - Testing GraphQL APIs
 	- [Accessing private GraphQL posts](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-1)
+	- [Accidental exposure of private GraphQL fields](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-2)
 
 ## picoGym
 - Web Exploitation
