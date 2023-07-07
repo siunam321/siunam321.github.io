@@ -1,4 +1,4 @@
-# Bypassing GraphQL brute force protections
+# Bypassing GraphQL brute force protections | July 7, 2023
 
 ## Introduction
 
