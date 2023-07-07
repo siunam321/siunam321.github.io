@@ -18,6 +18,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- [Jeeves](https://siunam321.github.io/ctf/hackthebox/Jeeves), May 26, 2023
 		- [SecNotes](https://siunam321.github.io/ctf/hackthebox/SecNotes), May 26, 2023
 	- PortSwigger Labs
+		- [Finding a hidden GraphQL endpoint](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-3), July 5, 2023
 		- [Accidental exposure of private GraphQL fields](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-2), July 5, 2023
 		- [Accessing private GraphQL posts](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-1), July 5, 2023
 

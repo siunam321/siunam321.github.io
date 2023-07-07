@@ -430,6 +430,7 @@
 - Testing GraphQL APIs
 	- [Accessing private GraphQL posts](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-1)
 	- [Accidental exposure of private GraphQL fields](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-2)
+	- [Finding a hidden GraphQL endpoint](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-3)
 
 ## picoGym
 - Web Exploitation
