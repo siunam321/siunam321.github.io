@@ -34,6 +34,7 @@
 21. **[HeroCTF v5](#heroctf-v5)**
 22. **[Grey Cat The Flag 2023 Qualifiers](#grey-cat-the-flag-2023-qualifiers)**
 23. **[DEF CON CTF Qualifier 2023](#def-con-ctf-qualifier-2023)**
+24. **[CrewCTF 2023](#crewctf-2023)**
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -588,3 +589,8 @@
 # [DEF CON CTF Qualifier 2023](https://siunam321.github.io/ctf/DEF-CON-CTF-Qualifier-2023/)
 - Intro
 - Quals
+
+# [CrewCTF 2023](https://siunam321.github.io/ctf/CrewCTF-2023/)
+- Misc
+- Forensics
+- Web
