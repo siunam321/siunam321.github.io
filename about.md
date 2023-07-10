@@ -14,7 +14,8 @@ Im Arthur Raillon, A.K.A **Arty06**.
 
 -[Root-me](root-me.org/Arty06): **Top 3%**
 
--“Work hard, hack harder”, “La root est longue,mais la voie est libre…”
+*“Work hard, hack harder”*
+*“La root est longue,mais la voie est libre…”*
 
 
 # Contact Me
