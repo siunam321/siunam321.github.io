@@ -69,7 +69,7 @@ Which looks very similar to the picture's one.
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/CrewCTF-2023/images/Pasted%20image%2020230708171715.png)
 
-Nice! We found it!
+Nice! We found the correct location!
 
 **However, I couldn't find the exact coordinate, so I brute forced it lol:**
 ```python
