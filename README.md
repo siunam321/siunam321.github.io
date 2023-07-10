@@ -18,10 +18,18 @@ You will be able to find some [blogs](blog), [Writeups from CTFs](ctf), also som
 
     
 - Cheat-Sheet
-	- [XSS Cheat-Sheet](https://Arty06.github.io/cheat-sheet/#XSS)
-	- [Bypassing GraphQL brute force protections](https://Arty06.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-4), July 7, 2023
-	- [Finding a hidden GraphQL endpoint](https://Arty06.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-3), July 7, 2023
-	- [Accidental exposure of private GraphQL fields](https://Arty06.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-2), July 5, 2023
-	- [Accessing private GraphQL posts](https://Arty06.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-1), July 5, 2023
+	- [XSS Cheat-Sheet](https://artyeth06.github.io/cheat-sheet/XSS)
+	- [SQL Cheat-sheet](https://artyeth06.github.io.cheat-sheet/SQL)
+	- [Cookies Cheat-sheet](https://artyeth06.github.io.cheat-sheet/Cookies)
+
+
+
+- Personnal Projects
+	- idk
+
+
+ 
+- Blog
+	- idk x)
 
 * * *
