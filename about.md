@@ -2,6 +2,8 @@
 
 Im Arthur Raillon, A.K.A **Arty06**.
 
+Just a 16 years-old not dreaming of being a pentester...But doing everything to become one.
+
 ## Ethical hacker👨🏻‍💻, developper💻, trader📈
 
 -💻Im a developper (HTML/CSS/Javascript/Python/solidity)
@@ -13,6 +15,11 @@ Im Arthur Raillon, A.K.A **Arty06**.
 -🚀Im 16 years old and grinding for my dream school
 
 -[Root-me](root-me.org/Arty06): **Top 3%**
+-[TryHackMe](https://tryhackme.com/p/Arty06): **Top 9%**
+-[Hack The Box](https://app.hackthebox.com/profile/1052974)
+-[Ozint.eu](https://ozint.eu/ozinter/7907/)
+
+
 
 *“Work hard, hack harder”*
 *“La root est longue,mais la voie est libre…”*
