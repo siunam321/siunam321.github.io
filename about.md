@@ -1,8 +1,8 @@
 # Whoami❓
 
-Im Arthur Raillon, A.K.A **Arty06**.
+Hey Wassup ❓Im Arthur Raillon, A.K.A **Arty06**.
 
-Just a 16 years-old not dreaming of being a pentester...But doing everything to become one.
+Just a 1️⃣6️⃣ years-old not dreaming of being a pentester🐱‍💻...But doing everything to become one🚀.
 
 ## Ethical hacker👨🏻‍💻, developper💻, trader📈
 
