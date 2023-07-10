@@ -14,9 +14,14 @@ Just a 1️⃣6️⃣ years-old not dreaming of being a pentester🐱‍💻...B
 
 -🚀Im 16 years old and grinding for my dream school
 
+* * * 
+
 -[Root-me](root-me.org/Arty06): **Top 3%**
+
 -[TryHackMe](https://tryhackme.com/p/Arty06): **Top 9%**
+
 -[Hack The Box](https://app.hackthebox.com/profile/1052974)
+
 -[Ozint.eu](https://ozint.eu/ozinter/7907/)
 
 
