@@ -36,7 +36,7 @@
 
 
 * * *
-
+# Wargames/Academy Labs:
 
 ## TryHackMe
 - None for the instant...
@@ -47,6 +47,8 @@
 
 
 * * *
+
+# CTFs:
 
 
 ## Root-me 10k members
