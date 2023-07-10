@@ -3,7 +3,7 @@
 Hey ! Welcome to my personnal Website 😁 !Here i will share a lot about my **Ethical Hacker Journey** ! (Well...For the instant just a green hat 😂😂😂)
 
 
-You will be able to find some [blogs](artyeth06.github.io/blog), [Writeups from CTFs](artyeth06.github.io/ctf), also some of my [personnal projects](projects) and some [cheat-sheet](#cheat-sheet) !
+You will be able to find some [blogs](blog), [Writeups from CTFs](ctf), also some of my [personnal projects](projects) and some [cheat-sheet](cheat-sheet) !
 
 (Website on work)
 
