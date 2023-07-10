@@ -10,26 +10,26 @@
 * * *
 
 ### CTFs:
-1. **[Root-me 10k members](#nahamcon-ctf-2022)**
-2. **[SecurityValley-always on CTF](#cyber-apocalypse-ctf-2022)**
-3. **[CTF Ekoparty](#hack-the-boo)**
-4. **[AM Cyber CTF](#guidepoint-security-oct27-2022-ctf)**
-5. **[Glacier CTF](#buckeyectf-2022)**
-6. **[Kit CTF](#hkcert-ctf-2022)**
-7. **[Intent CTF 2022](#nahamcon-eu-ctf-2022)**
-8. **[NhamCon EU CTF 2022](#knightctf-2023)**
-9. **[Ping CTF](#dicectf-2023)**
-10. **[Nite CTF 2022](#la-ctf-2023)**
-11. **[Tet CTF 2023](#incognito-40)**
-12. **[Iris CTF 2023](#pbctf-2023)**
-13. **[Knight CTF 2023](#vu-cyberthon-2023)**
-14. **[HexaOsint CTF 2023](#kalmarctf-2023)**
-15. **[Kraken CTF](#cyber-apocalypse-2023)**
-16. **[Davinci CTF](#picoctf-2023)**
-17. **[Cyber Apocalypse 2023-The Cursed Mission](#ritsec-ctf-2023)**
-18. **[FCSC 2023](#damctf-2023)**
-19. **[PwnMe Qualifications : "8 bits"](#plaidctf-2023)**
-20. **[crew CTF 2023](#pwnme-qualifications--8-bits)**
+1. **[Root-me 10k members](#Root-me-10k-members)**
+2. **[SecurityValley-always on CTF](#SecurityValley-always-on-CTF)**
+3. **[CTF Ekoparty](#CTF-Ekoparty)**
+4. **[AM Cyber CTF](#AM-Cyber-CTF)**
+5. **[Glacier CTF](#Glacier-CTF)**
+6. **[Kit CTF](#Kit-CTF)**
+7. **[Intent CTF 2022](#Intent-CTF-2022)**
+8. **[NhamCon EU CTF 2022](#NhamCon-EU-TF-2022)**
+9. **[Ping CTF](#Ping-CTF)**
+10. **[Nite CTF 2022](#Nite-CTF-2022)**
+11. **[Tet CTF 2023](#Tet-CTF-2023)**
+12. **[Iris CTF 2023](#Iris-CTF-2023)**
+13. **[Knight CTF 2023](#Knight-CTF-2023)**
+14. **[HexaOsint CTF 2023](#HexaOsint-CTF-2023)**
+15. **[Kraken CTF](#Kraken-CTF)**
+16. **[Davinci CTF](#Davinci-CTF)**
+17. **[Cyber Apocalypse 2023-The Cursed Mission](#Cyber-Apocalypse-2023-The-Cursed-Mission)**
+18. **[FCSC 2023](#FCSC-2023)**
+19. **[PwnMe Qualifications : "8 bits"](#PwnMe-Qualifications-:-"8-bits")**
+20. **[crew CTF 2023](#crew-CTF-2023)**
 
 * * *
 
