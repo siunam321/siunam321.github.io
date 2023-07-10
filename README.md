@@ -1,14 +1,15 @@
 # Arty06 Personal Website!
 
-hey ! Here is kinda all about me,enjoy ;)
-(Website on work)
+Hey ! Welcome to my personnal Website 😁 !Here i will share a lot about my **Ethical HAcker Journey** ! (Well...For the instant just a green hat 😂😂😂)
+You will be able to find some [blogs](#blog), [Writeups from CTFs](#ctf), also some of my [personnal projects](#projects) and some [cheat-sheet](#cheat-sheet) !
 
+(Website on work)
 
 
 * * *
 
 - CTF Writeups
-	- [CrewCTF 2023](https://siunam321.github.io/ctf/CrewCTF-2023/), July 10, 2023
+	- [CrewCTF 2023](https://siunam321.github.io/ctf/CrewCTF-2023/)
 		- Misc
 		- Forensics
 		  
