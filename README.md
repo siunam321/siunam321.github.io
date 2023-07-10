@@ -1,6 +1,8 @@
 # Arty06 Personal Website!
 
-Hey ! Welcome to my personnal Website 😁 !Here i will share a lot about my **Ethical HAcker Journey** ! (Well...For the instant just a green hat 😂😂😂)
+Hey ! Welcome to my personnal Website 😁 !Here i will share a lot about my **Ethical Hacker Journey** ! (Well...For the instant just a green hat 😂😂😂)
+
+
 You will be able to find some [blogs](#blog), [Writeups from CTFs](#ctf), also some of my [personnal projects](#projects) and some [cheat-sheet](#cheat-sheet) !
 
 (Website on work)
