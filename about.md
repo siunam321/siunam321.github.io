@@ -33,6 +33,6 @@ Just a 1️⃣6️⃣ years-old not dreaming of being a pentester🐱‍💻...B
 # Contact Me
 
 - Email: arty.crypto06@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/arthur-raillon](https://www.linkedin.com/in/arthur-raillon-arty-b95b21256/)
+- LinkedIn: [Arthur Raillon (A.K.A Arty06)](https://www.linkedin.com/in/arthur-raillon-arty-b95b21256/)
 - Discord: arty06
 - [GitHub](https://github.com/ArtyETH06)
