@@ -16,7 +16,7 @@ Just a 1️⃣6️⃣ years-old not dreaming of being a pentester🐱‍💻...B
 
 * * * 
 
--[Root-me](root-me.org/Arty06): **Top 3%**
+-[Root-me](https://root-me.org/Arty06): **Top 3%**
 
 -[TryHackMe](https://tryhackme.com/p/Arty06): **Top 9%**
 
