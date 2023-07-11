@@ -3,7 +3,7 @@
 * * *
 ## SQL Cheat-Sheet
 
--This [SQL cheat-sheet](SQL) is a kind of intro to SQL and also and obviously how to attack it and some PoC payloads !
+-This [SQL cheat-sheet](SQL/SQL) is a kind of intro to SQL and also and obviously how to attack it and some PoC payloads !
 
 
 ## XSS
@@ -13,7 +13,7 @@
 
 ## Cookies
 
--This [Cookies cheat-sheet](cookies) is a kind of intro to SQL and also and obviously how to attack it and some PoC payloads !
+-This [Cookies cheat-sheet](Cookies/Cookies) is a kind of intro to SQL and also and obviously how to attack it and some PoC payloads !
 
 
 
