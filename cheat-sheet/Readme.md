@@ -8,7 +8,7 @@
 
 ## XSS
 
--This [XSS cheat-sheet](XSS) is a kind of intro to SQL and also and obviously how to attack it and some PoC payloads !
+-This [XSS cheat-sheet](XSS/XSS) is a kind of intro to SQL and also and obviously how to attack it and some PoC payloads !
 
 
 ## Cookies
