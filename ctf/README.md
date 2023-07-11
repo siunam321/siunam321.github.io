@@ -58,7 +58,98 @@
 	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
 
 
-## [CTF Ekoparty]
+## [AM Cyber CTF]
 - Miscellaneous
 	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Kit CTF]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Intent CTF 2022]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [NahamCon EU CTF 2022]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Ping CTF]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Nite CTF 2022]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Tet CTF 2023]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Iris CTF 2023]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Knight CTF 2023]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [HexaOsint CTF 2023]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Kraken CTF]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Davinci CTF]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [Cyber Apocalypse 2023-The Cursed Mission]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [FCSC 2023]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [PwnMe Qualifications : “8 bits”]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
+
+
+## [crew CTF 2023]
+- Miscellaneous
+	- [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/)
+
 
