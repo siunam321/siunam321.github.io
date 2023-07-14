@@ -13,6 +13,8 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 - Mid January 2022: Started my ethical hacking journey
 - 12nd March 2022: Registered [TryHackMe](https://tryhackme.com/) account
 - 29th March 2022: Played my first CTF competition ([NahamCon CTF 2022](https://ctftime.org/event/1630/): [Writeup](https://siunam321.github.io/ctf/))
+- 14th February 2023: Joined CTF team "[JHDiscord](https://ctftime.org/team/62434)"
+- 11st July 2023: Joined CTF team "[ARESx](https://ctftime.org/team/128734/)"
 
 # Contact Me
 
