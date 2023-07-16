@@ -5,9 +5,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: July 10, 2023 (UTC+8)
+##### Last Update: July 16, 2023 (UTC+8)
 
 - CTF Writeups
+	- [zer0pts CTF 2023](https://siunam321.github.io/ctf/zer0pts-CTF-2023/), July 16, 2023
+		- web
 	- [CrewCTF 2023](https://siunam321.github.io/ctf/CrewCTF-2023/), July 10, 2023
 		- Misc
 		- Forensics
