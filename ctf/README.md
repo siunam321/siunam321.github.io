@@ -130,6 +130,7 @@
 - [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 ## HackTheBox
+- [Pandora](https://siunam321.github.io/ctf/hackthebox/Pandora)
 - [Backdoor](https://siunam321.github.io/ctf/hackthebox/Backdoor)
 - [Brainfuck](https://siunam321.github.io/ctf/hackthebox/Brainfuck)
 - [Shocker](https://siunam321.github.io/ctf/hackthebox/Shocker)
