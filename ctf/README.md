@@ -130,6 +130,7 @@
 - [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 ## HackTheBox
+- [Jarvis](https://siunam321.github.io/ctf/hackthebox/Jarvis)
 - [Bastard](https://siunam321.github.io/ctf/hackthebox/Bastard)
 - [Optimum](https://siunam321.github.io/ctf/hackthebox/Optimum)
 - [Search](https://siunam321.github.io/ctf/hackthebox/Search)

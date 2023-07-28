@@ -15,11 +15,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 		- Forensics
 		- Web
 	- HackTheBox
+		- [Jarvis](https://siunam321.github.io/ctf/hackthebox/Jarvis), July 28, 2023
 		- [Bastard](https://siunam321.github.io/ctf/hackthebox/Bastard), July 28, 2023
 		- [Optimum](https://siunam321.github.io/ctf/hackthebox/Optimum), July 28, 2023
 		- [Search](https://siunam321.github.io/ctf/hackthebox/Search), July 27, 2023
 		- [Pandora](https://siunam321.github.io/ctf/hackthebox/Pandora), July 26, 2023
-		- [Backdoor](https://siunam321.github.io/ctf/hackthebox/Backdoor), July 25, 2023
 	- PortSwigger Labs
 		- [Performing CSRF exploits over GraphQL](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-5), July 7, 2023
 		- [Bypassing GraphQL brute force protections](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-4), July 7, 2023
