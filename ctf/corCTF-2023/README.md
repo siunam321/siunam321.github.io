@@ -7,10 +7,10 @@
 ## Writeups
 
 - web:
-    1. [force](https://github.com/siunam321/CTF-Writeups/blob/main/corCTF-2023/web/force/README.md)
-    2. [msfrognymize](https://github.com/siunam321/CTF-Writeups/blob/main/corCTF-2023/web/msfrognymize/README.md)
-    3. [frogshare](https://github.com/siunam321/CTF-Writeups/blob/main/corCTF-2023/web/frogshare/README.md)
-    4. [youdirect](https://github.com/siunam321/CTF-Writeups/blob/main/corCTF-2023/web/youdirect/README.md) ***(Unsolved)***
+    1. [force](https://siunam321.github.io/ctf/corCTF-2023/web/force/)
+    2. [msfrognymize](https://siunam321.github.io/ctf/corCTF-2023/web/msfrognymize/)
+    3. [frogshare](https://siunam321.github.io/ctf/corCTF-2023/web/frogshare/)
+    4. [youdirect](https://siunam321.github.io/ctf/corCTF-2023/web/youdirect/) ***(Unsolved)***
 
 ## Background
 
@@ -46,7 +46,7 @@ Challenge categories include pwn, rev, crypto, web, blockchain, and misc.
 ## What I've learned in this CTF
 
 - web:
-    1. Bypassing Rate Limit Via GraphQL's Aliases (Batching Query) ([force](https://github.com/siunam321/CTF-Writeups/blob/main/corCTF-2023/web/force/README.md))
-    2. Local File Inclusion (LFI) & Filter Bypass Via Double URL Encoding ([msfrognymize](https://github.com/siunam321/CTF-Writeups/blob/main/corCTF-2023/web/msfrognymize/README.md))
-    3. Stored XSS (Cross-Site Scripting) & CSP (Content Security Policy) Bypass ([frogshare](https://github.com/siunam321/CTF-Writeups/blob/main/corCTF-2023/web/frogshare/README.md))
-    4. [youdirect](https://github.com/siunam321/CTF-Writeups/blob/main/corCTF-2023/web/youdirect/README.md) ***(Unsolved)***
+    1. Bypassing Rate Limit Via GraphQL's Aliases (Batching Query) ([force](https://siunam321.github.io/ctf/corCTF-2023/web/force/))
+    2. Local File Inclusion (LFI) & Filter Bypass Via Double URL Encoding ([msfrognymize](https://siunam321.github.io/ctf/corCTF-2023/web/msfrognymize/))
+    3. Stored XSS (Cross-Site Scripting) & CSP (Content Security Policy) Bypass ([frogshare](https://siunam321.github.io/ctf/corCTF-2023/web/frogshare/))
+    4. [youdirect](https://siunam321.github.io/ctf/corCTF-2023/web/youdirect/) ***(Unsolved)***
