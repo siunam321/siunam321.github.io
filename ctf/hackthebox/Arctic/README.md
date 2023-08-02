@@ -612,7 +612,7 @@ I'm now `NT AUTHORITY\SYSTEM`! :D
 
 **root.txt:**
 ```shell
-C:\Users\Administrator\Desktop>type root.txt
+C:\Users\Administrator\\Desktop>type root.txt
 {Redacted}
 ```
 
