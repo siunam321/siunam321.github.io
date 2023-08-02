@@ -131,6 +131,7 @@
 - [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 ## HackTheBox
+- [Arctic](https://siunam321.github.io/ctf/hackthebox/Arctic)
 - [Granny](https://siunam321.github.io/ctf/hackthebox/Granny)
 - [Jarvis](https://siunam321.github.io/ctf/hackthebox/Jarvis)
 - [Bastard](https://siunam321.github.io/ctf/hackthebox/Bastard)
