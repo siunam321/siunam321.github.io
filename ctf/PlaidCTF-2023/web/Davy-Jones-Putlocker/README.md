@@ -671,6 +671,7 @@ With that said, it may be vulnerable to **prototype pollution**??
 Now, GraphQL mutation query `createShow`, `updateShow`, `createEpisode`, `updateEpisode`, `deleteEpisode` **requires admin access**. So we couldn't create, update, delete show and episode.
 
 **`client/`:**
+{% raw %}
 ```diff
 ┌[siunam♥earth]-(~/ctf/PlaidCTF-2023/web/Davy-Jones'-Putlocker)-[2023.04.16|16:17:49(HKT)]
 └> diff -r Dubs/part1/packages/client Subs/part2/packages/client 
@@ -791,6 +792,7 @@ diff --color '--color=auto' -r Dubs/part1/packages/client/src/views/User/UserPla
 ---
 > 										dangerouslySetInnerHTML={playlist.description}
 ```
+{% endraw %}
 
 As stated above, create, update, delete show and episode requires admin access. So we couldn't access to those pages, and after logged in, we shouldn't able to see "Add Show" and "Add Episode" link.
 

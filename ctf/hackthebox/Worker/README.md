@@ -485,6 +485,7 @@ listening on [any] 443 ...
 
 - **Profit:**
 
+{% raw %}
 ```shell
 ┌[siunam♥Mercury]-(~/ctf/htb/Machines/Worker)-[2023.08.05|21:42:10(HKT)]
 └> rlwrap -cAr nc -lvnp 443          
@@ -518,6 +519,7 @@ Ethernet adapter Ethernet0 2:
    DNS Servers . . . . . . . . . . . : 8.8.8.8
 [...]
 ```
+{% endraw %}
 
 ## Privilege Escalation (Unintended)
 

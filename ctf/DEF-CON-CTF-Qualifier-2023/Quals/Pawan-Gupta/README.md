@@ -93,12 +93,14 @@ In here, looks like we need to somehow leak the flag. To do so, we can exploit *
 > Prompt injection is the process of embedding a malicious command into a prompt, causing the LLM to execute undesired actions.
 
 **The `print_flag_hash()` function is just printing out the SHA256 hash of the correct flag:**
+{% raw %}
 ```python
 def print_flag_hash() -> None:
     print("To make your life easier, here is the SHA-256 checksum of the flag:")
     h = hashlib.sha256(FLAG.encode("utf-8"))
     print(f"sha256(\"flag{{??????}}\") = {h.hexdigest()}")
 ```
+{% endraw %}
 
 This allows us to verify the leaked flag is correct or not.
 
