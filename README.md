@@ -5,12 +5,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: August 4, 2023 (UTC+8)
+##### Last Update: August 7, 2023 (UTC+8)
 
 - CTF Writeups
+    - [Securinets CTF Quals 2023](https://siunam321.github.io/ctf/Securinets-CTF-Quals-2023/), August 7, 2023
+        - Web Exploitation
     - [corCTF 2023](https://siunam321.github.io/ctf/corCTF-2023/), July 31, 2023
-        - web
-    - [zer0pts CTF 2023](https://siunam321.github.io/ctf/zer0pts-CTF-2023/), July 16, 2023
         - web
     - HackTheBox
         - [Bastion](https://siunam321.github.io/ctf/hackthebox/Bastion), August 4, 2023

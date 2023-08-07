@@ -37,6 +37,7 @@
 24. **[CrewCTF 2023](#crewctf-2023)**
 25. **[zer0pts CTF 2023](#zer0pts-ctf-2023)**
 26. **[corCTF 2023](#corctf-2023)**
+27. **[Securinets CTF Quals 2023](#securinets-ctf-quals-2023)**
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -612,3 +613,6 @@
 
 # [corCTF 2023](https://siunam321.github.io/ctf/corCTF-2023/)
 - web
+
+# [Securinets CTF Quals 2023](https://siunam321.github.io/ctf/Securinets-CTF-Quals-2023/)
+- Web Exploitation
