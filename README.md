@@ -13,11 +13,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
     - [corCTF 2023](https://siunam321.github.io/ctf/corCTF-2023/), July 31, 2023
         - web
     - HackTheBox
+        - [Worker](https://siunam321.github.io/ctf/hackthebox/Worker), August 7, 2023
         - [Bastion](https://siunam321.github.io/ctf/hackthebox/Bastion), August 4, 2023
         - [Beep](https://siunam321.github.io/ctf/hackthebox/Beep), August 3, 2023
         - [Arctic](https://siunam321.github.io/ctf/hackthebox/Arctic), August 2, 2023
         - [Granny](https://siunam321.github.io/ctf/hackthebox/Granny), August 1, 2023
-        - [Jarvis](https://siunam321.github.io/ctf/hackthebox/Jarvis), July 28, 2023
 
 * * *
 - Blog
