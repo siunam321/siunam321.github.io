@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: August 9, 2023 (UTC+8)
+##### Last Update: August 13, 2023 (UTC+8)
 
 - CTF Writeups
     - [Securinets CTF Quals 2023](https://siunam321.github.io/ctf/Securinets-CTF-Quals-2023/), August 7, 2023
@@ -13,11 +13,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
     - [corCTF 2023](https://siunam321.github.io/ctf/corCTF-2023/), July 31, 2023
         - web
     - HackTheBox
+        - [Talkative](https://siunam321.github.io/ctf/hackthebox/Talkative), August 13, 2023
         - [Timelapse](https://siunam321.github.io/ctf/hackthebox/Timelapse), August 9, 2023
         - [Worker](https://siunam321.github.io/ctf/hackthebox/Worker), August 7, 2023
         - [Bastion](https://siunam321.github.io/ctf/hackthebox/Bastion), August 4, 2023
         - [Beep](https://siunam321.github.io/ctf/hackthebox/Beep), August 3, 2023
-        - [Arctic](https://siunam321.github.io/ctf/hackthebox/Arctic), August 2, 2023
 
 * * *
 - Blog
