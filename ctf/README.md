@@ -132,6 +132,7 @@
 - [VulnNet:Roasted](https://siunam321.github.io/ctf/tryhackme/VulnNet:Roasted/)
 
 ## HackTheBox
+- [Meta](https://siunam321.github.io/ctf/hackthebox/Meta)
 - [Acute](https://siunam321.github.io/ctf/hackthebox/Acute)
 - [Bounty](https://siunam321.github.io/ctf/hackthebox/Bounty)
 - [Talkative](https://siunam321.github.io/ctf/hackthebox/Talkative)
