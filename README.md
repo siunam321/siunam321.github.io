@@ -13,6 +13,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
     - [corCTF 2023](https://siunam321.github.io/ctf/corCTF-2023/), July 31, 2023
         - web
     - VulnHub
+        - [Hacker kid: 1.0.1](https://siunam321.github.io/ctf/vulnhub/Hacker-kid:1.0.1), August 17, 2023
         - [digitalworld.local: FALL](https://siunam321.github.io/ctf/vulnhub/digitalworld.local:FALL), August 17, 2023
     - HackTheBox
         - [Meta](https://siunam321.github.io/ctf/hackthebox/Meta), August 16, 2023
