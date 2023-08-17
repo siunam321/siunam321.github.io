@@ -9,6 +9,7 @@
 3. **[Proving Grounds Play](#proving-grounds-play)**
 4. **[PortSwigger Labs](#portswigger-labs)**
 5. **[picoGym](#picogym)**
+6 **[VulnHub](#vulnhub)**
 
 ### CTFs:
 1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
@@ -462,6 +463,9 @@
 	- [Insp3ct0r](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Insp3ct0r)
 	- [Cookies](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Cookies)
 	- [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD)
+
+## VulnHub
+- [digitalworld.local: FALL](https://siunam321.github.io/ctf/vulnhub/digitalworld.local:FALL)
 
 ## NahamCon CTF 2022
 - Miscellaneous
