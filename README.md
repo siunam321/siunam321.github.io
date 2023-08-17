@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: August 16, 2023 (UTC+8)
+##### Last Update: August 17, 2023 (UTC+8)
 
 - CTF Writeups
     - [Securinets CTF Quals 2023](https://siunam321.github.io/ctf/Securinets-CTF-Quals-2023/), August 7, 2023

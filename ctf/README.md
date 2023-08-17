@@ -9,7 +9,7 @@
 3. **[Proving Grounds Play](#proving-grounds-play)**
 4. **[PortSwigger Labs](#portswigger-labs)**
 5. **[picoGym](#picogym)**
-6 **[VulnHub](#vulnhub)**
+6. **[VulnHub](#vulnhub)**
 
 ### CTFs:
 1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
