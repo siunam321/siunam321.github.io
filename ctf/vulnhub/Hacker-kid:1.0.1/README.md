@@ -1,5 +1,5 @@
 # Hacker kid: 1.0.1 | August 17, 2023
-
+{% raw %}
 ## Introduction
 
 Welcome to my another writeup! In this VulnHub [Hacker kid: 1.0.1](https://www.vulnhub.com/entry/hacker-kid-101,719/) box, you'll learn: Fuzzing GET parameter via `ffuf`, DNS zone transfer, exploiting XXE injection, exploiting RCE via SSTI in Tornado template engine, privilege escalation via misconfigurated `python2.7` with `CAP_SYS_PTRACE` capability, and more! Without further ado, let's dive in.
@@ -668,3 +668,5 @@ What we've learned:
 3. Exploiting XXE injection
 4. Exploiting RCE via SSTI in Tornado template engine
 5. Vertical privilege escalation via misconfigurated `python2.7` with `CAP_SYS_PTRACE` capability
+
+{% endraw %}
