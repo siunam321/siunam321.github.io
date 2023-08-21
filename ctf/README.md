@@ -39,6 +39,7 @@
 25. **[zer0pts CTF 2023](#zer0pts-ctf-2023)**
 26. **[corCTF 2023](#corctf-2023)**
 27. **[Securinets CTF Quals 2023](#securinets-ctf-quals-2023)**
+28. **[Bauhinia CTF 2023](#bauhinia-ctf-2023)**
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -628,3 +629,6 @@
 
 # [Securinets CTF Quals 2023](https://siunam321.github.io/ctf/Securinets-CTF-Quals-2023/)
 - Web Exploitation
+
+# [Bauhinia CTF 2023](https://siunam321.github.io/ctf/Bauhinia-CTF-2023/)
+- Web
