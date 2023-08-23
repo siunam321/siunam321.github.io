@@ -466,6 +466,7 @@
 	- [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD)
 
 ## VulnHub
+- [digitalworld.local: VENGEANCE](https://siunam321.github.io/ctf/vulnhub/digitalworld.local:VENGEANCE)
 - [Healthcare: 1](https://siunam321.github.io/ctf/vulnhub/Healthcare:1)
 - [DevGuru: 1](https://siunam321.github.io/ctf/vulnhub/DevGuru:1)
 - [Hacker kid: 1.0.1](https://siunam321.github.io/ctf/vulnhub/Hacker-kid:1.0.1)

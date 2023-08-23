@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: August 21, 2023 (UTC+8)
+##### Last Update: August 23, 2023 (UTC+8)
 
 - CTF Writeups
     - [Bauhinia CTF 2023](https://siunam321.github.io/ctf/Bauhinia-CTF-2023/), August 21, 2023
@@ -13,6 +13,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
     - [Securinets CTF Quals 2023](https://siunam321.github.io/ctf/Securinets-CTF-Quals-2023/), August 7, 2023
         - Web Exploitation
     - VulnHub
+        - [digitalworld.local: VENGEANCE](https://siunam321.github.io/ctf/vulnhub/digitalworld.local:VENGEANCE), August 23, 2023
         - [Healthcare: 1](https://siunam321.github.io/ctf/vulnhub/Healthcare:1), August 21, 2023
         - [DevGuru: 1](https://siunam321.github.io/ctf/vulnhub/DevGuru:1), August 18, 2023
         - [Hacker kid: 1.0.1](https://siunam321.github.io/ctf/vulnhub/Hacker-kid:1.0.1), August 17, 2023
