@@ -19,7 +19,7 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 
 # Certificates
 
-![](/assets/images/oscp_cert.png)
+![OSCP certificate](/assets/images/oscp_cert.png){: width="50%" }
 
 # Contact Me
 
