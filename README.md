@@ -5,12 +5,14 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: August 31, 2023 (UTC+8)
+##### Last Update: September 5, 2023 (UTC+8)
 
 - CTF Writeups
+    - [DownUnderCTF 2023](https://siunam321.github.io/ctf/DownUnderCTF-2023/), September 5, 2023
+        - misc
+        - osint
+        - web
     - [SekaiCTF 2023](https://siunam321.github.io/ctf/SekaiCTF-2023/), August 29, 2023
-        - Web
-    - [Bauhinia CTF 2023](https://siunam321.github.io/ctf/Bauhinia-CTF-2023/), August 21, 2023
         - Web
     - PortSwigger Labs
         - Race Conditions
