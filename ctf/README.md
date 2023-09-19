@@ -462,6 +462,7 @@
     - [Bypassing rate limits via race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-2)
     - [Multi-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-3)
     - [Single-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-4)
+    - [Partial construction race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-5)
 
 ## picoGym
 - Web Exploitation
