@@ -7,20 +7,20 @@ date: 2023-09-21
 
 ## Table of Contents
 
-1. [Before The Exam](#before-the-exam)
+ 1. [Before The Exam](#before-the-exam)  
     1.1. [My Study Material](#my-study-material)
-2. [During The Exam](#during-the-exam)
+ 2. [During The Exam](#during-the-exam)
     2.1. [Proctoring Software](#proctoring-software)
     2.2. [Independent Machines](#independent-machines)
     2.3. [Active Directory Set](#active-directory-set)
     2.4. [Back to Unfinished Independent Machines](#back-to-unfinished-independent-machines)
     2.5. [Ending The Exam](#ending-the-exam)
-3. [After The Exam](#after-the-exam)
-4. [Takeaways](#takeaways)
+ 3. [After The Exam](#after-the-exam)
+ 4. [Takeaways](#takeaways)
     4.1. [Independent Machines](#independent-machines-1)
     4.2. [Active Directory Set](#active-directory-set-1)
     4.3. [Other Tips](#other-tips)
-5. [What's Next?](#whats-next)
+ 5. [What's Next?](#whats-next)
 
 After my first attempt back on August 28, 2022, I wrote a [blog post about my utter failure in that attempt](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled). This time, however, I finally earned the OSCP certificate with 80/100 points!
 
