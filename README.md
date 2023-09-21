@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: September 19, 2023 (UTC+8)
+##### Last Update: September 21, 2023 (UTC+8)
 
 - CTF Writeups
     - [DownUnderCTF 2023](https://siunam321.github.io/ctf/DownUnderCTF-2023/), September 5, 2023
@@ -30,5 +30,6 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - Blog
-    - [I wrote an interactive phishing lab website!](https://siunam321.github.io/blog/2023-03-31-I-wrote-an-interactive-phishing-lab-website), Mar 31, 2023
-    - [OSCP First Attempt Failled](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled), Aug 31, 2022
+    - [I earned OSCP on my second attempt!](https://siunam321.github.io/blog/2023-09-21-I-earned-OSCP-on-my-second-attempt), September 21, 2023
+    - [I wrote an interactive phishing lab website!](https://siunam321.github.io/blog/2023-03-31-I-wrote-an-interactive-phishing-lab-website), March 31, 2023
+    - [OSCP First Attempt Failled](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled), August 31, 2022
