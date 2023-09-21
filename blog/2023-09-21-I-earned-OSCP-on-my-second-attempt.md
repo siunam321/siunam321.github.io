@@ -46,7 +46,7 @@ Besides HackTheBox, I also played some OSCP-focused VulnHub machines after Augus
 
 24 August 2023, my second attempt exam day. I woke up at 5:30 a.m and finished my breakfast at around 6:30 a.m. I then decided to play a random OSCP-focused VulnHub machine to get warmed up.
 
-I also fired up my browser and listened to music from recent YouTube playlists that I found by (kneon](https://m.youtube.com/@kneonplaylist)
+I also fired up my browser and listened to music from recent YouTube playlists that I found by [kneon](https://m.youtube.com/@kneonplaylist)
 
 > Fun fact: Music helps me stay focused and relax :D
 
