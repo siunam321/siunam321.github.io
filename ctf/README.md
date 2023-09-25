@@ -463,6 +463,7 @@
     - [Multi-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-3)
     - [Single-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-4)
     - [Partial construction race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-5)
+    - [Exploiting time-sensitive vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-6)
 
 ## picoGym
 - Web Exploitation
