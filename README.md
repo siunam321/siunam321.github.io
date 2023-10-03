@@ -5,28 +5,16 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: September 25, 2023 (UTC+8)
+##### Last Update: October 3, 2023 (UTC+8)
 
 - CTF Writeups
     - [DownUnderCTF 2023](https://siunam321.github.io/ctf/DownUnderCTF-2023/), September 5, 2023
         - misc
         - osint
         - web
-    - [SekaiCTF 2023](https://siunam321.github.io/ctf/SekaiCTF-2023/), August 29, 2023
-        - Web
     - PortSwigger Labs
-        - Race Conditions
-            - [Exploiting time-sensitive vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-6), September 25, 2023
-            - [Partial construction race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-5), September 19, 2023
-            - [Single-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-4), September 8, 2023
-            - [Multi-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-3), August 31, 2023
-            - [Bypassing rate limits via race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-2), August 31, 2023
-    - VulnHub
-        - [digitalworld.local: VENGEANCE](https://siunam321.github.io/ctf/vulnhub/digitalworld.local:VENGEANCE), August 23, 2023
-        - [Healthcare: 1](https://siunam321.github.io/ctf/vulnhub/Healthcare:1), August 21, 2023
-        - [DevGuru: 1](https://siunam321.github.io/ctf/vulnhub/DevGuru:1), August 18, 2023
-        - [Hacker kid: 1.0.1](https://siunam321.github.io/ctf/vulnhub/Hacker-kid:1.0.1), August 17, 2023
-        - [digitalworld.local: FALL](https://siunam321.github.io/ctf/vulnhub/digitalworld.local:FALL), August 17, 2023
+        - NoSQL Injection
+            - [Detecting NoSQL injection](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-1), October 3, 2023
 
 * * *
 - Blog
