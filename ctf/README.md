@@ -467,6 +467,7 @@
 - NoSQL Injection
     - [Detecting NoSQL injection](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-1)
     - [Exploiting NoSQL operator injection to bypass authentication](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-2)
+    - [Exploiting NoSQL injection to extract data](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-3)
 
 ## picoGym
 - Web Exploitation

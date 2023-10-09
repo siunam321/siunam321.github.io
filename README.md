@@ -14,7 +14,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
         - web
     - PortSwigger Labs
         - NoSQL Injection
-            - [Exploiting NoSQL operator injection to bypass authentication](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-2), October 9, 2023
+            - [Exploiting NoSQL injection to extract data](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-3), October 9, 2023
+            - [Exploiting NoSQL operator injection to bypass authentication](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-3), October 9, 2023
             - [Detecting NoSQL injection](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-1), October 3, 2023
 
 * * *
