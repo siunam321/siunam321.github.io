@@ -466,6 +466,7 @@
     - [Exploiting time-sensitive vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-6)
 - NoSQL Injection
     - [Detecting NoSQL injection](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-1)
+    - [Exploiting NoSQL operator injection to bypass authentication](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-2)
 
 ## picoGym
 - Web Exploitation
