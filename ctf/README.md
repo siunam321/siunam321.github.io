@@ -42,6 +42,7 @@
 28. **[Bauhinia CTF 2023](#bauhinia-ctf-2023)**
 29. **[SekaiCTF 2023](#sekaictf-2023)**
 30. **[DownUnderCTF 2023](#downunderctf-2023)**
+31. **[LakeCTF Quals 23](#lakectf-quals-23)**
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -655,4 +656,7 @@
 # [DownUnderCTF 2023](https://siunam321.github.io/ctf/DownUnderCTF-2023/)
 - misc
 - osint
+- web
+
+# [LakeCTF Quals 23](https://siunam321.github.io/ctf/LakeCTF-Quals-23/)
 - web
