@@ -43,6 +43,7 @@
 29. **[SekaiCTF 2023](#sekaictf-2023)**
 30. **[DownUnderCTF 2023](#downunderctf-2023)**
 31. **[LakeCTF Quals 23](#lakectf-quals-23)**
+32. **[HKCERT CTF 2023](#hkcert-ctf-2023)**
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -660,3 +661,10 @@
 
 # [LakeCTF Quals 23](https://siunam321.github.io/ctf/LakeCTF-Quals-23/)
 - web
+
+# [HKCERT CTF 2023](https://siunam321.github.io/ctf/HKCERT-CTF-2023/)
+- pwn
+- reverse
+- web
+- forensics
+- misc

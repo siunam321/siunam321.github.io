@@ -5,14 +5,16 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: November 6, 2023 (UTC+8)
+##### Last Update: November 13, 2023 (UTC+8)
 
 - CTF Writeups
-    - [LakeCTF Quals 23](https://siunam321.github.io/ctf/LakeCTF-Quals-23/), November 6, 2023
+    - [HKCERT CTF 2023](https://siunam321.github.io/ctf/HKCERT-CTF-2023/), November 13, 2023
+        - pwn
+        - reverse
         - web
-    - [DownUnderCTF 2023](https://siunam321.github.io/ctf/DownUnderCTF-2023/), September 5, 2023
+        - forensics
         - misc
-        - osint
+    - [LakeCTF Quals 23](https://siunam321.github.io/ctf/LakeCTF-Quals-23/), November 6, 2023
         - web
     - PortSwigger Labs
         - NoSQL Injection
