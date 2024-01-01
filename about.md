@@ -1,6 +1,6 @@
 # About Me
 
-I'm Tang Cheuk Hei, also known as siunam (小南), a 20-year-old guy from Hong Kong who has a lot of passion and hunger for cybersecurity. Below is my timeline of my ethical hacking journey:
+I'm Tang Cheuk Hei, also known as siunam (小南), a 21-year-old guy from Hong Kong who has a lot of passion and hunger for cybersecurity. Below is my timeline of my ethical hacking journey:
 
 From 2010 to 2021, I'm just a person who plays video games for around 16 hours every day. During that time period, I also self-taught video game level design in CS:GO, 3D modeling, reading programming codes (Not writing codes) and more. In mid-2021, I started to plan my future, like what career path I should take.
 
