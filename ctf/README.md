@@ -3,49 +3,48 @@
 
 ## Table of Contents
 
-### Wargames/Academy Labs:
-1. **[TryHackMe](#tryhackme)**
-2. **[HackTheBox](#hackthebox)**
-3. **[Proving Grounds Play](#proving-grounds-play)**
-4. **[PortSwigger Labs](#portswigger-labs)**
-5. **[picoGym](#picogym)**
-6. **[VulnHub](#vulnhub)**
-
-### CTFs:
-1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**
-2. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**
-3. **[Hack The Boo](#hack-the-boo)**
-4. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**
-5. **[BuckeyeCTF 2022](#buckeyectf-2022)**
-6. **[HKCERT CTF 2022](#hkcert-ctf-2022)**
-7. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**
-8. **[KnightCTF 2023](#knightctf-2023)**
-9. **[DiceCTF 2023](#dicectf-2023)**
-10. **[LA CTF 2023](#la-ctf-2023)**
-11. **[Incognito 4.0](#incognito-40)**
-12. **[pbctf 2023](#pbctf-2023)**
-13. **[VU Cyberthon 2023](#vu-cyberthon-2023)**
-14. **[KalmarCTF 2023](#kalmarctf-2023)**
-15. **[Cyber Apocalypse 2023](#cyber-apocalypse-2023)**
-16. **[picoCTF 2023](#picoctf-2023)**
-17. **[RITSEC CTF 2023](#ritsec-ctf-2023)**
-18. **[DamCTF 2023](#damctf-2023)**
-19. **[PlaidCTF 2023](#plaidctf-2023)**
-20. **[PwnMe Qualifications : "8 bits"](#pwnme-qualifications--8-bits)**
-21. **[HeroCTF v5](#heroctf-v5)**
-22. **[Grey Cat The Flag 2023 Qualifiers](#grey-cat-the-flag-2023-qualifiers)**
-23. **[DEF CON CTF Qualifier 2023](#def-con-ctf-qualifier-2023)**
-24. **[CrewCTF 2023](#crewctf-2023)**
-25. **[zer0pts CTF 2023](#zer0pts-ctf-2023)**
-26. **[corCTF 2023](#corctf-2023)**
-27. **[Securinets CTF Quals 2023](#securinets-ctf-quals-2023)**
-28. **[Bauhinia CTF 2023](#bauhinia-ctf-2023)**
-29. **[SekaiCTF 2023](#sekaictf-2023)**
-30. **[DownUnderCTF 2023](#downunderctf-2023)**
-31. **[LakeCTF Quals 23](#lakectf-quals-23)**
-32. **[HKCERT CTF 2023](#hkcert-ctf-2023)**
-33. **[0xL4ugh CTF 2024](#0xl4ugh-ctf-2024)**
-34. **[LA CTF 2024](#0xl4ugh-ctf-2024)**
+ 1. Wargames/Academy Labs  
+    1.1. **[TryHackMe](#tryhackme)**  
+    1.2. **[HackTheBox](#hackthebox)**  
+    1.3. **[Proving Grounds Play](#proving-grounds-play)**  
+    1.4. **[PortSwigger Labs](#portswigger-labs)**  
+    1.5. **[picoGym](#picogym)**  
+    1.6. **[VulnHub](#vulnhub)**  
+ 2. CTFs  
+    2.1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**  
+    2.2. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**  
+    2.3. **[Hack The Boo](#hack-the-boo)**  
+    2.4. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**  
+    2.5. **[BuckeyeCTF 2022](#buckeyectf-2022)**  
+    2.6. **[HKCERT CTF 2022](#hkcert-ctf-2022)**  
+    2.7. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**  
+    2.8. **[KnightCTF 2023](#knightctf-2023)**  
+    2.9. **[DiceCTF 2023](#dicectf-2023)**  
+    2.10. **[LA CTF 2023](#la-ctf-2023)**  
+    2.11. **[Incognito 4.0](#incognito-40)**  
+    2.12. **[pbctf 2023](#pbctf-2023)**  
+    2.13. **[VU Cyberthon 2023](#vu-cyberthon-2023)**  
+    2.14. **[KalmarCTF 2023](#kalmarctf-2023)**  
+    2.15. **[Cyber Apocalypse 2023](#cyber-apocalypse-2023)**  
+    2.16. **[picoCTF 2023](#picoctf-2023)**  
+    2.17. **[RITSEC CTF 2023](#ritsec-ctf-2023)**  
+    2.18. **[DamCTF 2023](#damctf-2023)**  
+    2.19. **[PlaidCTF 2023](#plaidctf-2023)**  
+    2.20. **[PwnMe Qualifications : "8 bits"](#pwnme-qualifications--8-bits)**  
+    2.21. **[HeroCTF v5](#heroctf-v5)**  
+    2.22. **[Grey Cat The Flag 2023 Qualifiers](#grey-cat-the-flag-2023-qualifiers)**  
+    2.23. **[DEF CON CTF Qualifier 2023](#def-con-ctf-qualifier-2023)**  
+    2.24. **[CrewCTF 2023](#crewctf-2023)**  
+    2.25. **[zer0pts CTF 2023](#zer0pts-ctf-2023)**  
+    2.26. **[corCTF 2023](#corctf-2023)**  
+    2.27. **[Securinets CTF Quals 2023](#securinets-ctf-quals-2023)**  
+    2.28. **[Bauhinia CTF 2023](#bauhinia-ctf-2023)**  
+    2.29. **[SekaiCTF 2023](#sekaictf-2023)**  
+    2.30. **[DownUnderCTF 2023](#downunderctf-2023)**  
+    2.31. **[LakeCTF Quals 23](#lakectf-quals-23)**  
+    2.32. **[HKCERT CTF 2023](#hkcert-ctf-2023)**  
+    2.33. **[0xL4ugh CTF 2024](#0xl4ugh-ctf-2024)**  
+    2.34. **[LA CTF 2024](#0xl4ugh-ctf-2024)**  
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
