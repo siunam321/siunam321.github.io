@@ -5,17 +5,13 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: February 12, 2024 (UTC+8)
+##### Last Update: February 20, 2024 (UTC+8)
 
 - CTF Writeups
+    - [LA CTF 2024](https://siunam321.github.io/ctf/LA-CTF-2024/), February 20, 2024
+        - web
     - [0xL4ugh CTF 2024](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/), February 12, 2024
         - Web
-    - [HKCERT CTF 2023](https://siunam321.github.io/ctf/HKCERT-CTF-2023/), November 13, 2023
-        - pwn
-        - reverse
-        - web
-        - forensics
-        - misc
     - PortSwigger Labs
         - NoSQL Injection
             - [Exploiting NoSQL operator injection to extract unknown fields](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-4), October 10, 2023

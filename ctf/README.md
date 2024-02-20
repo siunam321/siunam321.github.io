@@ -45,6 +45,7 @@
 31. **[LakeCTF Quals 23](#lakectf-quals-23)**
 32. **[HKCERT CTF 2023](#hkcert-ctf-2023)**
 33. **[0xL4ugh CTF 2024](#0xl4ugh-ctf-2024)**
+34. **[LA CTF 2024](#0xl4ugh-ctf-2024)**
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -672,3 +673,6 @@
 
 # [0xL4ugh CTF 2024](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/)
 - Web
+
+# [LA CTF 2024](https://siunam321.github.io/ctf/LA-CTF-2024/)
+- web
