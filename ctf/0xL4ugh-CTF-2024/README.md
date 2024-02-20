@@ -7,9 +7,9 @@
 ## Writeups
 
 - Web:
-    1. HTTP Parameter Pollution (HPP) ([Micro](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/Web/Micro/))
-    2. PHP built-in function `preg_match()` bypass ([Simple WAF](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/Web/Simple-WAF/))
-    3. Mass Assignment vulnerability, rate limiting bypass, blind file oracle with PHP filter chains ([Ghazy Corp](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/Web/Ghazy-Corp/))
+    - [Micro](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/Web/Micro/)
+    - [Simple WAF](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/Web/Simple-WAF/)
+    - [Ghazy Corp](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/Web/Ghazy-Corp/)
 
 ## Background
 
