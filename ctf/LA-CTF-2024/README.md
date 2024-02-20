@@ -7,13 +7,13 @@
 ## Writeup
 
 - web:
-    [terms-and-conditions](https://siunam321.github.io/ctf/LA-CTF-2024/web/terms-and-conditions/)
-    [flaglang](https://siunam321.github.io/ctf/LA-CTF-2024/web/flaglang/)
-    [la housing portal](https://siunam321.github.io/ctf/LA-CTF-2024/web/la-housing-portal/)
-    [new-housing-portal](https://siunam321.github.io/ctf/LA-CTF-2024/web/new-housing-portal/)
-    [pogn](https://siunam321.github.io/ctf/LA-CTF-2024/web/pogn/)
-    [penguin-login](https://siunam321.github.io/ctf/LA-CTF-2024/web/penguin-login/)
-    [jason-web-token](https://siunam321.github.io/ctf/LA-CTF-2024/web/jason-web-token/)
+    - [terms-and-conditions](https://siunam321.github.io/ctf/LA-CTF-2024/web/terms-and-conditions/)
+    - [flaglang](https://siunam321.github.io/ctf/LA-CTF-2024/web/flaglang/)
+    - [la housing portal](https://siunam321.github.io/ctf/LA-CTF-2024/web/la-housing-portal/)
+    - [new-housing-portal](https://siunam321.github.io/ctf/LA-CTF-2024/web/new-housing-portal/)
+    - [pogn](https://siunam321.github.io/ctf/LA-CTF-2024/web/pogn/)
+    - [penguin-login](https://siunam321.github.io/ctf/LA-CTF-2024/web/penguin-login/)
+    - [jason-web-token](https://siunam321.github.io/ctf/LA-CTF-2024/web/jason-web-token/)
 
 ## Background
 
