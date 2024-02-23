@@ -488,7 +488,7 @@
 - [DevGuru: 1](https://siunam321.github.io/ctf/vulnhub/DevGuru:1)
 - [Hacker kid: 1.0.1](https://siunam321.github.io/ctf/vulnhub/Hacker-kid:1.0.1)
 - [digitalworld.local: FALL](https://siunam321.github.io/ctf/vulnhub/digitalworld.local:FALL)
-- [Pentester Lab: Axis2 Web service and Tomcat Manager](https://siunam321.github.io/ctf/vulnhub/pentester-lab:-axis2-web-service-and-tomcat-manager)
+- [Pentester Lab: Axis2 Web service and Tomcat Manager](https://siunam321.github.io/ctf/vulnhub/Pentester-Lab:Axis2-Web-service-and-Tomcat-Manager)
 
 ## NahamCon CTF 2022
 - Miscellaneous

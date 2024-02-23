@@ -13,7 +13,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
     - [0xL4ugh CTF 2024](https://siunam321.github.io/ctf/0xL4ugh-CTF-2024/), February 12, 2024
         - Web
     - VulnHub
-        - [Pentester Lab: Axis2 Web service and Tomcat Manager](https://siunam321.github.io/ctf/vulnhub/pentester-lab:-axis2-web-service-and-tomcat-manager), February 23, 2024
+        - [Pentester Lab: Axis2 Web service and Tomcat Manager](https://siunam321.github.io/ctf/vulnhub/Pentester-Lab:Axis2-Web-service-and-Tomcat-Manager), February 23, 2024
 
 * * *
 - Blog
