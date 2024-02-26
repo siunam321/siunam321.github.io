@@ -45,6 +45,7 @@
     2.32. **[HKCERT CTF 2023](#hkcert-ctf-2023)**  
     2.33. **[0xL4ugh CTF 2024](#0xl4ugh-ctf-2024)**  
     2.34. **[LA CTF 2024](#0xl4ugh-ctf-2024)**  
+    2.35. **[bi0sCTF 2024](#bi0sctf-2024)**  
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -676,3 +677,6 @@
 
 # [LA CTF 2024](https://siunam321.github.io/ctf/LA-CTF-2024/)
 - web
+
+# [bi0sCTF 2024](https://siunam321.github.io/ctf/bi0sCTF-2024/)
+- Web Exploitation
