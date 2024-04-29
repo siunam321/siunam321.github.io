@@ -4,7 +4,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<small class="page_information">Last Update: April 29, 2024 (UTC+8)</small>
+<span class="page_information"><small>Last Update: April 29, 2024 (UTC+8)</small></span>
 
 * * *
 - CTF Writeups
