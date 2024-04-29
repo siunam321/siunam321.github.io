@@ -1,4 +1,4 @@
-# My Blogs
+# My Blog Posts
 
 * * *
 

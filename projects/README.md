@@ -7,9 +7,8 @@
 - CVE-1999-1053 Proof-of-Concept exploit: [https://github.com/siunam321/CVE-1999-1053-PoC](https://github.com/siunam321/CVE-1999-1053-PoC)
 - An interactive phishing lab: [https://phishing-lab.infinityfreeapp.com/](https://phishing-lab.infinityfreeapp.com/). GitHub repository: [https://github.com/siunam321/phishing-lab](https://github.com/siunam321/phishing-lab)
 
-# CTFs Exploit Development
+## CTFs Exploit Development
 
-* * *
 - [Reversing XOR'ed string](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Binary-Heaven/angel_A_re.py) and [Stack buffer overflow with ROP chaining](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Binary-Heaven/pwn_me_exploit.py) for TryHackMe [Binary Heaven](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Binary-Heaven/pwn_me_exploit.py) room.
 - [Stack buffer overflow](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/Gatekeeper/exploit.py) for TryHackMe [Gatekeeper](https://tryhackme.com/room/gatekeeper) room.
 - [Extracting data via time-based SQL injection](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/SQHell/time-based-sqli.py), and [boolean-based SQL injection](https://github.com/siunam321/CTF-Writeups/blob/main/TryHackMe/SQHell/boolean-based-sqli.py) for TryHackMe [SQHell](https://tryhackme.com/room/sqhell) room.
