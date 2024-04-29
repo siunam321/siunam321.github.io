@@ -1,7 +1,7 @@
 # My Blogs
 
 * * *
-##### 21 September 2023
+<span class="page_information"><small>21 September, 2023</small></span>
 
 ## [I earned OSCP on my second attempt!](https://siunam321.github.io/blog/2023-09-21-I-earned-OSCP-on-my-second-attempt)
 
@@ -9,7 +9,7 @@
 
 Tags: OSCP, certicicate
 
-##### 31 March 2023
+<span class="page_information"><small>31 March, 2023</small></span>
 
 ## [I wrote an interactive phishing lab website!](https://siunam321.github.io/blog/2023-03-31-I-wrote-an-interactive-phishing-lab-website)
 
@@ -17,7 +17,7 @@ Tags: OSCP, certicicate
 
 Tags: Phishing, lab
 
-##### 31 Augest 2022
+<span class="page_information"><small>31 Augest, 2022</small></span>
 
 ## [OSCP First Attempt Failled](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled)
 
