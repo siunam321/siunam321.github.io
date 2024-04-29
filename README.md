@@ -5,7 +5,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 # Latest Posts
 
 * * *
-##### Last Update: February 26, 2024 (UTC+8)
+##### Last Update: April 29, 2024 (UTC+8)
 
 - CTF Writeups
     - [bi0sCTF 2024](https://siunam321.github.io/ctf/bi0sCTF-2024/), February 26, 2024
