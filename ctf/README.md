@@ -463,16 +463,18 @@
 	- [Performing CSRF exploits over GraphQL](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-5)
 - Race Conditions
 	- [Limit overrun race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-1)
-    - [Bypassing rate limits via race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-2)
-    - [Multi-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-3)
-    - [Single-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-4)
-    - [Partial construction race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-5)
-    - [Exploiting time-sensitive vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-6)
+   - [Bypassing rate limits via race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-2)
+   - [Multi-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-3)
+   - [Single-endpoint race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-4)
+   - [Partial construction race conditions](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-5)
+   - [Exploiting time-sensitive vulnerabilities](https://siunam321.github.io/ctf/portswigger-labs/race-conditions/race-conditions-6)
 - NoSQL Injection
-    - [Detecting NoSQL injection](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-1)
-    - [Exploiting NoSQL operator injection to bypass authentication](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-2)
-	- [Exploiting NoSQL injection to extract data](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-3)
-    - [Exploiting NoSQL operator injection to extract unknown fields](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-4)
+   - [Detecting NoSQL injection](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-1)
+   - [Exploiting NoSQL operator injection to bypass authentication](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-2)
+   - [Exploiting NoSQL injection to extract data](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-3)
+   - [Exploiting NoSQL operator injection to extract unknown fields](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-4)
+- API Testing
+   - [Exploiting an API endpoint using documentation](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-1)
 
 ## picoGym
 - Web Exploitation
