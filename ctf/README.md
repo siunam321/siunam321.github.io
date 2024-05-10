@@ -478,6 +478,7 @@
    - [Finding and exploiting an unused API endpoint](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-2)
    - [Exploiting a mass assignment vulnerability](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-3)
    - [Exploiting server-side parameter pollution in a query string](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-4)
+   - [Exploiting server-side parameter pollution in a REST URL](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-5)
    
 ## picoGym
 - Web Exploitation
