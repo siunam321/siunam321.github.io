@@ -475,7 +475,8 @@
    - [Exploiting NoSQL operator injection to extract unknown fields](https://siunam321.github.io/ctf/portswigger-labs/nosql-injection/nosqli-4)
 - API Testing
    - [Exploiting an API endpoint using documentation](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-1)
-
+   - [Finding and exploiting an unused API endpoint](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-2)
+   
 ## picoGym
 - Web Exploitation
 	- [logon](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/logon)
