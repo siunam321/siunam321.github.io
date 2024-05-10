@@ -10,6 +10,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 - CTF Writeups
     - [PortSwigger Labs](https://siunam321.github.io/ctf/#portswigger-labs)
         - API Testing
+            - [Exploiting server-side parameter pollution in a query string](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-4), May 10, 2024
             - [Exploiting a mass assignment vulnerability](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-3), May 10, 2024
             - [Finding and exploiting an unused API endpoint](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-2), May 10, 2024
             - [Exploiting an API endpoint using documentation](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-1), May 10, 2024
