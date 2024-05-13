@@ -8,6 +8,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - CTF Writeups
+    - [San Diego CTF 2024](https://siunam321.github.io/ctf/#san-diego-ctf-2024), May 13, 2024
     - [PortSwigger Labs](https://siunam321.github.io/ctf/#portswigger-labs)
         - API Testing
             - [Exploiting server-side parameter pollution in a REST URL](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-5), May 10, 2024

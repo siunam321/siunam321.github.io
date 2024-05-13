@@ -46,6 +46,7 @@
     2.33. **[0xL4ugh CTF 2024](#0xl4ugh-ctf-2024)**  
     2.34. **[LA CTF 2024](#0xl4ugh-ctf-2024)**  
     2.35. **[bi0sCTF 2024](#bi0sctf-2024)**  
+    2.36. **[San Diego CTF 2024](#san-diego-ctf-2024)**  
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -686,3 +687,7 @@
 
 # [bi0sCTF 2024](https://siunam321.github.io/ctf/bi0sCTF-2024/)
 - Web Exploitation
+
+# [San Diego CTF 2024](https://siunam321.github.io/ctf/San-Diego-CTF-2024/)
+- Misc
+- Web
