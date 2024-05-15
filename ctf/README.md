@@ -484,6 +484,7 @@
    - [Exploiting LLM APIs with excessive agency](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-1)
    - [Exploiting vulnerabilities in LLM APIs](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-2)
    - [Indirect prompt injection](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-3)
+   - [Exploiting insecure output handling in LLMs](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-4)
 
 ## picoGym
 - Web Exploitation
