@@ -26,25 +26,25 @@ To solve the lab, use the LLM to delete the user `carlos`.
 
 **Home page:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143140.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143140.png)
 
 In here, we can purchase some products.
 
 **More interestingly, this web application has a "Live chat" feature:** 
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143314.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143314.png)
 
 We can try to chat with "Arti Ficial":
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143418.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143418.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143428.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143428.png)
 
 It replied us with "Hi there! How can I assist you today?".
 
 **In the "Backend AI logs", we can see that there's our message:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143540.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515143540.png)
 
 Hmm... It seems like the "Live chat" feature is using LLM (Large Language Model).
 
@@ -109,7 +109,7 @@ In our case, the LLM's **direct** input is the **live chat prompt**.
 
 For **indirect** inputs, we can ask the LLM for more details:
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515144206.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515144206.png)
 
 Hmm... Looks like the **training data** is from **human trainers, and publicly available data**.
 
@@ -117,19 +117,19 @@ Now, I wonder what data and APIs the LLM has access to.
 
 To do so, we can try to ask the LLM whether it can access to an internal API or not:
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515144850.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515144850.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515144900.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515144900.png)
 
 **Backend API logs:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515145919.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515145919.png)
 
 Hmm... Looks like the LLM can access an internal API that checks all products' price.
 
 Ah ha! Can I **ask the LLM to list all the internal APIs that it can access to**?
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515145112.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515145112.png)
 
 Oh nice! It can access API `functions.password_reset`, `functions.debug_sql`, `functions.product_info`.
 
@@ -143,13 +143,13 @@ In API `functions.debug_sql`, we can provide malicious SQL queries to exfiltrate
 
 Since API `functions.debug_sql` allows us to provide malicious SQL queries, we can **request the LLM to use that API to delete user `carlos`**!
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515145610.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515145610.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515145618.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515145618.png)
 
 Oh? It happily deleted deleted user `carlos`! We can check that in the "Backend AI logs":
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/blob/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515150049.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Portswigger-Labs/Web-LLM-Attacks/LLM-1/images/Pasted%20image%2020240515150049.png)
 
 Yep! It successfully executed a raw SQL statement that deletes user `carlos`!
 
