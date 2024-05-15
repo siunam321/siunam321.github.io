@@ -482,6 +482,7 @@
    - [Exploiting server-side parameter pollution in a REST URL](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-5)
 - Web LLM Attacks
    - [Exploiting LLM APIs with excessive agency](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-1)
+   - [Exploiting vulnerabilities in LLM APIs](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-2)
 
 ## picoGym
 - Web Exploitation
