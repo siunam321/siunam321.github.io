@@ -480,7 +480,9 @@
    - [Exploiting a mass assignment vulnerability](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-3)
    - [Exploiting server-side parameter pollution in a query string](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-4)
    - [Exploiting server-side parameter pollution in a REST URL](https://siunam321.github.io/ctf/portswigger-labs/api-testing/api-5)
-   
+- Web LLM Attacks
+   - [Exploiting LLM APIs with excessive agency](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-1)
+
 ## picoGym
 - Web Exploitation
 	- [logon](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/logon)
