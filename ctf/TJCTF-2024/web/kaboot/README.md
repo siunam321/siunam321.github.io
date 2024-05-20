@@ -308,6 +308,7 @@ Ah ha! What if we **first reset a dummy ID's score**, and **then continue with a
 
 Armed with above information, we can abuse the reset score logic bug to gain more than `9999` score!
 
+{% raw %}
 **To do so, I'll write a Python solve script:**
 ```python
 import websockets
@@ -440,6 +441,7 @@ if __name__ == "__main__":
 ```
 
 However, this takes a lot of attempts to gain more than `9999` score.
+{% endraw %}
 
 ## Conclusion
 
