@@ -4,11 +4,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: May 15, 2024 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: May 20, 2024 (UTC+8)</small></span>
 
 * * *
 - CTF Writeups
-    - [San Diego CTF 2024](https://siunam321.github.io/ctf/San-Diego-CTF-2024/), May 13, 2024
+    - [TJCTF 2024](https://siunam321.github.io/ctf/TJCTF-2024/), May 20, 2024
     - [PortSwigger Labs](https://siunam321.github.io/ctf/#portswigger-labs)
         - Web LLM Attacks
             - [Exploiting insecure output handling in LLMs](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-4), May 15, 2024
