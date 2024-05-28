@@ -48,6 +48,7 @@
     2.35. **[bi0sCTF 2024](#bi0sctf-2024)**  
     2.36. **[San Diego CTF 2024](#san-diego-ctf-2024)**  
     2.37. **[TJCTF 2024](#tjctf-2024)**  
+    2.38. **[NahamCon CTF 2024](#nahamcon-ctf-2024)**  
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -700,3 +701,7 @@
 
 # [TJCTF 2024](https://siunam321.github.io/ctf/TJCTF-2024/)
 - web
+
+# [NahamCon CTF 2024](https://siunam321.github.io/ctf/NahamCon-CTF-2024/)
+- Web
+- Sponsorship
