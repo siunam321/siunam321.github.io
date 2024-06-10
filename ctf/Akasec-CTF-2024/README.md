@@ -7,7 +7,7 @@
 ## Writeup
 
 - Web
-    1. [Upload](https://siunam321.github.io/ctf/Akasec-CTF-2024/Web/Upload/) (Exploiting CVE-2024-4367 (PDF.js)) (Second blood)
+    1. [Upload](https://siunam321.github.io/ctf/Akasec-CTF-2024/Web/Upload/) (Second blood)
 
 ## Background
 
