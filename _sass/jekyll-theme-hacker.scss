@@ -32,23 +32,6 @@ body {
   margin: 0 auto;
 }
 
-/* Badges */
-
-.badgeHeader {
-  width: 100%;
-  margin: 100px 0 0 0px;
-  border-top: 1px dashed #f00;
-}
-
-.badgeContainer {
-  width: 90%;
-  max-width: $container-max-width;
-  margin: 0 auto;
-  padding-bottom: 30px;
-  display: flex;
-  flex-flow: row wrap;
-}
-
 section {
   display: block;
   margin: 0 0 20px 0;
