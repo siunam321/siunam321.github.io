@@ -25,25 +25,25 @@ bot: [http://172.206.89.197:9000/report](http://172.206.89.197:9000/report)
 
 Author: **@S0nG0ku**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610125457.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610125457.png)
 
 ## Enumeration
 
 **Index page:**
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610125820.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610125820.png)
 
 Hmm... It seems empty in here. Let's try to create a new account via the "Signup" page:
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610125934.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610125934.png)
 
 Upon signing up a new account, it redirected us to the "Login" page:
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610130020.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610130020.png)
 
 After logging in, we'll met with the **upload page**:
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610130030.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610130030.png)
 
 Uh... Let's try to upload a file for testing:
 
@@ -52,21 +52,21 @@ Uh... Let's try to upload a file for testing:
 └> echo -n 'test' > test.txt                     
 ```
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610130154.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610130154.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610130208.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610130208.png)
 
 Hmm... It **only accepts `.pdf` format**...
 
 Burp Suite HTTP history:
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610130321.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610130321.png)
 
 When we clicked the "Upload" button, it'll send a POST request to **`/upload`** with form data parameter `file`.
 
 Now, let's try to **upload a [sample PDF file](https://pdfobject.com/pdf/sample.pdf)** and see what will happened:
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610130634.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610130634.png)
 
 After uploading a sample PDF file, it'll redirect us to `/view/file-<epoch_time>.<file_extension>` and render the uploaded PDF file.
 
@@ -301,7 +301,7 @@ In the [GitHub advisory](https://github.com/advisories/GHSA-wgrm-67xf-hhpq), the
 
 In the "CVE ID" section, we can also see that it is the exact same CVE ID!
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610133740.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610133740.png)
 
 ## Exploitation
 
@@ -309,7 +309,7 @@ Let's search for public exploit, like PoC (Proof-of-Concept)!
 
 By Googling the CVE ID, we can find [this PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC):
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610133826.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610133826.png)
 
 **Let's download the PoC Python script!**
 ```shell
@@ -336,7 +336,7 @@ poc.pdf: PDF document, version 1.4, 1 page(s)
 
 Then upload it:
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610134449.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610134449.png)
 
 Nice! We can confirm that this web application is vulnerable to CVE-2024-4367!
 
@@ -398,7 +398,7 @@ Content-Length: 53
 url=http://127.0.0.1:5000/view/file-1718000341478.pdf
 ```
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/Pasted%20image%2020240610142045.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/Pasted%20image%2020240610142045.png)
 
 **Finally, we should be able to get the flag!**
 ```shell

@@ -2,7 +2,7 @@
 
 > CTFTime event link: [https://ctftime.org/event/2222](https://ctftime.org/event/2222)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/banner.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/banner.png)
 
 ## Writeup
 
@@ -41,9 +41,9 @@ A variety of challenges will be available, Web, Pwn, Reverse, Crypto, Forensics,
 - Global Rank: 37/696
 - Overall Difficulty To Me: ★★★★★☆☆☆☆☆
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/score.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/score.png)
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Codegate-CTF-2024-Preliminary/images/solves.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Akasec-CTF-2024/images/solves.png)
 
 ## What I've learned in this CTF
 
