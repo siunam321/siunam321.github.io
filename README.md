@@ -4,12 +4,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: June 10, 2024 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: June 16, 2024 (UTC+8)</small></span>
 
 * * *
 - CTF Writeups
+    - [justCTF 2024 teaser](https://siunam321.github.io/ctf/justCTF-2024-teaser/), June 16, 2024
     - [Akasec CTF 2024](https://siunam321.github.io/ctf/Akasec-CTF-2024/), June 10, 2024
-    - [Codegate CTF 2024 Preliminary](https://siunam321.github.io/ctf/Codegate-CTF-2024-Preliminary/), June 3, 2024
 
 * * *
 - Blog Posts

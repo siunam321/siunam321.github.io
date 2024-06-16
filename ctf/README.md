@@ -51,6 +51,7 @@
     2.38. **[NahamCon CTF 2024](#nahamcon-ctf-2024)**  
     2.39. **[Codegate CTF 2024 Preliminary](#codegate-ctf-2024-preliminary)**  
     2.40. **[Akasec CTF 2024](#akasec-ctf-2024)**  
+    2.41. **[justCTF 2024 teaser](#justctf-2024-teaser)**  
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -712,4 +713,7 @@
 - web
 
 # [Akasec CTF 2024](https://siunam321.github.io/ctf/Akasec-CTF-2024/)
+- Web
+
+# [justCTF 2024 teaser](https://siunam321.github.io/ctf/justCTF-2024-teaser/)
 - Web
