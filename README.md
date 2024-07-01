@@ -8,7 +8,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - CTF Writeups
-    - [UIUCTF 2024](https://siunam321.github.io/ctf/UIUCTF-2024-teaser/), July 1, 2024
+    - [UIUCTF 2024](https://siunam321.github.io/ctf/UIUCTF-2024/), July 1, 2024
         - Web
     - [justCTF 2024 teaser](https://siunam321.github.io/ctf/justCTF-2024-teaser/), June 16, 2024
         - Web

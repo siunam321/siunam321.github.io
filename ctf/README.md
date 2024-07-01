@@ -719,5 +719,5 @@
 # [justCTF 2024 teaser](https://siunam321.github.io/ctf/justCTF-2024-teaser/)
 - Web
 
-# [UIUCTF 2024](https://siunam321.github.io/ctf/UIUCTF-2024-teaser/)
+# [UIUCTF 2024](https://siunam321.github.io/ctf/UIUCTF-2024/)
 - Web
