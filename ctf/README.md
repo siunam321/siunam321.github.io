@@ -54,6 +54,7 @@
     2.41. **[justCTF 2024 teaser](#justctf-2024-teaser)**  
     2.42. **[UIUCTF 2024](#uiuctf-2024)**  
     2.43. **[DownUnderCTF 2024](#downunderctf-2024)**  
+    2.44. **[ImaginaryCTF 2024](#imaginaryctf-2024)**  
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -725,3 +726,6 @@
 
 # [DownUnderCTF 2024](https://siunam321.github.io/ctf/DownUnderCTF-2024/)
 - web
+
+# [ImaginaryCTF 2024](https://siunam321.github.io/ctf/ImaginaryCTF-2024/)
+- Web
