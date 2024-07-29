@@ -37,7 +37,9 @@ ImaginaryCTF 2024 is a cybersecurity CTF competition run by ImaginaryCTF with a 
 - Global Rank: 58/1457
 - Overall Difficulty To Me: ★★★★☆☆☆☆☆☆
 
-![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/ImaginaryCTF-2024/images/certificate.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/ImaginaryCTF-2024/images/score.png)
+
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/ImaginaryCTF-2024/images/solves.png)
 
 ## What I've learned in this CTF
 
