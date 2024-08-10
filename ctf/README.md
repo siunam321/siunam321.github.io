@@ -495,6 +495,8 @@
    - [Exploiting vulnerabilities in LLM APIs](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-2)
    - [Indirect prompt injection](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-3)
    - [Exploiting insecure output handling in LLMs](https://siunam321.github.io/ctf/portswigger-labs/web-llm-attacks/llm-4)
+- Web Cache Deception
+   - [Exploiting path mapping for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-1)
 
 ## picoGym
 - Web Exploitation
