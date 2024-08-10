@@ -498,6 +498,7 @@
 - Web Cache Deception
    - [Exploiting path mapping for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-1)
    - [Exploiting path delimiters for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-2/)
+   - [Exploiting origin server normalization for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-3/)
 
 ## picoGym
 - Web Exploitation
