@@ -8,7 +8,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - Writeups
-    - PortSwigger Labs
+    - [PortSwigger Labs](https://siunam321.github.io/ctf/#portswigger-labs)
         - Web Cache Deception
             - [Exploiting path mapping for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-1/), August 10, 2024
     - [TFC CTF 2024](https://siunam321.github.io/ctf/TFC-CTF-2024/), August 5, 2024
