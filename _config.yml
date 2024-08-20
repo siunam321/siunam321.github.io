@@ -1,2 +1,4 @@
 title: siunam's Website
 theme: jekyll-theme-hacker
+kramdown:
+  parse_block_html: true
