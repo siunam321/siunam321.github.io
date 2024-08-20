@@ -360,7 +360,7 @@ Armed with the above information, we can write a solve script that contains the 
     1. Submit a correct answer, which temporarily writes the last test case's output to `/tmp/1.expected`
     2. Submit an incorrect answer, which reads the first request's last test case's output at `/tmp/1.expected`
 
-<details><summary>solve.py</summary>
+<details><summary markdown="span">solve.py</summary>
 
 ```python
 import asyncio
