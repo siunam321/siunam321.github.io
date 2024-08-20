@@ -14,11 +14,17 @@ $container-max-width: 1000px;
   }
 }
 
+html {
+  color-scheme: dark !important;
+}
+
 body {
   margin: 0;
   padding: 0;
-  background: 0 0 url('/assets/images/background.png');
-  color: $body-foreground;
+/*  background: 0 0 url('/assets/images/background.png');*/
+  background-color: #131516f0;
+/*  color: $body-foreground;*/
+  color: #eaeaea;
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
