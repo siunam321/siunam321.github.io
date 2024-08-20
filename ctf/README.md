@@ -57,6 +57,7 @@
     2.44. **[ImaginaryCTF 2024](#imaginaryctf-2024)**  
     2.45. **[corCTF 2024](#corctf-2024)**  
     2.46. **[TFC CTF 2024](#tfc-ctf-2024)**  
+    2.47. **[idekCTF 2024](#idekctf-2024)**  
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback)
@@ -743,3 +744,6 @@
 
 # [TFC CTF 2024](https://siunam321.github.io/ctf/TFC-CTF-2024/)
 - Web
+
+# [idekCTF 2024](https://siunam321.github.io/ctf/idekCTF-2024/)
+- web

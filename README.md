@@ -4,10 +4,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: August 15, 2024 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: August 20, 2024 (UTC+8)</small></span>
 
 * * *
 - Writeups
+    - [idekCTF 2024](https://siunam321.github.io/ctf/idekCTF-2024/), August 20, 2024
+        - web
     - [PortSwigger Labs](https://siunam321.github.io/ctf/#portswigger-labs)
         - Web Cache Deception
             - [Exploiting exact-match cache rules for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-5/), August 15, 2024
@@ -15,8 +17,6 @@ In this website, you will find things about my ethical hacking journey, like Cap
             - [Exploiting origin server normalization for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-3/), August 10, 2024
             - [Exploiting path delimiters for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-2/), August 10, 2024
             - [Exploiting path mapping for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-1/), August 10, 2024
-    - [TFC CTF 2024](https://siunam321.github.io/ctf/TFC-CTF-2024/), August 5, 2024
-        - Web
 
 * * *
 - Blog Posts
