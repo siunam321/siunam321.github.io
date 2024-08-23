@@ -3,8 +3,8 @@
 
 ## Table of Contents
 
-  1. Bug Bounty
-    1.1. **[Wordfence](#wordfence)**
+  1. Bug Bounty  
+    1.1. **[Wordfence](#wordfence)**  
   2. Wargames/Academy Labs  
     2.1. **[TryHackMe](#tryhackme)**  
     2.2. **[HackTheBox](#hackthebox)**  
