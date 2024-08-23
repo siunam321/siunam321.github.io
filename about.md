@@ -16,6 +16,8 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 - 14th February 2023: Joined CTF team "[JHDiscord](https://ctftime.org/team/62434)"
 - 11st July 2023: Joined CTF team "[ARESx](https://ctftime.org/team/128734/)"
 - 24th August 2023: Earned OSCP certificate
+- 4th June 2024: Started my bug bounty journey
+- 13th August 2024: Got my first CVE "CVE-2024-7559" (Writeup coming soon...)
 
 # Certificates
 
