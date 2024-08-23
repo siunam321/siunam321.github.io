@@ -9,7 +9,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 * * *
 - Writeups
     - Bug Bounty
-        - Wordfence
+        - [Wordfence](https://siunam321.github.io/ctf/#wordfence)
             - [How I Found My First Vulnerabilities In 6 Different WordPress Plugins (Part 1)](https://siunam321.github.io/ctf/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-1/), August 23, 2024
     - [idekCTF 2024](https://siunam321.github.io/ctf/idekCTF-2024/), August 20, 2024
         - web

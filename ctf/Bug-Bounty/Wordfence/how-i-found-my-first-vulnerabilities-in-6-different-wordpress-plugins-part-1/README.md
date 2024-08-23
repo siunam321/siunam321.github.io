@@ -1,6 +1,6 @@
 # How I Found My First Vulnerabilities In 6 Different WordPress Plugins (Part 1)
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details><summary markdown="span"><strong>Table of Contents</strong></summary>
 
   1. [Overview](#overview)  
   2. [Before Doing WordPress Plugin Bug Bounty](#before-doing-wordpress-plugin-bug-bounty)  
