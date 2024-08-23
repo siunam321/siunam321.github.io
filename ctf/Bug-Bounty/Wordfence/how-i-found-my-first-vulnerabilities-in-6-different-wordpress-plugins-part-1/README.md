@@ -31,7 +31,8 @@
     - [Timeline](#timeline-5)  
 - [Conclusion](#conclusion)  
 
-</details>\
+</details>
+\
 
 ## Overview
 
