@@ -3,61 +3,68 @@
 
 ## Table of Contents
 
- 1. Wargames/Academy Labs  
-    1.1. **[TryHackMe](#tryhackme)**  
-    1.2. **[HackTheBox](#hackthebox)**  
-    1.3. **[Proving Grounds Play](#proving-grounds-play)**  
-    1.4. **[PortSwigger Labs](#portswigger-labs)**  
-    1.5. **[picoGym](#picogym)**  
-    1.6. **[VulnHub](#vulnhub)**  
- 2. CTFs  
-    2.1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**  
-    2.2. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**  
-    2.3. **[Hack The Boo](#hack-the-boo)**  
-    2.4. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**  
-    2.5. **[BuckeyeCTF 2022](#buckeyectf-2022)**  
-    2.6. **[HKCERT CTF 2022](#hkcert-ctf-2022)**  
-    2.7. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**  
-    2.8. **[KnightCTF 2023](#knightctf-2023)**  
-    2.9. **[DiceCTF 2023](#dicectf-2023)**  
-    2.10. **[LA CTF 2023](#la-ctf-2023)**  
-    2.11. **[Incognito 4.0](#incognito-40)**  
-    2.12. **[pbctf 2023](#pbctf-2023)**  
-    2.13. **[VU Cyberthon 2023](#vu-cyberthon-2023)**  
-    2.14. **[KalmarCTF 2023](#kalmarctf-2023)**  
-    2.15. **[Cyber Apocalypse 2023](#cyber-apocalypse-2023)**  
-    2.16. **[picoCTF 2023](#picoctf-2023)**  
-    2.17. **[RITSEC CTF 2023](#ritsec-ctf-2023)**  
-    2.18. **[DamCTF 2023](#damctf-2023)**  
-    2.19. **[PlaidCTF 2023](#plaidctf-2023)**  
-    2.20. **[PwnMe Qualifications : "8 bits"](#pwnme-qualifications--8-bits)**  
-    2.21. **[HeroCTF v5](#heroctf-v5)**  
-    2.22. **[Grey Cat The Flag 2023 Qualifiers](#grey-cat-the-flag-2023-qualifiers)**  
-    2.23. **[DEF CON CTF Qualifier 2023](#def-con-ctf-qualifier-2023)**  
-    2.24. **[CrewCTF 2023](#crewctf-2023)**  
-    2.25. **[zer0pts CTF 2023](#zer0pts-ctf-2023)**  
-    2.26. **[corCTF 2023](#corctf-2023)**  
-    2.27. **[Securinets CTF Quals 2023](#securinets-ctf-quals-2023)**  
-    2.28. **[Bauhinia CTF 2023](#bauhinia-ctf-2023)**  
-    2.29. **[SekaiCTF 2023](#sekaictf-2023)**  
-    2.30. **[DownUnderCTF 2023](#downunderctf-2023)**  
-    2.31. **[LakeCTF Quals 23](#lakectf-quals-23)**  
-    2.32. **[HKCERT CTF 2023](#hkcert-ctf-2023)**  
-    2.33. **[0xL4ugh CTF 2024](#0xl4ugh-ctf-2024)**  
-    2.34. **[LA CTF 2024](#0xl4ugh-ctf-2024)**  
-    2.35. **[bi0sCTF 2024](#bi0sctf-2024)**  
-    2.36. **[San Diego CTF 2024](#san-diego-ctf-2024)**  
-    2.37. **[TJCTF 2024](#tjctf-2024)**  
-    2.38. **[NahamCon CTF 2024](#nahamcon-ctf-2024)**  
-    2.39. **[Codegate CTF 2024 Preliminary](#codegate-ctf-2024-preliminary)**  
-    2.40. **[Akasec CTF 2024](#akasec-ctf-2024)**  
-    2.41. **[justCTF 2024 teaser](#justctf-2024-teaser)**  
-    2.42. **[UIUCTF 2024](#uiuctf-2024)**  
-    2.43. **[DownUnderCTF 2024](#downunderctf-2024)**  
-    2.44. **[ImaginaryCTF 2024](#imaginaryctf-2024)**  
-    2.45. **[corCTF 2024](#corctf-2024)**  
-    2.46. **[TFC CTF 2024](#tfc-ctf-2024)**  
-    2.47. **[idekCTF 2024](#idekctf-2024)**  
+ 1. Bug Bounty
+    1.1. **[Wordfence](#wordfence)**
+ 2. Wargames/Academy Labs  
+    2.1. **[TryHackMe](#tryhackme)**  
+    2.2. **[HackTheBox](#hackthebox)**  
+    2.3. **[Proving Grounds Play](#proving-grounds-play)**  
+    2.4. **[PortSwigger Labs](#portswigger-labs)**  
+    2.5. **[picoGym](#picogym)**  
+    2.6. **[VulnHub](#vulnhub)**  
+ 3. CTFs  
+    3.1. **[NahamCon CTF 2022](#nahamcon-ctf-2022)**  
+    3.2. **[Cyber Apocalypse CTF 2022](#cyber-apocalypse-ctf-2022)**  
+    3.3. **[Hack The Boo](#hack-the-boo)**  
+    3.4. **[GuidePoint Security Oct27 2022 CTF](#guidepoint-security-oct27-2022-ctf)**  
+    3.5. **[BuckeyeCTF 2022](#buckeyectf-2022)**  
+    3.6. **[HKCERT CTF 2022](#hkcert-ctf-2022)**  
+    3.7. **[NahamCon EU CTF 2022](#nahamcon-eu-ctf-2022)**  
+    3.8. **[KnightCTF 2023](#knightctf-2023)**  
+    3.9. **[DiceCTF 2023](#dicectf-2023)**  
+    3.10. **[LA CTF 2023](#la-ctf-2023)**  
+    3.11. **[Incognito 4.0](#incognito-40)**  
+    3.12. **[pbctf 2023](#pbctf-2023)**  
+    3.13. **[VU Cyberthon 2023](#vu-cyberthon-2023)**  
+    3.14. **[KalmarCTF 2023](#kalmarctf-2023)**  
+    3.15. **[Cyber Apocalypse 2023](#cyber-apocalypse-2023)**  
+    3.16. **[picoCTF 2023](#picoctf-2023)**  
+    3.17. **[RITSEC CTF 2023](#ritsec-ctf-2023)**  
+    3.18. **[DamCTF 2023](#damctf-2023)**  
+    3.19. **[PlaidCTF 2023](#plaidctf-2023)**  
+    3.20. **[PwnMe Qualifications : "8 bits"](#pwnme-qualifications--8-bits)**  
+    3.21. **[HeroCTF v5](#heroctf-v5)**  
+    3.22. **[Grey Cat The Flag 2023 Qualifiers](#grey-cat-the-flag-2023-qualifiers)**  
+    3.23. **[DEF CON CTF Qualifier 2023](#def-con-ctf-qualifier-2023)**  
+    3.24. **[CrewCTF 2023](#crewctf-2023)**  
+    3.25. **[zer0pts CTF 2023](#zer0pts-ctf-2023)**  
+    3.26. **[corCTF 2023](#corctf-2023)**  
+    3.27. **[Securinets CTF Quals 2023](#securinets-ctf-quals-2023)**  
+    3.28. **[Bauhinia CTF 2023](#bauhinia-ctf-2023)**  
+    3.29. **[SekaiCTF 2023](#sekaictf-2023)**  
+    3.30. **[DownUnderCTF 2023](#downunderctf-2023)**  
+    3.31. **[LakeCTF Quals 23](#lakectf-quals-23)**  
+    3.32. **[HKCERT CTF 2023](#hkcert-ctf-2023)**  
+    3.33. **[0xL4ugh CTF 2024](#0xl4ugh-ctf-2024)**  
+    3.34. **[LA CTF 2024](#0xl4ugh-ctf-2024)**  
+    3.35. **[bi0sCTF 2024](#bi0sctf-2024)**  
+    3.36. **[San Diego CTF 2024](#san-diego-ctf-2024)**  
+    3.37. **[TJCTF 2024](#tjctf-2024)**  
+    3.38. **[NahamCon CTF 2024](#nahamcon-ctf-2024)**  
+    3.39. **[Codegate CTF 2024 Preliminary](#codegate-ctf-2024-preliminary)**  
+    3.40. **[Akasec CTF 2024](#akasec-ctf-2024)**  
+    3.41. **[justCTF 2024 teaser](#justctf-2024-teaser)**  
+    3.42. **[UIUCTF 2024](#uiuctf-2024)**  
+    3.43. **[DownUnderCTF 2024](#downunderctf-2024)**  
+    3.44. **[ImaginaryCTF 2024](#imaginaryctf-2024)**  
+    3.45. **[corCTF 2024](#corctf-2024)**  
+    3.46. **[TFC CTF 2024](#tfc-ctf-2024)**  
+    3.47. **[idekCTF 2024](#idekctf-2024)**  
+
+## Bug Bounty
+
+### Wordfence
+- [How I Found My First Vulnerabilities In 6 Different WordPress Plugins (Part 1)](https://siunam321.github.io/ctf/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-1/)
 
 ## TryHackMe
 - [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback/)
