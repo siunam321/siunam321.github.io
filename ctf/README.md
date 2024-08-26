@@ -60,6 +60,7 @@
     3.45. **[corCTF 2024](#corctf-2024)**  
     3.46. **[TFC CTF 2024](#tfc-ctf-2024)**  
     3.47. **[idekCTF 2024](#idekctf-2024)**  
+    3.48. **[SekaiCTF 2024](#sekaictf-2024)**  
 
 ## Bug Bounty
 
@@ -754,3 +755,6 @@
 
 # [idekCTF 2024](https://siunam321.github.io/ctf/idekCTF-2024/)
 - web
+
+# [SekaiCTF 2024](https://siunam321.github.io/ctf/SekaiCTF-2024)
+- Web
