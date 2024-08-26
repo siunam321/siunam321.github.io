@@ -4,6 +4,12 @@
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/SekaiCTF-2024/images/banner.png)
 
+## Writeup
+
+- Web
+    1. [Tagless](https://siunam321.github.io/ctf/SekaiCTF-2024/Web/Tagless/)
+    2. [Intruder](https://siunam321.github.io/ctf/SekaiCTF-2024/Web/Intruder/)
+
 ## Background
 
 - Starts: 17 Aug. 2024, 00:00 UTC
