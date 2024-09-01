@@ -61,7 +61,7 @@
     3.46. **[TFC CTF 2024](#tfc-ctf-2024)**  
     3.47. **[idekCTF 2024](#idekctf-2024)**  
     3.48. **[SekaiCTF 2024](#sekaictf-2024)**  
-    3.49. **[AlpacaHack Round 2 (Web)](#alpaca-hack-round-2-web)**  
+    3.49. **[AlpacaHack Round 2 (Web)](#alpacahack-round-2-web)**  
 
 ## Bug Bounty
 
