@@ -279,7 +279,7 @@ With that said, this plugin's AJAX action `simple_jwt_handler` is vulnerable to 
 
 Armed with above information, we can forge our JWT `role` claim to `admin` via algorithm confusion. To do so, we can use the following solve script to get the flag.
 
-<details><summary><strong>solve.php</strong></summary>
+<details><summary markdown="span"><strong>solve.php</strong></summary>
 
 ```php
 <?php

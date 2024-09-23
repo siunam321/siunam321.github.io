@@ -400,7 +400,7 @@ To solve this issue, we can first create a new link via AJAX action `submit_link
 
 Armed with the above information, we can write a solve script to exfiltrate the flag option's value!
 
-<details><summary><strong>solve.py</strong></summary>
+<details><summary markdown="span"><strong>solve.py</strong></summary>
 
 ```python
 #!/usr/bin/env python3
