@@ -353,9 +353,7 @@ PD9waHANCi8qKg0KICogVGh
 b'<?php\r\n/**\r\n * Th'
 ```
 
-**Video showcase:**
-
-![](https://github.com/siunam321/CTF-Writeups/raw/refs/heads/main/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-1/images/file_read_via_php_filter_chains.mp4)
+> Note: A video showcase can be seen in [here](https://github.com/siunam321/CTF-Writeups/raw/refs/heads/main/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-1/images/file_read_via_php_filter_chains.mp4).
 
 Nice! We found an arbitrary file read vulnerability! Let's report this!
 
