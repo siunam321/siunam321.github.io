@@ -63,6 +63,7 @@
     3.48. **[SekaiCTF 2024](#sekaictf-2024)**  
     3.49. **[AlpacaHack Round 2 (Web)](#alpacahack-round-2-web)**  
     3.50. **[Patchstack WCUS Capture The Flag](#patchstack-wcus-capture-the-flag)**  
+    3.51. **[CUHK CTF 2024](#cuhk-ctf-2024)**  
 
 ## Bug Bounty
 
@@ -764,3 +765,6 @@
 # [AlpacaHack Round 2 (Web)](https://siunam321.github.io/ctf/AlpacaHack-Round-2-Web/)
 
 # [Patchstack WCUS Capture The Flag](https://siunam321.github.io/ctf/Patchstack-WCUS-Capture-The-Flag/)
+
+# [CUHK CTF 2024](https://siunam321.github.io/ctf/CUHK-CTF-2024/)
+- Web Exploitation
