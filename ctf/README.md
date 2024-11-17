@@ -65,6 +65,7 @@
     3.50. **[Patchstack WCUS Capture The Flag](#patchstack-wcus-capture-the-flag)**  
     3.51. **[CUHK CTF 2024](#cuhk-ctf-2024)**  
     3.52. **[AlpacaHack Round 6 (Pwn)](#alpacahack-round-6-pwn)**  
+    3.53. **[HKCERT CTF 2024](#hkcert-ctf-2024)**  
 
 ## Bug Bounty
 
@@ -771,3 +772,6 @@
 - Web Exploitation
 
 # [AlpacaHack Round 6 (Pwn)](https://siunam321.github.io/ctf/AlpacaHack-Round-6-Pwn/)
+
+# [HKCERT CTF 2024](https://siunam321.github.io/ctf/HKCERT-CTF-2024/)
+- Web

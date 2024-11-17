@@ -4,12 +4,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: November 4, 2024 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: November 17, 2024 (UTC+8)</small></span>
 
 * * *
 - Writeups
+    - [HKCERT CTF 2024](https://siunam321.github.io/ctf/HKCERT-CTF-2024/), November 17, 2024
     - [AlpacaHack Round 6 (Pwn)](https://siunam321.github.io/ctf/AlpacaHack-Round-6-Pwn/), November 4, 2024
-    - [CUHK CTF 2024](https://siunam321.github.io/ctf/CUHK-CTF-2024/), October 17, 2024
 
 * * *
 - Blog Posts
