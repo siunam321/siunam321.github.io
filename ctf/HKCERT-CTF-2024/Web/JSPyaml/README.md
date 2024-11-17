@@ -1,6 +1,6 @@
 # JSPyaml
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 - [Overview](#overview)
 - [Background](#background)
@@ -569,7 +569,7 @@ Let's go! It worked on our local environment! Let's get the real flag on the rem
 
 Oh also, to automate the above steps, I wrote the following Python script to generate the final payload:
 
-<details><summary><strong>solve.py</strong></summary>
+<details><summary markdown="span"><strong>solve.py</strong></summary>
 
 {% raw %}
 ```python

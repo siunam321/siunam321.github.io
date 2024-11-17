@@ -1,6 +1,6 @@
 # Mystiz's Mini CTF (2)
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 - [Overview](#overview)
 - [Background](#background)
@@ -221,7 +221,7 @@ Armed with above information, we can get the flag of the challenge "A placeholde
 
 To automate the above steps, I wrote the following Python solve script:
 
-<details><summary><strong>solve.py</strong></summary>
+<details><summary markdown="span"><strong>solve.py</strong></summary>
 
 ```python
 import requests

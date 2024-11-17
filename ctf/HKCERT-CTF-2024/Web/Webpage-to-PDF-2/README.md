@@ -1,6 +1,6 @@
 # Webpage to PDF (2)
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 - [Overview](#overview)
 - [Background](#background)

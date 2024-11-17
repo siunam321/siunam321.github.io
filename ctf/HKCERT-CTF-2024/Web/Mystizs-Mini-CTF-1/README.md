@@ -1,6 +1,6 @@
 # Mystiz's Mini CTF (1)
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 - [Overview](#overview)
 - [Background](#background)
@@ -437,7 +437,7 @@ We got the flag locally! Let's write a Python solve script to get the real flag 
 4. Login as `player` with the cracked password
 5. Get the flag via sending a GET request to `/api/attempts/?group=flag`
 
-<details><summary><strong>solve.py</strong></summary>
+<details><summary markdown="span"><strong>solve.py</strong></summary>
 
 ```python
 import hashlib
