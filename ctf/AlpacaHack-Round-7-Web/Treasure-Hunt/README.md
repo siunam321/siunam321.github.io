@@ -1,6 +1,6 @@
 # Treasure Hunt
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 - [Overview](#overview)
 - [Background](#background)
@@ -186,7 +186,7 @@ Location: /3/
 
 With that said, we can write a Python script to brute force the correct path and get the flag!
 
-<details><summary><strong>solve.py</strong></summary>
+<details><summary markdown="span"><strong>solve.py</strong></summary>
 
 ```python
 #!/usr/bin/env python3

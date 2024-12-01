@@ -1,6 +1,6 @@
 # Alpaca Poll
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 - [Overview](#overview)
 - [Background](#background)
@@ -417,7 +417,7 @@ Yep! It worked!
 
 With that said, we can write a Python script to leak the flag byte by byte!
 
-<details><summary><strong>solve.py</strong></summary>
+<details><summary markdown="span"><strong>solve.py</strong></summary>
 
 ```python
 #!/usr/bin/env python3
