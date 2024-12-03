@@ -275,6 +275,7 @@
    - [Authentication bypass via flawed state machine](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-9/)
    - [Infinite money logic flaw](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-10/)
    - [Authentication bypass via encryption oracle](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-11/)
+   - [Bypassing access controls using email address parsing discrepancies](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-12/)
 - Information Disclosure
    - [Information disclosure in error messages](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-1/)
    - [Information disclosure on debug page](https://siunam321.github.io/ctf/portswigger-labs/Information-Disclosure/id-2/)
