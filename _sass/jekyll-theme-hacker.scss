@@ -289,6 +289,11 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+.headerLink {
+  text-decoration: none;
+  padding-left: 10px;
+}
+
 /* Clearfix */
 
 .cf:before, .cf:after {

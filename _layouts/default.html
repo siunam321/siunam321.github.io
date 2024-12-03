@@ -41,5 +41,23 @@
     </div>
 
     <footer></footer>
+    <script>
+      // modified from https://eleventy-plugin-ghost.netlify.app/adding-heading-links-to-your-jekyll-blog/ xd
+      const headings = document.querySelectorAll('h2[id],h3[id],h4[id],h5[id],h6[id]');
+      const linkContent = '🔗';
+      for (const heading of headings) {
+          // we don't want to create the link icon when the inner header element is an `<a>` element,
+          // because people might treat the icon as the actual link
+          if (heading.firstChild.tagName?.toLowerCase() === 'a') {
+            continue;
+          }
+
+          const linkIcon = document.createElement('a');
+          linkIcon.setAttribute('href', `#${heading.id}`);
+          linkIcon.setAttribute('class', 'headerLink');
+          linkIcon.textContent = linkContent;
+          heading.appendChild(linkIcon);
+      }
+    </script>
   </body>
 </html>
