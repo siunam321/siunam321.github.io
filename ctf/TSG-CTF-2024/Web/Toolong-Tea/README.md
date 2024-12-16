@@ -1,5 +1,5 @@
 ---
-permalink: /ctf/TSG-CTF-2024/Web/Toolong-Tea/index.html
+permalink: /ctf/TSG-CTF-2024/Web/Toolong-Tea/
 title: TSG CTF 2024 Web Challenge Writeup - Toolong Tea
 description: My TSG CTF 2024 writeup for web challenge "Toolong Tea".
 ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TSG-CTF-2024/images/toolong-tea-ogimage.png
