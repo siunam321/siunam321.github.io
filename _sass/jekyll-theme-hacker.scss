@@ -202,6 +202,10 @@ ul > li::before {
   font-weight: bolder;
 }
 
+ol > li {
+  list-style-type: decimal;
+}
+
 ol > li::marker {
   color: #f00;
   font-weight: bolder;
