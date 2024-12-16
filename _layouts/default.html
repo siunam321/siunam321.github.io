@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="BbTeZdPwpo3YGbnXDUp7L8Pol41hi_38AAjNkplpLJA" />
     <meta property="og:image" content="{{ page.ogImageUrl | url_escape | default: "https://siunam321.github.io/assets/images/ogimage.png" }}" />
-    <meta property="og:description" content="{{ page.ogDescription | escape |default: "Welcome to my website! In here, you will find things about Capture The Flag (CTF) writeups, blogs and more!" }}" />
-    <meta name="description" content="{{ page.ogDescription | escape | default: "Welcome to my website! In here, you will find things about Capture The Flag (CTF) writeups, blogs and more!" }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
