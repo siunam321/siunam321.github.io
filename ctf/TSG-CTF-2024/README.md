@@ -1,5 +1,5 @@
 ---
-permalink: /ctf/TSG-CTF-2024/Web/index.html
+permalink: /ctf/TSG-CTF-2024/index.html
 description: My TSG CTF 2024 writeup for web challenges "Toolong Tea" and "I Have Been Pwned".
 ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/TSG-CTF-2024/images/banner.png
 ---
