@@ -4,14 +4,14 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: December 3, 2024 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: December 12, 2024 (UTC+8)</small></span>
 
 * * *
 - Writeups
+    - [TSG CTF 2024](https://siunam321.github.io/ctf/TSG-CTF-2024/), December 12, 2024
     - [PortSwigger Labs](https://siunam321.github.io/ctf#portswigger-labs)
         - Business Logic Vulnerabilities
             - [Bypassing access controls using email address parsing discrepancies](https://siunam321.github.io/ctf/portswigger-labs/Business-Logic-Vulnerabilities/blv-12/), December 3, 2024
-    - [AlpacaHack Round 7 (Web)](https://siunam321.github.io/ctf/AlpacaHack-Round-7-Web/), December 1, 2024
 
 * * *
 - Blog Posts

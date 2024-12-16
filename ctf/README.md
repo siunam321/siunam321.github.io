@@ -67,6 +67,7 @@
     3.52. **[AlpacaHack Round 6 (Pwn)](#alpacahack-round-6-pwn)**  
     3.53. **[HKCERT CTF 2024](#hkcert-ctf-2024)**  
     3.54. **[AlpacaHack Round 7 (Web)](#alpacahack-round-7-web)**  
+    3.55. **[TSG CTF 2024](#tsg-ctf-2024)**  
 
 ## Bug Bounty
 
@@ -779,3 +780,6 @@
 - Web
 
 ## [AlpacaHack Round 7 (Web)](https://siunam321.github.io/ctf/AlpacaHack-Round-7-Web/)
+
+## [TSG CTF 2024](https://siunam321.github.io/ctf/TSG-CTF-2024/)
+- Web
