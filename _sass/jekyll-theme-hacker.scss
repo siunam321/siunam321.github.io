@@ -192,7 +192,19 @@ dt {
 }
 
 ul li {
-  list-style-image:url('/assets/images/arrow.svg');
+  // list-style-image:url('/assets/images/arrow.svg');
+  list-style: none;
+}
+
+ul > li::before {
+  content: "> ";
+  color: #f00;
+  font-weight: bolder;
+}
+
+ol > li::marker {
+  color: #f00;
+  font-weight: bolder;
 }
 
 blockquote {
@@ -218,7 +230,7 @@ code.highlighter-rouge {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
-  color: #aa759f;
+  color: #f00;
   border-radius: 2px;
 }
 
@@ -346,6 +358,7 @@ summary::marker {
   content: " + ";
   color: #f00;
   font-size: 1.5em;
+  font-weight: bolder;
 }
 
 summary {
