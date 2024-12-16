@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="14px" viewBox="0 0 14 14" version="1.1">
+<defs>
+<image id="image6" width="15" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABmJLR0QA/wD/AP+gvaeTAAABFElEQVQoke2QQWrCQBSGv8lM0kgSiLYRFUEUingLL5EreI6cozcQj9J9uy/U4q5oGjpjZqabtkixrrvot3oP/u/98ASf+NUqpK5TlMqIIgk0BMGB0ehdVJXjDMH3ZIwkz1O63SF5PqXXm5Cm12y3sa+q4LIcRQFKxYThDXE8JY7nJMmMoiio644vS3mp2SGlJQw9SiVIOUbKOdbeYu2QwSDxy6X6rdkSBHu8f8G5Z7x/o20znJvQtjO0HrFYZOflu7uWLNsjxBPOPWDMI8fjDu8FUOD9mMOhfyqL08WDoCwDiqKDlDlhWGBtH61TtNY0zU6s1/dfefXjkmezsR4aytKQJDVKvXI89tD6CmPMua//8+f5ACM1Y/skuCa5AAAAAElFTkSuQmCC"/>
+<image id="image10" width="15" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABmJLR0QA/wD/AP+gvaeTAAAA0ElEQVQoke3PS27CQBBF0duubhN+NhEQkFgC64H1mPWwEtaSiHzAhG43rgwjFFtWRpnkDkt1Bg/++1Wm6aiqht1OOByE0UjNfh+a/uwPWBQJ222PLOuzWKR4H4GXTqybjXA+PzCdThCZ4L1g7akNJ3dwve4T4xznVog84dyAum6cdodZLi2XS4bInDR9xBiLtZ8kSdmNvRdCSFF13G4V1h5RfWY8/mjD35uHQ6WqAsa8IaJ4/45zr+S578ZlGYnxRJ5fUa2Zza5AMEVRt+G/6wsucklOycQcSQAAAABJRU5ErkJggg=="/>
+<image id="image14" width="15" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABmJLR0QA/wD/AP+gvaeTAAAAlUlEQVQoke2PQQ6CMBREX/s/tGACnpUTlGtwSoIRKSJ1a0RlZ2Li2868TAb+fA/zKUxgCEEApaqMaZrLY65vxZQMXaf0vUfEsa4A+3IKwdK2Oc4V3G4lIkqM83NvI6cQFPBk2YFlKVEVpumKtRvZbmbHsUC1xpgaEUeMC96f8X7cl4/HHBEHWOZ5Agby/MQwxFcXf5A7SCsscr465ncAAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<path style="fill-rule:evenodd;fill:rgb(100%,0%,0%);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(91.764706%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 17.954799 47.321429 L 44.070871 26.074219 L 17.619978 4.980469 C 13.699777 6.947545 13.895089 10.965402 14.969308 15.080915 L 28.152902 25.878906 L 14.634487 36.676897 C 12.834821 40.694754 15.066964 44.977679 17.954799 47.321429 Z M 17.954799 47.321429 " transform="matrix(0.28,0,0,0.28,0,0)"/>
+<use xlink:href="#image6"/>
+<use xlink:href="#image10"/>
+<use xlink:href="#image14"/>
+</g>
+</svg>

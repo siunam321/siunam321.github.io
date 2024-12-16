@@ -158,6 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h1,h2,h3,h4,h5,h6 {
   background: black;
   border: 1px solid #f00;
+  border-radius: 5px;
   padding-left: 10px;
 }
 
@@ -191,7 +192,7 @@ dt {
 }
 
 ul li {
-  list-style-image:url('/assets/images/arrow.png');
+  list-style-image:url('/assets/images/arrow.svg');
 }
 
 blockquote {
@@ -334,6 +335,41 @@ footer {
   margin: 0 0 40px 0;
 }
 
-.toc {
-  padding-bottom: 15px;
+// Collapsible style
+
+// deprecated class
+// .toc {
+//   padding-bottom: 15px;
+// }
+
+summary::marker {
+  content: " + ";
+  color: #f00;
+  font-size: 1.5em;
+}
+
+summary {
+  list-style-position: inside;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+details {
+  border: 1px dashed #f00;
+  background: black;
+  border-radius: 5px;
+}
+
+details[open] summary::marker {
+  content: "\0020\2014\0020"; // space + long dash + space unicode character
+}
+
+details[open] > summary {
+  border-bottom: 1px dashed #f00;
+}
+
+details > div {
+  padding-left: 20px;
+  padding-right: 20px;
 }
