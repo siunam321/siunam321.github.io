@@ -785,5 +785,5 @@
 ## [TSG CTF 2024](https://siunam321.github.io/ctf/TSG-CTF-2024/)
 - Web
 
-## [hxp 38C3 CTF](https://siunam321.github.io/ctf/TSG-CTF-2024/)
+## [hxp 38C3 CTF](https://siunam321.github.io/ctf/hxp-38C3-CTF/)
 - Web

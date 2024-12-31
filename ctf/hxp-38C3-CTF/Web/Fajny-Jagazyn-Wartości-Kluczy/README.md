@@ -2,7 +2,7 @@
 permalink: /ctf/hxp-38C3-CTF/Web/Fajny-Jagazyn-Wartości-Kluczy/index.html
 title: Fajny Jagazyn Wartości Kluczy - hxp 38C3 CTF Web Challenge Writeup
 description: My hxp 38C3 CTF writeup for web challenge "Fajny Jagazyn Wartości Kluczy".
-ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/hxp-38C3-CTF/images/Pasted%20image%2020241231130613.png
+ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/hxp-38C3-CTF/images/Fajny-Jagazyn-Warto%C5%9Bci-Kluczy-ogimage.png
 ---
 
 # Fajny Jagazyn Wartości Kluczy

@@ -8,7 +8,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - Writeups
-    - [hxp 38C3 CTF](https://siunam321.github.io/ctf/TSG-CTF-2024/), December 31, 2024
+    - [hxp 38C3 CTF](https://siunam321.github.io/ctf/hxp-38C3-CTF/), December 31, 2024
     - [TSG CTF 2024](https://siunam321.github.io/ctf/TSG-CTF-2024/), December 12, 2024
 
 * * *

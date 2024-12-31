@@ -2,7 +2,7 @@
 permalink: /ctf/hxp-38C3-CTF/Web/haschbargeld/index.html
 title: haschbargeld - hxp 38C3 CTF Web Challenge Writeup
 description: My hxp 38C3 CTF writeup for web challenge "haschbargeld".
-ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/hxp-38C3-CTF/images/Pasted%20image%2020241231195014.png
+ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/hxp-38C3-CTF/images/haschbargeld-ogimage.png
 ---
 
 # haschbargeld
