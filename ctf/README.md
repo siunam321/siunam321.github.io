@@ -23,7 +23,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 <details><summary markdown="span"><strong>TryHackMe</strong></summary>
 
-| Room Title & Link |
+| Room Title & Writeup Link |
 |--------------|
 | [Lookback](https://siunam321.github.io/ctf/tryhackme/Lookback/) |
 | [Capture!](https://siunam321.github.io/ctf/tryhackme/Capture/) |
@@ -120,7 +120,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 <details><summary markdown="span"><strong>HackTheBox</strong></summary>
 
-| Box Title & Link |
+| Box Title & Writeup Link |
 |--------------|
 | [Meta](https://siunam321.github.io/ctf/hackthebox/Meta/) |
 | [Acute](https://siunam321.github.io/ctf/hackthebox/Acute/) |
@@ -154,7 +154,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 <details><summary markdown="span"><strong>Proving Grounds Play</strong></summary>
 
-| Lab Title & Link |
+| Lab Title & Writeup Link |
 |--------------|
 | [DC-9](https://siunam321.github.io/ctf/pgplay/DC-9/) |
 | [ICMP](https://siunam321.github.io/ctf/pgplay/ICMP/) |
@@ -180,7 +180,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 <details><summary markdown="span"><strong>VulnHub</strong></summary>
 
-| Machine Title & Link |
+| Machine Title & Writeup Link |
 |--------------|
 | [digitalworld.local: VENGEANCE](https://siunam321.github.io/ctf/vulnhub/digitalworld.local:VENGEANCE/) |
 | [Healthcare: 1](https://siunam321.github.io/ctf/vulnhub/Healthcare:1/) |
@@ -193,7 +193,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 <details><summary markdown="span"><strong>PortSwigger Labs</strong></summary>
 
-| Lab Topic | Lab Title & Link |
+| Lab Topic | Lab Title & Writeup Link |
 |----------|--------------|
 | SQL injection | [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-1/) |
 | | [SQL injection vulnerability allowing login bypass](https://siunam321.github.io/ctf/portswigger-labs/SQL-Injection/sqli-2/) |
@@ -470,7 +470,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 <details><summary markdown="span"><strong>picoGym</strong></summary>
 
-| Challenge Category | Challenge Title & Link |
+| Challenge Category | Challenge Title & Writeup Link |
 |----------|--------------|
 | Web Exploitation | [logon](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/logon/) |
 | | [where are the robots](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/where-are-the-robots/) |
@@ -542,7 +542,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 <details><summary markdown="span"><strong>Cyber Apocalypse CTF 2022</strong></summary>
 
-| Challenge Category | Challenge Title & Link |
+| Challenge Category | Challenge Title & Writeup Link |
 |----------|--------------|
 | Misc | [Compressor](https://siunam321.github.io/ctf/cactf2022/Misc/Compressor/) |
 | | [Matrioshka Brain](https://siunam321.github.io/ctf/cactf2022/Misc/Matrioshka-Brain/) |
@@ -555,7 +555,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 <details><summary markdown="span"><strong>NahamCon CTF 2022</strong></summary>
 
-| Challenge Category | Challenge Title & Link |
+| Challenge Category | Challenge Title & Writeup Link |
 |----------|--------------|
 | Miscellaneous | [One Mantissa Please](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/One-Mantissa-Please/) |
 | | [The Balloon](https://siunam321.github.io/ctf/nahamconctf2022/Miscellaneous/The-Balloon/) |
