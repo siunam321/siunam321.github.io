@@ -540,6 +540,19 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 | [GuidePoint Security Oct27 2022 CTF](https://siunam321.github.io/ctf/GuidePoint-Security-Oct27-2022/) | Web, Pwnables |
 | [Hack The Boo](https://siunam321.github.io/ctf/hacktheboo/) | Web, Pwn, Reversing, Forensics, Crypto |
 
+<details><summary markdown="span"><strong>Cyber Apocalypse CTF 2022</strong></summary>
+
+| Challenge Category | Challenge Title & Link |
+|----------|--------------|
+| Misc | [Compressor](https://siunam321.github.io/ctf/cactf2022/Misc/Compressor/) |
+| | [Matrioshka Brain](https://siunam321.github.io/ctf/cactf2022/Misc/Matrioshka-Brain/) |
+| Pwn | [Space-Pirate:Entrypoint](https://siunam321.github.io/ctf/cactf2022/Pwn/Space-Pirate:Entrypoint/) |
+| Reversing | [Omega One](https://siunam321.github.io/ctf/cactf2022/Reversing/Omega-One/) |
+| | [WIDE](https://siunam321.github.io/ctf/cactf2022/Reversing/WIDE/) |
+| Warmup | [Welcome!](https://siunam321.github.io/ctf/cactf2022/Warmup/Welcome!/) |
+
+</details>
+
 <details><summary markdown="span"><strong>NahamCon CTF 2022</strong></summary>
 
 | Challenge Category | Challenge Title & Link |
@@ -557,18 +570,5 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 | | [Wizard](https://siunam321.github.io/ctf/nahamconctf2022/Warmups/Wizard/) |
 | Web | [EXtravagant](https://siunam321.github.io/ctf/nahamconctf2022/Web/EXtravagant/) |
 | | [Jurassic Park](https://siunam321.github.io/ctf/nahamconctf2022/Web/Jurassic-Park/) |
-
-</details>
-
-<details><summary markdown="span"><strong>Cyber Apocalypse CTF 2022</strong></summary>
-
-| Challenge Category | Challenge Title & Link |
-|----------|--------------|
-| Misc | [Compressor](https://siunam321.github.io/ctf/cactf2022/Misc/Compressor/) |
-| | [Matrioshka Brain](https://siunam321.github.io/ctf/cactf2022/Misc/Matrioshka-Brain/) |
-| Pwn | [Space-Pirate:Entrypoint](https://siunam321.github.io/ctf/cactf2022/Pwn/Space-Pirate:Entrypoint/) |
-| Reversing | [Omega One](https://siunam321.github.io/ctf/cactf2022/Reversing/Omega-One/) |
-| | [WIDE](https://siunam321.github.io/ctf/cactf2022/Reversing/WIDE/) |
-| Warmup | [Welcome!](https://siunam321.github.io/ctf/cactf2022/Warmup/Welcome!/) |
 
 </details>
