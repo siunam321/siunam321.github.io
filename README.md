@@ -4,7 +4,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: December 31, 2024 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: January 1, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
