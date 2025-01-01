@@ -41,21 +41,32 @@
 
     <footer></footer>
     <script>
-      // modified from https://eleventy-plugin-ghost.netlify.app/adding-heading-links-to-your-jekyll-blog/ xd
-      const headings = document.querySelectorAll('h2[id],h3[id],h4[id],h5[id],h6[id]');
-      const linkContent = '🔗';
+      const LINK_CONTENT = {
+        "H1": "#",
+        "H2": "#".repeat(2),
+        "H3": "#".repeat(3),
+        "H4": "#".repeat(4),
+        "H5": "#".repeat(5),
+        "H6": "#".repeat(6),
+      };
+      const headings = document.querySelectorAll('h1[id],h2[id],h3[id],h4[id],h5[id],h6[id]');
       for (const heading of headings) {
-          // we don't want to create the link icon when the inner header element is an `<a>` element,
-          // because people might treat the icon as the actual link
-          if (heading.firstChild.tagName?.toLowerCase() === 'a') {
-            continue;
+          const newSpanElement = document.createElement("span");
+          
+          // we don't want `<h1>` element to have a header link, as it's the title
+          if (heading.tagName?.toLowerCase() === 'h1') {
+            newSpanElement.textContent = LINK_CONTENT[heading.tagName];
+            newSpanElement.setAttribute("class", "headerLink");
+          } else {
+            const newLinkElement = document.createElement("a");
+            newLinkElement.setAttribute("href", `#${heading.id}`);
+            newLinkElement.setAttribute("class", "headerLink");
+            newLinkElement.textContent = LINK_CONTENT[heading.tagName];
+
+            newSpanElement.appendChild(newLinkElement);
           }
 
-          const linkIcon = document.createElement('a');
-          linkIcon.setAttribute('href', `#${heading.id}`);
-          linkIcon.setAttribute('class', 'headerLink');
-          linkIcon.textContent = linkContent;
-          heading.appendChild(linkIcon);
+          heading.insertAdjacentElement("afterbegin", newSpanElement);
       }
     </script>
   </body>
