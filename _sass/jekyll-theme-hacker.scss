@@ -345,24 +345,10 @@ footer {
 
 /* Collapsible style */
 
-// deprecated class
+/* deprecated class */
 /* .toc {
   padding-bottom: 15px;
 } */
-
-summary::marker {
-  content: " + ";
-  color: $theme-color-foreground;
-  font-size: 1.5em;
-  font-weight: bolder;
-}
-
-summary {
-  list-style-position: inside;
-  padding: 10px;
-  border-radius: 5px;
-  cursor: pointer;
-}
 
 details {
   border: 1px dashed $theme-color-foreground;
@@ -371,8 +357,30 @@ details {
   margin-bottom: 20px;
 }
 
-details[open] summary::marker {
-  content: "\0020\2014\0020"; // space + long dash + space unicode character
+/* disable <summary>'s marker due to browser compatibility problem */
+summary {
+  list-style: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+summary::-webkit-details-marker {display: none; }
+
+details summary::before { 
+  content:"+ ";
+  padding-left: 5px;
+  color: $theme-color-foreground;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+details[open] summary::before { 
+  content:"\2014\0020"; /* long dash + space unicode character */
+  padding-left: 5px;
+  color: $theme-color-foreground;
+  font-size: 1.5em;
+  font-weight: bolder;
 }
 
 details[open] > summary {
