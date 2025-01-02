@@ -9,6 +9,7 @@ $blockquote-color: $silver-chalice !default;
 $container-max-width: 1000px;
 $theme-border-color: rgba(255, 0, 0, 0.5);
 $theme-border-radius: 5px;
+$theme-font-size: 16px;
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
@@ -25,7 +26,7 @@ body {
   padding: 0;
   background-color: $body-background;
   color: $body-foreground;
-  font-size: 16px;
+  font-size: $theme-font-size;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
@@ -259,6 +260,7 @@ th {
   text-align: left;
   border-bottom: 1px dashed $theme-color-foreground;
   padding: 5px 10px;
+  width: 10%;
 }
 
 td {
@@ -369,7 +371,7 @@ footer {
   background-color: $body-background;
   width: 100%;
   border-bottom: 1px dashed $theme-color-foreground;
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 /* Collapsible style */
