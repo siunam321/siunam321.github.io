@@ -215,7 +215,7 @@ blockquote {
   border-left: 1px dotted $theme-color-foreground;
 }
 
-/* Ruby Rogue syntax highligher style  */
+/* Ruby Rouge syntax highlighter style  */
 
 pre {
   background: rgba(0, 0, 0, 0.9);
@@ -227,15 +227,17 @@ pre {
 pre.highlight {
   border: 1px solid $theme-border-color;
   border-radius: $theme-border-radius;
+
+  padding: 10px;
 }
 
-pre.lineno {
+/*pre.lineno {
   padding-right: 5px;
-  /* disable line number text selection */
+  // disable line number text selection
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-}
+}*/
 
 code.highlighter-rouge {
   background: rgba(0,0,0,0.9);
