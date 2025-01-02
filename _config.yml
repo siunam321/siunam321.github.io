@@ -2,3 +2,4 @@ title: siunam's Website
 theme: jekyll-theme-hacker
 kramdown:
   parse_block_html: true
+  smart_quotes: ["apos", "apos", "quot", "quot"]
