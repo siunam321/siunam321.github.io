@@ -7,6 +7,8 @@ $theme-color-foreground: #f00;
 $theme-color-background: black;
 $blockquote-color: $silver-chalice !default;
 $container-max-width: 1000px;
+$theme-border-color: rgba(255, 0, 0, 0.5);
+$theme-border-radius: 5px;
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
@@ -34,6 +36,7 @@ body {
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
+  overflow-wrap: anywhere;
 }
 
 section {
@@ -153,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h1,h2,h3,h4,h5,h6 {
   background: $theme-color-background;
   border: 1px solid $theme-color-foreground;
-  border-radius: 5px;
+  border-radius: $theme-border-radius;
   padding-left: 10px;
 }
 
@@ -211,30 +214,45 @@ blockquote {
   border-left: 1px dotted $theme-color-foreground;
 }
 
+/* Ruby Rogue syntax highligher style  */
+
 pre {
   background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px;
-  font-size: 16px;
-  color: #b5e853;
-  border-radius: 2px;
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
 }
 
+pre.highlight {
+  border: 1px solid $theme-border-color;
+  border-radius: $theme-border-radius;
+}
+
+pre.lineno {
+  padding-right: 5px;
+  /* disable line number text selection */
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
 code.highlighter-rouge {
   background: rgba(0,0,0,0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
+  border: 1px solid $theme-border-color;
   padding: 0px 3px;
   margin: 0px -3px;
   color: $theme-color-foreground;
-  border-radius: 2px;
+  border-radius: $theme-border-radius;
 }
 
 table {
   width: 100%;
   margin: 0 0 20px 0;
+}
+
+table.rouge-table {
+  width: auto;
+  margin: 0px;
 }
 
 th {
@@ -245,6 +263,17 @@ th {
 
 td {
   padding: 5px 10px;
+}
+
+td.rouge-gutter {
+  text-align: right;
+  border-right: 1px solid $theme-border-color;
+}
+
+/* ignore syntax error */
+.highlight .err {
+  color: #d0d0d0;
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
 hr {
@@ -337,10 +366,10 @@ a {
 }
 
 footer {
-  background: rgba(0, 0, 0, 0.1);
+  background-color: $body-background;
   width: 100%;
-  border-top: 1px dashed $theme-color-foreground;
-  margin: 0 0 40px 0;
+  border-bottom: 1px dashed $theme-color-foreground;
+  padding-top: 40px;
 }
 
 /* Collapsible style */
@@ -353,7 +382,7 @@ footer {
 details {
   border: 1px dashed $theme-color-foreground;
   background: $theme-color-background;
-  border-radius: 5px;
+  border-radius: $theme-border-radius;
   margin-bottom: 20px;
 }
 
@@ -361,7 +390,7 @@ details {
 summary {
   list-style: none;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: $theme-border-radius;
   cursor: pointer;
 }
 
