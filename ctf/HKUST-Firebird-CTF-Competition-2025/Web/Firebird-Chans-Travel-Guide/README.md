@@ -182,10 +182,12 @@ After the bot (headless Chrome browser) visited our `url` for 3 seconds, it'll g
 
 `visit.html`:
 
+{% raw %}
 ```html
 [...]
 <span class="my-4 text-4xl font-bold break-all">{{cookie|safe}}</span><br>
 ```
+{% endraw %}
 
 To sum up briefly, we now need to find a **parser differential** between the parsed URL's hostname and our parameter `url` value.
 
