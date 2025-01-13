@@ -8,7 +8,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - Writeups
-    - [HKUST Firebird CTF Competition 2025](https://siunam321.github.io/ctf/HKUST Firebird-CTF-Competition-2025/), January 13, 2025
+    - [HKUST Firebird CTF Competition 2025](https://siunam321.github.io/ctf/HKUST-Firebird-CTF-Competition-2025/), January 13, 2025
     - [hxp 38C3 CTF](https://siunam321.github.io/ctf/hxp-38C3-CTF/), December 31, 2024
 
 * * *
