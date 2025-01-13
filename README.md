@@ -4,12 +4,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: January 1, 2025 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: January 13, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
+    - [HKUST Firebird CTF Competition 2025](https://siunam321.github.io/ctf/HKUST Firebird-CTF-Competition-2025/), January 13, 2025
     - [hxp 38C3 CTF](https://siunam321.github.io/ctf/hxp-38C3-CTF/), December 31, 2024
-    - [TSG CTF 2024](https://siunam321.github.io/ctf/TSG-CTF-2024/), December 12, 2024
 
 * * *
 - Blog Posts

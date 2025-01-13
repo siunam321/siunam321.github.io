@@ -485,6 +485,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 | CTF Name & Writeup Link | Challenge Category(s) | 
 |------------|-----------------------|
+| [HKUST Firebird CTF Competition 2025](https://siunam321.github.io/ctf/HKUST Firebird-CTF-Competition-2025/) | Web |
 | [hxp 38C3 CTF](https://siunam321.github.io/ctf/hxp-38C3-CTF/) | Web |
 | [TSG CTF 2024](https://siunam321.github.io/ctf/TSG-CTF-2024/) | Web |
 | [AlpacaHack Round 7 (Web)](https://siunam321.github.io/ctf/AlpacaHack-Round-7-Web/) | -- |
