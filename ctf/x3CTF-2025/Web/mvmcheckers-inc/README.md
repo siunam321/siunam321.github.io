@@ -7,7 +7,7 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/x3CTF-
 
 # mvmcheckers-inc
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 - [Overview](#overview)
 - [Background](#background)
@@ -359,7 +359,7 @@ Armed with above information, we can get the flag via:
 
 To automate the above steps, I've written the following Python solve script:
 
-<details><summary><strong>solve.py</strong></summary>
+<details><summary markdown="span"><strong>solve.py</strong></summary>
 
 {% raw %}
 ```python
