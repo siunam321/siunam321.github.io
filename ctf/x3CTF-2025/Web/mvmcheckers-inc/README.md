@@ -361,6 +361,7 @@ To automate the above steps, I've written the following Python solve script:
 
 <details><summary><strong>solve.py</strong></summary>
 
+{% raw %}
 ```python
 #!/usr/bin/env python3
 import requests
@@ -408,6 +409,7 @@ if __name__ == '__main__':
 
     solver.solve()
 ```
+{% endraw %}
 
 </details>
 
