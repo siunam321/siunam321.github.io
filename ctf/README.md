@@ -5,10 +5,45 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 # Writeups
 
-<details><summary markdown="span"><strong>Table of Contents</strong></summary>
+<details id="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 1. **[Bug Bounty](#bug-bounty)**
 2. **[Wargames / Academy Labs](#wargames--academy-labs)**
+    1. **[TryHackMe](#tryhackme)**
+    2. **[HackTheBox](#hackthebox)**
+    3. **[Proving Grounds Play](#proving-grounds-play)**
+    4. **[picoGym](#picogym)**
+    5. **[PortSwigger Labs](#portswigger-labs)**
+        1. **[SQL injection](#portswigger-labs-sql-injection)**
+        2. **[Authentication](#portswigger-labs-authentication)**
+        3. **[Directory Traversal](#portswigger-labs-directory-traversal)**
+        4. **[OS Command Injection](#portswigger-labs-os-command-injection)**
+        5. **[Business Logic Vulnerabilities](#portswigger-labs-business-logic-vulnerabilities)**
+        6. **[Information Disclosure](#portswigger-labs-information-disclosure)**
+        7. **[Access Control](#portswigger-labs-access-control)**
+        8. **[File Upload Vulnerabilities](#portswigger-labs-file-upload-vulnerabilities)**
+        9. **[Server-Side Request Forgery (SSRF)](#portswigger-labs-server-side-request-forgery-ssrf)**
+        10. **[XXE Injection](#portswigger-labs-xxe-injection)**
+        11. **[Cross-Site Scripting (XSS)](#portswigger-labs-cross-site-scripting-xss)**
+        12. **[Cross-Site Request Forgery (CSRF)](#portswigger-labs-cross-site-request-forgery-csrf)**
+        13. **[Cross-Origin Resource Sharing (CORS)](#portswigger-labs-cross-origin-resource-sharing-cors)**
+        14. **[Clickjacking](#portswigger-labs-clickjacking)**
+        15. **[DOM-Based Vulnerabilities](#portswigger-labs-dom-based-vulnerabilities)**
+        16. **[WebSockets](#portswigger-labs-websockets)**
+        17. **[Insecure Deserialization](#portswigger-labs-insecure-deserialization)**
+        18. **[Server-Side Template Injection](#portswigger-labs-server-side-template-injection)**
+        19. **[Web Cache Poisoning](#portswigger-labs-web-cache-poisoning)**
+        20. **[HTTP Host Header Attacks](#portswigger-labs-http-host-header-attacks)**
+        21. **[HTTP Request Smuggling](#portswigger-labs-http-request-smuggling)**
+        22. **[OAuth Authentication](#portswigger-labs-oauth-authentication)**
+        23. **[JWT](#portswigger-labs-jwt)**
+        24. **[Prototype Pollution](#portswigger-labs-prototype-pollution)**
+        25. **[Essential Skills](#portswigger-labs-essential-skills)**
+        26. **[Testing GraphQL APIs](#portswigger-labs-testing-graphql-apis)**
+        27. **[Race Conditions](#portswigger-labs-race-conditions)**
+        28. **[NoSQL Injection](#portswigger-labs-nosql-injection)**
+        29. **[Web LLM Attacks](#portswigger-labs-web-llm-attacks)**
+        30. **[Web Cache Deception](#portswigger-labs-web-cache-deception)**
 3. **[CTFs](#ctfs)**
 
 </details>
@@ -21,7 +56,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 ## Wargames / Academy Labs
 
-<details><summary markdown="span"><strong>TryHackMe</strong></summary>
+<details id="tryhackme"><summary markdown="span"><strong>TryHackMe</strong></summary>
 
 | Room Title & Writeup Link |
 |--------------|
@@ -118,7 +153,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 </details>
 
-<details><summary markdown="span"><strong>HackTheBox</strong></summary>
+<details id="hackthebox"><summary markdown="span"><strong>HackTheBox</strong></summary>
 
 | Box Title & Writeup Link |
 |--------------|
@@ -152,7 +187,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 </details>
 
-<details><summary markdown="span"><strong>Proving Grounds Play</strong></summary>
+<details id="proving-grounds-play"><summary markdown="span"><strong>Proving Grounds Play</strong></summary>
 
 | Lab Title & Writeup Link |
 |--------------|
@@ -178,7 +213,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 </details>
 
-<details><summary markdown="span"><strong>VulnHub</strong></summary>
+<details id="vulnhub"><summary markdown="span"><strong>VulnHub</strong></summary>
 
 | Machine Title & Writeup Link |
 |--------------|
@@ -191,7 +226,22 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 </details>
 
-<details><summary markdown="span"><strong>PortSwigger Labs</strong></summary>
+<details id="picogym"><summary markdown="span"><strong>picoGym</strong></summary>
+
+| Challenge Category | Challenge Title & Writeup Link |
+|----------|--------------|
+| Web Exploitation | [logon](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/logon/) |
+| | [where are the robots](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/where-are-the-robots/) |
+| | [Scavenger Hunt](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Scavenger-Hunt/) |
+| | [Insp3ct0r](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Insp3ct0r/) |
+| | [Cookies](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Cookies/) |
+| | [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD/) |
+
+</details>
+
+<details id="portswigger-labs"><summary markdown="span"><strong>PortSwigger Labs</strong></summary>
+
+<section id="portswigger-lab-table">
 
 | Lab Topic | Lab Title & Writeup Link |
 |----------|--------------|
@@ -466,18 +516,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 | | [Exploiting cache server normalization for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-4/) |
 | | [Exploiting exact-match cache rules for web cache deception](https://siunam321.github.io/ctf/portswigger-labs/Web-Cache-Deception/WCD-5/) |
 
-</details>
-
-<details><summary markdown="span"><strong>picoGym</strong></summary>
-
-| Challenge Category | Challenge Title & Writeup Link |
-|----------|--------------|
-| Web Exploitation | [logon](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/logon/) |
-| | [where are the robots](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/where-are-the-robots/) |
-| | [Scavenger Hunt](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Scavenger-Hunt/) |
-| | [Insp3ct0r](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Insp3ct0r/) |
-| | [Cookies](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/Cookies/) |
-| | [GET aHEAD](https://siunam321.github.io/ctf/picoGym/Web-Exploitation/GET-aHEAD/) |
+</section>
 
 </details>
 

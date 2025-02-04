@@ -161,30 +161,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 10px;
 }
 
-// #main_content h1::before {
-//   content: "# ";
-// }
-
-// #main_content h2::before {
-//   content: "## ";
-// }
-
-// #main_content h3::before {
-//   content: "### ";
-// }
-
-// #main_content h4::before {
-//   content: "#### ";
-// }
-
-// #main_content h5::before {
-//   content: "##### ";
-// }
-
-// #main_content h6::before {
-//   content: "###### ";
-// }
-
 dt {
   font-style: italic;
   font-weight: bold;
@@ -200,11 +176,17 @@ ul > li::before {
   font-weight: bolder;
 }
 
+ol {
+  counter-reset: listCounter;
+}
+
 ol > li {
+  counter-increment: listCounter;
   list-style-type: decimal;
 }
 
 ol > li::marker {
+  content: counters(listCounter, '.') '. '; // Example: 2.5.3.
   color: $theme-color-foreground;
   font-weight: bolder;
 }

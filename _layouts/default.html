@@ -41,6 +41,22 @@
 
     <footer></footer>
     <script>
+      function openCollapsibleElement(linkHash) {
+        if (linkHash === "") {
+          return;
+        }
+
+        var hashElementId = linkHash.slice(1);
+        if (hashElementId.startsWith("portswigger-labs-")) {
+          hashElementId = "portswigger-labs";
+        }
+
+        const targetElement = document.getElementById(hashElementId);
+        if (targetElement.tagName?.toLowerCase() === "details") {
+          targetElement.open = true;
+        }
+      }
+
       const LINK_CONTENT = {
         "H1": "#",
         "H2": "#".repeat(2),
@@ -67,6 +83,48 @@
           }
 
           heading.insertAdjacentElement("afterbegin", newSpanElement);
+      }
+
+      // writeup page only
+      if (window.location.pathname === "/ctf/" || document.title.split(" | ")[0] === "Writeups") {
+        // toggle collapsible element when user clicks the link in the Table of Contents
+        const tocLinkElements = toc.querySelectorAll('a');
+        for (const tocLinkElement of tocLinkElements) {
+          tocLinkElement.addEventListener('click', function(event) {
+            openCollapsibleElement(tocLinkElement.hash);
+          });
+        }
+
+        // append header links to all PortSwigger Labs lab topic
+        const portswiggerLabsTableBodyRows = document.querySelector("section[id=portswigger-lab-table] table").tBodies[0].rows;
+        for (const portswiggerLabsTableBodyRow of portswiggerLabsTableBodyRows) {
+          const labTopicElement = portswiggerLabsTableBodyRow.cells[0];
+          const labTitleElement = portswiggerLabsTableBodyRow.cells[1];
+          const labTopicName = labTopicElement.textContent.trim();
+          if (labTopicName === "") {
+            continue;
+          }
+
+          const labTopicNameKebabCase = labTopicName.replaceAll(" ", "-").replaceAll("(", "").replaceAll(")", "").toLowerCase();
+          const headingId = `portswigger-labs-${labTopicNameKebabCase}`;
+          labTopicElement.setAttribute("id", headingId);
+          
+          if (labTopicElement !== portswiggerLabsTableBodyRows[0].cells[0]) {
+            labTopicElement.setAttribute("style", "border-top: 1px dashed #f00;");
+            labTitleElement.setAttribute("style", "border-top: 1px dashed #f00;");
+          }
+
+          const newLinkElement = document.createElement("a");
+          newLinkElement.setAttribute("href", `#${headingId}`);
+          newLinkElement.setAttribute("class", "headerLink");
+          newLinkElement.textContent = LINK_CONTENT["H3"];
+          labTopicElement.insertAdjacentElement("afterbegin", newLinkElement);
+        }
+
+        // toggle collapsible element when user directly access the hash
+        document.addEventListener('DOMContentLoaded', function() {
+          openCollapsibleElement(window.location.hash);
+        });
       }
     </script>
   </body>
