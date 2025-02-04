@@ -178,14 +178,15 @@ ul > li::before {
 
 ol {
   counter-reset: listCounter;
+  padding-left: 30px;
 }
 
 ol > li {
   counter-increment: listCounter;
-  list-style-type: decimal;
+  list-style: none;
 }
 
-ol > li::marker {
+ol > li::before {
   content: counters(listCounter, '.') '. '; // Example: 2.5.3.
   color: $theme-color-foreground;
   font-weight: bolder;
