@@ -436,7 +436,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 | | [Remote code execution via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-9/) |
 | | [Exfiltrating sensitive data via server-side prototype pollution](https://siunam321.github.io/ctf/portswigger-labs/Prototype-Pollution/prototype-10/) |
 | Essential Skills | [Discovering vulnerabilities quickly with targeted scanning](https://siunam321.github.io/ctf/portswigger-labs/Essential-Skills/essential-skills-1/) |
-| | [Accessing private GraphQL posts](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-1/) |
+| Testing GraphQL APIs | [Accessing private GraphQL posts](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-1/) |
 | | [Accidental exposure of private GraphQL fields](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-2/) |
 | | [Finding a hidden GraphQL endpoint](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-3/) |
 | | [Bypassing GraphQL brute force protections](https://siunam321.github.io/ctf/portswigger-labs/Testing-GraphQL-APIs/graphql-4/) |
