@@ -407,3 +407,11 @@ details > div {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+video {
+  max-width: $container-max-width;
+  width: 90vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
