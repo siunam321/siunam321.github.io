@@ -1185,7 +1185,7 @@ To automate the above steps, I have written a PoC script on my GitHub repository
 
 PoC video demo:
 
-<video src="https://github.com/user-attachments/assets/76571398-1b8c-4726-800c-9ed6c2928562" controls="controls" muted="muted" style="max-height:640px; min-height: 200px"></video>
+<video src="https://github.com/user-attachments/assets/76571398-1b8c-4726-800c-9ed6c2928562#t=0.1" controls="controls" muted="muted" preload="metadata"></video>
 
 Nice!
 
