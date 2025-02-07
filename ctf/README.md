@@ -53,6 +53,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 | Platform   | Writeup Title & Link |
 |------------|--------------|
 | Wordfence  | [How I Found My First Vulnerabilities In 6 Different WordPress Plugins (Part 1)](https://siunam321.github.io/ctf/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-1/) |
+| Wordfence  | [How I Found My First Vulnerabilities In 6 Different WordPress Plugins (Part 2)](https://siunam321.github.io/ctf/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-2/) |
 
 ## Wargames / Academy Labs
 
