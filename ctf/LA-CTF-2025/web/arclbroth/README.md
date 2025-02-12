@@ -20,6 +20,7 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/LA-CTF
 ## Overview
 
 - Contributor: @siunam, @ensy.zip, @ozetta, @YMD
+- Solved by: @siunam
 - 39 solves / 369 points
 - Author: @r2uwu2
 - Overall difficulty for me (From 1-10 stars): ★★☆☆☆☆☆☆☆☆
