@@ -37,7 +37,7 @@
 
 ## Overview
 
-This writeup is about how I found my first real world vulnerabilities across 6 different WordPress plugins. In the first part, I'll mainly talk about **7 vulnerabilities that I've found in WordPress plugin "[Bit Form](https://wordpress.org/plugins/bit-form/)", 1 of which was duplicated**. In the second part, I'll share some common pitfalls in using a PHP library, which eventually led me to find exactly the same vulnerabilities in 5 different WordPress plugins that use the same PHP library.
+This writeup is about how I found my first real world vulnerabilities across 6 different WordPress plugins. In the first part, I'll mainly talk about **7 vulnerabilities that I've found in WordPress plugin "[Bit Form](https://wordpress.org/plugins/bit-form/)", 1 of which was duplicated**. In the [second part](https://siunam321.github.io/ctf/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-2/), I'll share some common pitfalls in using a PHP library, which eventually led me to find exactly the same vulnerabilities in 5 different WordPress plugins that use the same PHP library.
 
 In this first part, I'll talk about how I found the following vulnerabilities in details:
 1. \*[Authenticated (Administrator+) Arbitrary File Upload](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/bit-form/bit-form-2122-authenticated-administrator-arbitrary-file-upload) ([CVE-2024-6123](https://www.cve.org/CVERecord?id=CVE-2024-6123))
@@ -1926,4 +1926,4 @@ class AdminAjax
 
 Ultimately, I found total of 7 vulnerabilities in this plugin. However, all of them require administrator+ privilege to be able to exploit the vulnerabilities, which means they're all out-of-scope. BUT! I didn't feel disappointed, matter of fact I actually felt very happy, because I found my first vulnerability in a real application outside from CTFs!
 
-In the next part, I'll be talking about how I found multiple vulnerabilities in 5 different WordPress plugins that use the same PHP library. Stay tuned!
+In the [next part](https://siunam321.github.io/ctf/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-2/), I'll be talking about how I found multiple vulnerabilities in 5 different WordPress plugins that use the same PHP library. Feel free to read it!
