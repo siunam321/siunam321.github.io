@@ -4,7 +4,9 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<small class="page_information">{{ page.date | date: "%B %-d, %Y" }} | by {{ page.author | default: site.author }}</small>
+<div class="page_information">
+  <p>{{ page.date | date: "%B %-d, %Y" }} | by {{ page.author | default: site.author }}</p>
+</div>
 
 {{content}}
 

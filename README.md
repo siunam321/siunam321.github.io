@@ -4,12 +4,16 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: February 11, 2025 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: February 19, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
     - [LA CTF 2025](https://siunam321.github.io/ctf/LA-CTF-2025/), February 11, 2025
     - [How I Found My First Vulnerabilities In 6 Different WordPress Plugins (Part 2)](https://siunam321.github.io/ctf/Bug-Bounty/Wordfence/how-i-found-my-first-vulnerabilities-in-6-different-wordpress-plugins-part-2/), February 7, 2025
+
+* * *
+- Research
+    - [Attempted Research in PHP Class Pollution](https://siunam321.github.io/research/attempted-research-in-php-class-pollution), February 19, 2025
 
 * * *
 - Blog Posts
