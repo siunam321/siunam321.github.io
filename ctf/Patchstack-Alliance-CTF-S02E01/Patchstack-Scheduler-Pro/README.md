@@ -561,7 +561,7 @@ Oh! It worked! We successfully decrypted the encrypted data!
 
 Why? Because it's using CBC mode, which means each block of plaintext is XORed with the previous ciphertext block before being encrypted. So, as long as the first block is decrypted successfully, the next block can also be decrypted, and so on.
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/2a/CBC_decryption.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/2/2a/CBC_decryption.svg){: style="background: white;" }
 
 ### Forging Our Own Encrypted Data
 
