@@ -525,6 +525,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 | CTF Name & Writeup Link | Challenge Category(s) | 
 |------------|-----------------------|
+| [Patchstack Alliance CTF S02E01](https://siunam321.github.io/ctf/Patchstack-Alliance-CTF-S02E01/) | -- |
 | [LA CTF 2025](https://siunam321.github.io/ctf/LA-CTF-2025/) | web |
 | [x3CTF 2025](https://siunam321.github.io/ctf/x3CTF-2025/) | Web |
 | [HKUST Firebird CTF Competition 2025](https://siunam321.github.io/ctf/HKUST-Firebird-CTF-Competition-2025/) | Web |
