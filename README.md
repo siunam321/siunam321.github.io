@@ -4,12 +4,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: February 26, 2025 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: March 12, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
+    - [KalmarCTF 2025](https://siunam321.github.io/ctf/KalmarCTF-2025/), March 12, 2025
     - [Patchstack Alliance CTF S02E01](https://siunam321.github.io/ctf/Patchstack-Alliance-CTF-S02E01/), February 26, 2025
-    - [LA CTF 2025](https://siunam321.github.io/ctf/LA-CTF-2025/), February 11, 2025
 
 * * *
 - Research
