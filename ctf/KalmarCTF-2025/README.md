@@ -15,6 +15,7 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Kalmar
 - web
     1. [KalmarNotes](https://siunam321.github.io/ctf/KalmarCTF-2025/web/KalmarNotes/)
     2. [G0tchaberg](https://siunam321.github.io/ctf/KalmarCTF-2025/web/G0tchaberg/)
+    3. [KalmarDSL](https://siunam321.github.io/ctf/KalmarCTF-2025/web/KalmarDSL/)
 
 ## Background
 
@@ -49,3 +50,4 @@ Welcome to KalmarCTF 2025, brought to you by Kalmarunionen!
 - web
     1. [KalmarNotes](https://siunam321.github.io/ctf/KalmarCTF-2025/web/KalmarNotes/) - Self-XSS to stored XSS via cache poisoning
     2. [G0tchaberg](https://siunam321.github.io/ctf/KalmarCTF-2025/web/G0tchaberg/) - Leak Gotenberg processing files via race condition
+    3. [KalmarDSL](https://siunam321.github.io/ctf/KalmarCTF-2025/web/KalmarDSL/) - Structurizr DSL Remote Code Execution via workspace extension
