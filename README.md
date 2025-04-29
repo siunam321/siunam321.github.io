@@ -8,8 +8,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - Writeups
+    - [PUCTF 2025 Author Writeup](https://siunam321.github.io/ctf/PUCTF-2025/), April 29, 2025
     - [KalmarCTF 2025](https://siunam321.github.io/ctf/KalmarCTF-2025/), March 13, 2025
-    - [Patchstack Alliance CTF S02E01](https://siunam321.github.io/ctf/Patchstack-Alliance-CTF-S02E01/), February 26, 2025
 
 * * *
 - Research
