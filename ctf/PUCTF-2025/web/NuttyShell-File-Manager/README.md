@@ -87,7 +87,7 @@ It seems like it just directly output the content without using response header 
 
 After having a high-level understanding of this web application, we can now try to read the source code and start finding vulnerabilities!
 
-**In this challenge, we can download a [file](https://github.com/siunam321/CTF-Writeups/blob/main/PUCTF-2025/web/NuttyShell-File-Manager/NuttyShell-File-Manager.tar.gz):**
+**In this challenge, we can download a [file](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PUCTF-2025/web/NuttyShell-File-Manager/NuttyShell-File-Manager.tar.gz):**
 ```shell
 ┌[siunam♥Mercury]-(~/ctf/PUCTF-2025/Web-Exploitation/NuttyShell-File-Manager)-[2025.04.30|17:40:50(HKT)]
 └> file NuttyShell-File-Manager.tar.gz 
