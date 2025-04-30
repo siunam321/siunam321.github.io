@@ -4,11 +4,11 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: April 29, 2025 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: April 30, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
-    - [PUCTF 2025 Author Writeup](https://siunam321.github.io/ctf/PUCTF-2025/), April 29, 2025
+    - [PUCTF 2025 Author Writeup](https://siunam321.github.io/ctf/PUCTF-2025/), April 30, 2025
     - [KalmarCTF 2025](https://siunam321.github.io/ctf/KalmarCTF-2025/), March 13, 2025
 
 * * *
