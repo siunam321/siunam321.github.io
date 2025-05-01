@@ -1,6 +1,6 @@
 ---
 permalink: /ctf/PUCTF-2025/index.html
-description: My PUCTF 2025 author writeup for web challenge "JSON My Soul", "NuttyShell File Manager", "COVID-19 Mutation History", and "Memo-ry". Please note that "Memo-ry" is not published yet.
+description: My PUCTF 2025 author writeup for web challenge "JSON My Soul", "NuttyShell File Manager", "COVID-19 Mutation History", and "Memo-ry".
 ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PUCTF-2025/images/banner.png
 ---
 
@@ -14,7 +14,7 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PUCTF-
     1. [JSON My Soul](https://siunam321.github.io/ctf/PUCTF-2025/web/JSON-My-Soul/)
     3. [NuttyShell File Manager - NuttyShell 檔案管理員](https://siunam321.github.io/ctf/PUCTF-2025/web/NuttyShell-File-Manager/)
     2. [COVID-19 Mutation History - COVID-19 病毒突變歷史](https://siunam321.github.io/ctf/PUCTF-2025/web/COVID-19-Mutation-History/)
-    4. [Memo-ry](https://siunam321.github.io/ctf/PUCTF-2025/web/Memo-ry/) ***(Not published yet)***
+    4. [Memo-ry](https://siunam321.github.io/ctf/PUCTF-2025/web/Memo-ry/)
 
 ## Background
 
@@ -40,4 +40,4 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PUCTF-
     1. [JSON My Soul](https://siunam321.github.io/ctf/PUCTF-2025/web/JSON-My-Soul/) - SSRF whitelist domain bypass via flawed validation
     3. [NuttyShell File Manager - NuttyShell 檔案管理員](https://siunam321.github.io/ctf/PUCTF-2025/web/NuttyShell-File-Manager/) - Python dirty arbitrary file write to RCE via overwriting bytecode files
     2. [COVID-19 Mutation History - COVID-19 病毒突變歷史](https://siunam321.github.io/ctf/PUCTF-2025/web/COVID-19-Mutation-History/) - mXSS via parser differential between HTML 4 and 5 in PHP `DOMDocument::loadHTML` and CSP bypass
-    4. [Memo-ry](https://siunam321.github.io/ctf/PUCTF-2025/web/Memo-ry/) - ***(Not published yet)***
+    4. [Memo-ry](https://siunam321.github.io/ctf/PUCTF-2025/web/Memo-ry/) - CSPT2CSRF and DOM clobbering via URL credentials
