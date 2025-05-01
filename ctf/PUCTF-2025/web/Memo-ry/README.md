@@ -7,7 +7,7 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/PUCTF-
 
 # Memo-ry
 
-<details><summary><strong>Table of Contents</strong></summary>
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
 - [Overview](#overview)
 - [Background](#background)
