@@ -1,5 +1,5 @@
 ---
-permalink: /ctf/NahamCon-CTF-2025/index.html
+permalink: /ctf/NahamCon-CTF-2025/Web/Talk-Tuah/index.html
 title: Talk Tuah - NahamCon CTF 2025 Web Challenge Writeup
 description: My NahamCon CTF 2025 writeup for web challenge "Talk Tuah". I played with ARESx and we got 19th place.
 ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2025/images/Pasted%20image%2020250527123633.png

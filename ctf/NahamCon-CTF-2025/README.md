@@ -6,14 +6,14 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamC
 
 # NahamCon CTF 2025 Writeup
 
-> CTFTime event link: [https://ctftime.org/event/2599](https://ctftime.org/event/2599)
+> CTFTime event link: [https://ctftime.org/event/2782](https://ctftime.org/event/2782)
 
 ![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamCon-CTF-2025/images/banner.png)
 
 ## Writeup
 
 - Web
-    1. [Talk Tuah](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2025/Web/Talk-Tuah/README.md)
+    1. [Talk Tuah](https://siunam321.github.io/ctf/NahamCon-CTF-2025/Web/Talk-Tuah/)
 
 ## Background
 
@@ -50,4 +50,4 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/NahamC
 ## What you'll learn in this CTF
 
 - Web
-    1. [Talk Tuah](https://github.com/siunam321/CTF-Writeups/blob/main/NahamCon-CTF-2025/Web/Talk-Tuah/README.md) - Arbitrary File Write via race condition and Arbitrary File Write to RCE via hijacking Python importing module
+    1. [Talk Tuah](https://siunam321.github.io/ctf/NahamCon-CTF-2025/Web/Talk-Tuah/) - Arbitrary File Write via race condition and Arbitrary File Write to RCE via hijacking Python importing module
