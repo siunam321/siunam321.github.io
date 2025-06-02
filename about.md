@@ -21,15 +21,17 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 - 30th September 2024: Officially joined university CTF team "[NuttyShell](https://polyuctf.com/)"
 - 19th February 2025: Posted my first research: [Attempted Research in PHP Class Pollution](https://siunam321.github.io/research/attempted-research-in-php-class-pollution)
 - 6th March 2025: Officially joined CTF team "[Black Bauhinia](https://b6a.black/)"
+- 2nd June 2025: Earned OSWE certificate
 
 ## List of CVEs
 
-- Total number of CVEs: 23
+- Total number of CVEs: 24
 
 <details><summary markdown="span"><strong>CVEs Table</strong></summary>
 
 | CVE ID | Vendor | Vulnerability Title & Record Link |
 |--------|-------------|-----------------------------------|
+| [CVE-2024-13914](https://www.cve.org/CVERecord?id=CVE-2024-13914) | [File Manager Advanced Shortcode](https://advancedfilemanager.com/) | [Authenticated (Administrator+) Local JavaScript File Inclusion via Shortcode](https://www.wordfence.com/threat-intel/vulnerabilities/detail/file-manager-advanced-shortcode-254-authenticated-administrator-local-javascript-file-inclusion-via-shortcode) |
 | [CVE-2024-13333](https://www.cve.org/CVERecord?id=CVE-2024-13333) | [Advanced File Manager](https://wordpress.org/plugins/file-manager-advanced/) | [Authenticated (Subscriber+) Arbitrary File Upload](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/file-manager-advanced/advanced-file-manager-5212-5213-authenticated-subscriber-arbitrary-file-upload) |
 | [CVE-2024-11010](https://www.cve.org/CVERecord?id=CVE-2024-11010) | [FileOrganizer](https://wordpress.org/plugins/fileorganizer/) | [Authenticated (Administrator+) Local JavaScript File Inclusion](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/fileorganizer/fileorganizer-114-authenticated-administrator-local-javascript-file-inclusion) |
 | [CVE-2024-9669](https://www.cve.org/CVERecord?id=CVE-2024-9669) | [Filester](https://wordpress.org/plugins/filester/) | [Authenticated (Administrator+) Local JavaScript File Inclusion](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/filester/file-manager-pro-filester-185-authenticated-administrator-local-javascript-file-inclusion) |
@@ -59,6 +61,8 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 > Note: Only publicly disclosed CVEs are listed in here.
 
 ## Certificates
+
+![OSWE certificate](/assets/images/oswe_cert.png){: width="50%" }
 
 ![OSCP certificate](/assets/images/oscp_cert.png){: width="50%" }
 
