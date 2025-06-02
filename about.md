@@ -69,7 +69,7 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 ## Contact Me
 
 - Email: [siunam321atcybersec@gmail.com](mailto:siunam321atcybersec@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/tangecheukhei/](https://www.linkedin.com/in/tangecheukhei/)
+- LinkedIn: [https://www.linkedin.com/in/tangecheukhei/](https://www.linkedin.com/in/tangcheukhei/)
 - Discord: siunam321
 - [Twitter](https://twitter.com/siunam321)
 - [Instragram](https://www.instagram.com/siunam321)
