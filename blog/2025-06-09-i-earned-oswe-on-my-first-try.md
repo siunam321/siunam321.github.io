@@ -80,7 +80,7 @@ As soon as I end the exam early, I started to work on the report. Just like my p
 
 After exactly 24 hours later, I received an email from OffSec, saying that I passed and earned OSWE!
 
-![](/assets/images/Pasted%20image%2020250603165939.png)
+![](/blog/images/Pasted%20image%2020250603165939.png)
 
 ## Some Feedbacks to OffSec
 
@@ -104,7 +104,7 @@ After earning the certificate, I can share some tips and tricks for people who w
 
 Another tips is about slow RDP connection to the Debug VM. Although I didn't solve this issue during the exam, I saw this message on the [OffSec Discord server](https://discord.com/invite/offsec) after submitting my report:
 
-![](/assets/images/Pasted%20image%2020250603173228.png)
+![](/blog/images/Pasted%20image%2020250603173228.png)
 
 I didn't have time to test this, but it seems like [NoMachine](https://www.nomachine.com/) is much smoother than `rdesktop` or [Remmina](https://remmina.org/).
 
