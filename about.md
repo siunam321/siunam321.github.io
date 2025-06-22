@@ -25,12 +25,13 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 
 ## List of CVEs
 
-- Total number of CVEs: 25
+- Total number of CVEs: 26
 
 <details><summary markdown="span"><strong>CVEs Table</strong></summary>
 
 | CVE ID | Vendor | Vulnerability Title & Record Link |
 |--------|-------------|-----------------------------------|
+| [CVE-2025-3234](https://www.cve.org/CVERecord?id=CVE-2025-3234) | [Filester](https://wordpress.org/plugins/filester/) | [Authenticated (Administrator+) Arbitrary File Upload](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/filester/file-manager-pro-filester-188-authenticated-administrator-arbitrary-file-upload) |
 | [CVE-2025-1725](https://www.cve.org/CVERecord?id=CVE-2025-1725) | [Bit File Manager](https://wordpress.org/plugins/file-manager/) | [Authenticated (Subscriber+) Stored Cross-Site Scripting via SVG File Uploads](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/file-manager/bit-file-manager-100-free-open-source-file-manager-and-code-editor-for-wordpress-67-authenticated-subscriber-stored-cross-site-scripting-via-svg-file-uploads) |
 | [CVE-2024-13914](https://www.cve.org/CVERecord?id=CVE-2024-13914) | [File Manager Advanced Shortcode](https://advancedfilemanager.com/) | [Authenticated (Administrator+) Local JavaScript File Inclusion via Shortcode](https://www.wordfence.com/threat-intel/vulnerabilities/detail/file-manager-advanced-shortcode-254-authenticated-administrator-local-javascript-file-inclusion-via-shortcode) |
 | [CVE-2024-13333](https://www.cve.org/CVERecord?id=CVE-2024-13333) | [Advanced File Manager](https://wordpress.org/plugins/file-manager-advanced/) | [Authenticated (Subscriber+) Arbitrary File Upload](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/file-manager-advanced/advanced-file-manager-5212-5213-authenticated-subscriber-arbitrary-file-upload) |
