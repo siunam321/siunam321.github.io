@@ -306,12 +306,12 @@ If we search for error message `Invalid enum name`, we can see it in [`ext/stand
 ```c
 [...]
 "E:" uiv ":" ["] {
-	[...]
-	char *colon_ptr = memchr(str, ':', len);
-	if (colon_ptr == NULL) {
-		php_error_docref(NULL, E_WARNING, "Invalid enum name '%.*s' (missing colon)", (int) len, str);
-		return 0;
-	}
+  [...]
+  char *colon_ptr = memchr(str, ':', len);
+  if (colon_ptr == NULL) {
+    php_error_docref(NULL, E_WARNING, "Invalid enum name '%.*s' (missing colon)", (int) len, str);
+    return 0;
+  }
 ```
 
 In here, it calls function `php_error_docref`. If we [search for this function](https://github.com/search?q=repo%3Aphp%2Fphp-src+symbol%3Aphp_error_docref&type=code), it is defined in [`main/main.c` line 1173 - 1176](https://github.com/php/php-src/blob/PHP-8.4.10/main/main.c#L1173-L1176):
@@ -319,7 +319,7 @@ In here, it calls function `php_error_docref`. If we [search for this function](
 ```c
 PHPAPI ZEND_COLD void php_error_docref(const char *docref, int type, const char *format, ...)
 {
-	php_error_docref_impl(docref, type, format);
+  php_error_docref_impl(docref, type, format);
 }
 ```
 
@@ -329,11 +329,11 @@ Which calls [marco](https://www.geeksforgeeks.org/c/macros-and-its-types-in-c-cp
 /* {{{ php_error_docref */
 /* Generate an error which links to docref or the php.net documentation if docref is NULL */
 #define php_error_docref_impl(docref, type, format) do {\
-		va_list args; \
-		va_start(args, format); \
-		php_verror(docref, "", type, format, args); \
-		va_end(args); \
-	} while (0)
+    va_list args; \
+    va_start(args, format); \
+    php_verror(docref, "", type, format, args); \
+    va_end(args); \
+  } while (0)
 ```
 {% endraw %}
 
@@ -342,21 +342,21 @@ In function [`php_verror`](https://github.com/php/php-src/blob/PHP-8.4.10/main/m
 ```c
 PHPAPI ZEND_COLD void php_verror(const char *docref, const char *params, int type, const char *format, va_list args)
 {
-	[...]
-	/* get error text into buffer and escape for html if necessary */
-	zend_string *buffer = vstrpprintf(0, format, args);
+  [...]
+  /* get error text into buffer and escape for html if necessary */
+  zend_string *buffer = vstrpprintf(0, format, args);
 
-	if (PG(html_errors)) {
-		zend_string *replace_buffer = escape_html(ZSTR_VAL(buffer), ZSTR_LEN(buffer));
-		zend_string_free(buffer);
+  if (PG(html_errors)) {
+    zend_string *replace_buffer = escape_html(ZSTR_VAL(buffer), ZSTR_LEN(buffer));
+    zend_string_free(buffer);
 
-		if (replace_buffer) {
-			buffer = replace_buffer;
-		} else {
-			buffer = zend_empty_string;
-		}
-	}
-	[...]
+    if (replace_buffer) {
+      buffer = replace_buffer;
+    } else {
+      buffer = zend_empty_string;
+    }
+  }
+  [...]
 }
 ```
 
@@ -364,16 +364,16 @@ If we look at function [`escape_html`](https://github.com/php/php-src/blob/PHP-8
 
 ```c
 static zend_string *escape_html(const char *buffer, size_t buffer_len) {
-	zend_string *result = php_escape_html_entities_ex(
-		(const unsigned char *) buffer, buffer_len, 0, ENT_COMPAT,
-		/* charset_hint */ NULL, /* double_encode */ 1, /* quiet */ 1);
-	if (!result || ZSTR_LEN(result) == 0) {
-		/* Retry with substituting invalid chars on fail. */
-		result = php_escape_html_entities_ex(
-			(const unsigned char *) buffer, buffer_len, 0, ENT_COMPAT | ENT_HTML_SUBSTITUTE_ERRORS,
-			/* charset_hint */ NULL, /* double_encode */ 1, /* quiet */ 1);
-	}
-	return result;
+  zend_string *result = php_escape_html_entities_ex(
+    (const unsigned char *) buffer, buffer_len, 0, ENT_COMPAT,
+    /* charset_hint */ NULL, /* double_encode */ 1, /* quiet */ 1);
+  if (!result || ZSTR_LEN(result) == 0) {
+    /* Retry with substituting invalid chars on fail. */
+    result = php_escape_html_entities_ex(
+      (const unsigned char *) buffer, buffer_len, 0, ENT_COMPAT | ENT_HTML_SUBSTITUTE_ERRORS,
+      /* charset_hint */ NULL, /* double_encode */ 1, /* quiet */ 1);
+  }
+  return result;
 }
 ```
 
@@ -398,7 +398,7 @@ With that said, function `zend_error` will not HTML entity encode the error mess
 
 ```c
 ZEND_API ZEND_COLD void zend_error(int type, const char *format, ...) {
-	zend_error_impl(type, format);
+  zend_error_impl(type, format);
 }
 ```
 
@@ -406,26 +406,26 @@ ZEND_API ZEND_COLD void zend_error(int type, const char *format, ...) {
 
 ```c
 #define zend_error_impl(type, format) do { \
-		zend_string *filename; \
-		uint32_t lineno; \
-		va_list args; \
-		get_filename_lineno(type, &filename, &lineno); \
-		va_start(args, format); \
-		zend_error_va_list(type, filename, lineno, format, args); \
-		va_end(args); \
-	} while (0)
+    zend_string *filename; \
+    uint32_t lineno; \
+    va_list args; \
+    get_filename_lineno(type, &filename, &lineno); \
+    va_start(args, format); \
+    zend_error_va_list(type, filename, lineno, format, args); \
+    va_end(args); \
+  } while (0)
 ```
 
 In function [`zend_error_va_list`](https://github.com/php/php-src/blob/PHP-8.4.10/Zend/zend.c#L1592-L1599), the error message's format string didn't get HTML entity encoded nor in function `zend_error_zstr_at`:
 
 ```c
 static ZEND_COLD void zend_error_va_list(
-		int orig_type, zend_string *error_filename, uint32_t error_lineno,
-		const char *format, va_list args)
+    int orig_type, zend_string *error_filename, uint32_t error_lineno,
+    const char *format, va_list args)
 {
-	zend_string *message = zend_vstrpprintf(0, format, args);
-	zend_error_zstr_at(orig_type, error_filename, error_lineno, message);
-	zend_string_release(message);
+  zend_string *message = zend_vstrpprintf(0, format, args);
+  zend_error_zstr_at(orig_type, error_filename, error_lineno, message);
+  zend_string_release(message);
 }
 ```
 
@@ -436,33 +436,34 @@ static zend_always_inline int process_nested_object_data(UNSERIALIZE_PARAMETER, 
 {
     [...]
     while (elements-- > 0) {
-		[...]
-		if ([...]) {
+    [...]
+    if ([...]) {
 string_key:
-			[...]
-			if ([...]) {
-				[...]
-			} else {
-				int ret = is_property_visibility_changed(obj->ce, &key);
-
-				if (EXPECTED(!ret)) {
-					if ([...]) {
-						[...]
-					} else if (!(obj->ce->ce_flags & ZEND_ACC_ALLOW_DYNAMIC_PROPERTIES)) {
-						zend_error(E_DEPRECATED, "Creation of dynamic property %s::$%s is deprecated",
-							ZSTR_VAL(obj->ce->name), zend_get_unmangled_property_name(Z_STR_P(&key)));
-                        [...]
-					}
-                    [...]
-				} else if ([...]) {
-					[...]
-				} else {
-                    [...]
-                }
-                [...]
-            }
+      [...]
+      if ([...]) {
         [...]
-	}
+      } else {
+        int ret = is_property_visibility_changed(obj->ce, &key);
+
+        if (EXPECTED(!ret)) {
+          if ([...]) {
+            [...]
+          } else if (!(obj->ce->ce_flags & ZEND_ACC_ALLOW_DYNAMIC_PROPERTIES)) {
+            zend_error(E_DEPRECATED, "Creation of dynamic property %s::$%s is deprecated",
+              ZSTR_VAL(obj->ce->name), zend_get_unmangled_property_name(Z_STR_P(&key)));
+              [...]
+          }
+          [...]
+        } else if ([...]) {
+          [...]
+        } else {
+          [...]
+        }
+        [...]
+      }
+      [...]
+    }
+  }
     [...]
 }
 ```
@@ -521,13 +522,13 @@ First, function `zend_std_get_properties` will get all the properties of the `Sp
 ```c
 PHP_METHOD(SplFixedArray, __wakeup)
 {
-	spl_fixedarray_object *intern = Z_SPLFIXEDARRAY_P(ZEND_THIS);
-	HashTable *intern_ht = zend_std_get_properties(Z_OBJ_P(ZEND_THIS));
-	zval *data;
-	
-	if (intern->array.size == 0) {
-		[...]
-	}
+  spl_fixedarray_object *intern = Z_SPLFIXEDARRAY_P(ZEND_THIS);
+  HashTable *intern_ht = zend_std_get_properties(Z_OBJ_P(ZEND_THIS));
+  zval *data;
+  
+  if (intern->array.size == 0) {
+    [...]
+  }
 }
 ```
 
@@ -536,14 +537,14 @@ If it is, it initializes the `SplFixedArray` object with the appropriate size ba
 ```c
 PHP_METHOD(SplFixedArray, __wakeup)
 {
-	[...]
-	if (intern->array.size == 0) {
-		int index = 0;
-		int size = zend_hash_num_elements(intern_ht);
+  [...]
+  if (intern->array.size == 0) {
+    int index = 0;
+    int size = zend_hash_num_elements(intern_ht);
 
-		spl_fixedarray_init(&intern->array, size);
-		[...]
-	}
+    spl_fixedarray_init(&intern->array, size);
+    [...]
+  }
 }
 ```
 
@@ -552,15 +553,15 @@ Next, it iterates over each object properties in `intern_ht` using a `ZEND_HASH_
 ```c
 PHP_METHOD(SplFixedArray, __wakeup)
 {
-	[...]
-	if (intern->array.size == 0) {
-		[...]
-		ZEND_HASH_FOREACH_VAL(intern_ht, data) {
-			ZVAL_COPY(&intern->array.elements[index], data);
-			index++;
-		} ZEND_HASH_FOREACH_END();
-        [...]
-	}
+  [...]
+  if (intern->array.size == 0) {
+    [...]
+    ZEND_HASH_FOREACH_VAL(intern_ht, data) {
+      ZVAL_COPY(&intern->array.elements[index], data);
+      index++;
+    } ZEND_HASH_FOREACH_END();
+      [...]
+  }
 }
 ```
 
