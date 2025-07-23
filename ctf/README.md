@@ -525,6 +525,7 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 | CTF Name & Writeup Link | Challenge Category(s) | 
 |------------|-----------------------|
+| [DownUnderCTF 2025 Writeup](https://siunam321.github.io/ctf/DownUnderCTF-2025/) | web |
 | [R3CTF 2025 Writeup](https://siunam321.github.io/ctf/R3CTF-2025/) | Web |
 | [NahamCon CTF 2025 Writeup](https://siunam321.github.io/ctf/NahamCon-CTF-2025/) | Web |
 | [PUCTF 2025 Author Writeup](https://siunam321.github.io/ctf/PUCTF-2025/) | Web Exploitation |
