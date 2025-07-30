@@ -31,7 +31,7 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/Resear
 
 I gave a talk about this attempted research in BSides Hong Kong 2025. If you preferred video to text format, try to watch the following video!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DVHRZcPGCBg?si=n-oE4_p6tkR0l60B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/DVHRZcPGCBg?si=n-oE4_p6tkR0l60B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The above slides is also available in [https://github.com/siunam321/My-Conference-Talks/tree/main](https://github.com/siunam321/My-Conference-Talks/tree/main).
 
