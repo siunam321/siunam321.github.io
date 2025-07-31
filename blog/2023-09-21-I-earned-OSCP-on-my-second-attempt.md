@@ -3,6 +3,7 @@ layout: post
 title: "I earned OSCP on my second attempt!"
 author: siunam
 date: 2023-09-21
+Tags: OSCP, certicicate
 ---
 
 ## Table of Contents

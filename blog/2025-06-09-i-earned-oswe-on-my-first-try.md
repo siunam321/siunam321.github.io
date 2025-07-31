@@ -5,6 +5,7 @@ date: 2025-06-09
 title: I Earned OSWE on My First Try!
 description: Back in November 2024, me and my university CTF team NuttyShell placed champion on PwC's Darklab Hack A Day CTF competition. One of the champion prizes is "Sponsorship of Offensive Security Certified Professional (OSCP) PEN-200 certification (90-day lab access)". Since I already earned OSCP back in 2023, and having a strong interest in web security, I requested the organizer to switch it to OffSec Web Expert (OSWE), which they happily did so! Eventually, I earned OSWE on June 2nd, 2025!
 ogImageUrl: /assets/images/oswe_cert.png
+tags: OSWE, certicicate
 ---
 
 <details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>

@@ -3,6 +3,7 @@ layout: post
 title: "OSCP First Attempt Failled"
 author: siunam
 date: 2022-08-31
+tags: OSCP, certicicate
 ---
 
 # Background

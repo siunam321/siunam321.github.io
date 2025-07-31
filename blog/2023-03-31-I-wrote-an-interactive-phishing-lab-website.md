@@ -3,6 +3,7 @@ layout: post
 title: "I wrote an interactive phishing lab website!"
 author: siunam
 date: 2023-03-31
+tags: Phishing, lab
 ---
 
 # Background

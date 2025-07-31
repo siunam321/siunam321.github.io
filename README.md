@@ -4,7 +4,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: July 30, 2025 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: July 31, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
@@ -18,6 +18,5 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - Blog Posts
+    - [2025 Hacktheon Sejong Finals and Seoul Trip](https://siunam321.github.io/blog/2025-07-31-2025-hacktheon-sejong-finals-and-seoul-trip), July 31, 2025
     - [I earned OSWE on my first try!](https://siunam321.github.io/blog/2025-06-09-i-earned-oswe-on-my-first-try), June 9, 2025
-    - [I earned OSCP on my second attempt!](https://siunam321.github.io/blog/2023-09-21-I-earned-OSCP-on-my-second-attempt), September 21, 2023
-    - [I wrote an interactive phishing lab website!](https://siunam321.github.io/blog/2023-03-31-I-wrote-an-interactive-phishing-lab-website), March 31, 2023
