@@ -1,27 +1,32 @@
 ---
 layout: post
-title: "I earned OSCP on my second attempt!"
 author: siunam
 date: 2023-09-21
-Tags: OSCP, certicicate
+title: I earned OSCP on my second attempt!
+description: After my first attempt back on August 28, 2022, I wrote a blog post about my utter failure in that attempt. This time, however, I finally earned the OSCP certificate with 80/100 points!
+tags: OSCP, Certicicate
 ---
 
-## Table of Contents
+# I earned OSCP on my second attempt!
 
- 1. [Before The Exam](#before-the-exam)  
-    1.1. [My Study Material](#my-study-material)
- 2. [During The Exam](#during-the-exam)  
-    2.1. [Proctoring Software](#proctoring-software)  
-    2.2. [Independent Machines](#independent-machines)  
-    2.3. [Active Directory Set](#active-directory-set)  
-    2.4. [Back to Unfinished Independent Machines](#back-to-unfinished-independent-machines)  
-    2.5. [Ending The Exam](#ending-the-exam)  
- 3. [After The Exam](#after-the-exam)  
- 4. [Takeaways](#takeaways)  
-    4.1. [Independent Machines](#independent-machines-1)  
-    4.2. [Active Directory Set](#active-directory-set-1)  
-    4.3. [Other Tips](#other-tips)  
- 5. [What's Next?](#whats-next)
+<details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
+
+- [Before The Exam](#before-the-exam)  
+   - [My Study Material](#my-study-material)
+- [During The Exam](#during-the-exam)  
+   - [Proctoring Software](#proctoring-software)  
+   - [Independent Machines](#independent-machines)  
+   - [Active Directory Set](#active-directory-set)  
+   - [Back to Unfinished Independent Machines](#back-to-unfinished-independent-machines)  
+   - [Ending The Exam](#ending-the-exam)  
+- [After The Exam](#after-the-exam)  
+- [Takeaways](#takeaways)  
+   - [Independent Machines](#independent-machines-1)  
+   - [Active Directory Set](#active-directory-set-1)  
+   - [Other Tips](#other-tips)  
+- [What's Next?](#whats-next)
+
+</details>
 
 After my first attempt back on August 28, 2022, I wrote a [blog post about my utter failure in that attempt](https://siunam321.github.io/blog/2022-08-31-OSCP-First-Attempt-Failled). This time, however, I finally earned the OSCP certificate with 80/100 points!
 

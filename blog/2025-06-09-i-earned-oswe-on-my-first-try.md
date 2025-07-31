@@ -5,8 +5,10 @@ date: 2025-06-09
 title: I Earned OSWE on My First Try!
 description: Back in November 2024, me and my university CTF team NuttyShell placed champion on PwC's Darklab Hack A Day CTF competition. One of the champion prizes is "Sponsorship of Offensive Security Certified Professional (OSCP) PEN-200 certification (90-day lab access)". Since I already earned OSCP back in 2023, and having a strong interest in web security, I requested the organizer to switch it to OffSec Web Expert (OSWE), which they happily did so! Eventually, I earned OSWE on June 2nd, 2025!
 ogImageUrl: /assets/images/oswe_cert.png
-tags: OSWE, certicicate
+tags: OSWE, Certicicate
 ---
+
+# I Earned OSWE on My First Try!
 
 <details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
@@ -15,15 +17,13 @@ tags: OSWE, certicicate
 - [Going Through the Course Materials](#going-through-the-course-materials)
 - [Challenge Labs Go Brrrr](#challenge-labs-go-brrrr)
 - [During the Exam](#during-the-exam)
-	- [The First Day](#the-first-day)
-	- [The Second Day](#the-second-day)
+    - [The First Day](#the-first-day)
+    - [The Second Day](#the-second-day)
 - [Some Feedbacks to OffSec](#some-feedbacks-to-offsec)
 - [Takeaways](#takeaways)
 - [What's Next?](#whats-next)
 
 </details>
-
-# I Earned OSWE on My First Try!
 
 Back in November 2024, me and my university CTF team [NuttyShell](https://polyuctf.com/) placed champion on [PwC's Darklab Hack A Day CTF competition](https://www.pwchk.com/en/issues/cybersecurity-and-privacy/hack-a-day/competitions-2024.html). One of the champion prizes is "Sponsorship of Offensive Security Certified Professional (OSCP) PEN-200 certification (90-day lab access)". Since [I already earned OSCP](https://credentials.offsec.com/a191a6a5-1a16-426e-b6a6-726ba540cfb6#acc.KgkJy98U) back in 2023, and having a strong interest in web security, I requested the organizer to switch it to [OffSec Web Expert (OSWE)](https://www.offsec.com/courses/web-300/), which they happily did so! Eventually, I earned OSWE on June 2nd, 2025!
 

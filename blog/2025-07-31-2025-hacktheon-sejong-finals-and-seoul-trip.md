@@ -5,7 +5,7 @@ date: 2025-07-31
 title: 2025 Hacktheon Sejong Finals and Seoul Trip
 description: Back in April, me and my university CTF team, NuttyShell, participated in HACKTHEON SEJONG 2025 Preliminaries (2025 HackTheon Sejong International Collegiate Cyber Security Competition) in the "Beginner B" category. Ultimately, we ranked 5th place and qualified for the finals, which is held in South Korea, Sejong city. We also had a trip to Seoul, it was supper fun!
 ogImageUrl: https://lh3.googleusercontent.com/pw/AP1GczPkzMdH6VztdZtcTSid157OPtW-7ES56wLpMo-PhfV3ZDzIkhGaDG2l5KancxLQKQl5uPrHeFfUMOsR1zItYLU1jrz5PiKAdL-gnFOAnukJzuIjXXP5OgXgWEKhsiolIWvVnZlowAdqy4WrQCJ9XnPf=w1451-h967-s-no
-tags: CTF, finals, travel, Korea
+tags: CTF, Finals, Travel, Korea
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
