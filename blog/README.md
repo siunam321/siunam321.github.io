@@ -10,7 +10,7 @@
 
 Tags: CTF, Finals, Travel, Korea
 
-## [I earned OSWE on my first try!](https://siunam321.github.io/blog/2025-06-09-i-earned-oswe-on-my-first-try)
+## [I Earned OSWE on My First Try!](https://siunam321.github.io/blog/2025-06-09-i-earned-oswe-on-my-first-try)
 
 <span class="page_information"><small>June 9, 2025</small></span>
 
@@ -18,7 +18,7 @@ Tags: CTF, Finals, Travel, Korea
 
 Tags: OSWE, Certicicate
 
-## [I earned OSCP on my second attempt!](https://siunam321.github.io/blog/2023-09-21-I-earned-OSCP-on-my-second-attempt)
+## [I Earned OSCP on My Second Attempt!](https://siunam321.github.io/blog/2023-09-21-I-earned-OSCP-on-my-second-attempt)
 
 <span class="page_information"><small>September 21, 2023</small></span>
 
@@ -26,7 +26,7 @@ Tags: OSWE, Certicicate
 
 Tags: OSCP, Certicicate
 
-## [I wrote an interactive phishing lab website!](https://siunam321.github.io/blog/2023-03-31-I-wrote-an-interactive-phishing-lab-website)
+## [I Wrote an Interactive Phishing Lab Website!](https://siunam321.github.io/blog/2023-03-31-I-wrote-an-interactive-phishing-lab-website)
 
 <span class="page_information"><small>March 31, 2023</small></span>
 

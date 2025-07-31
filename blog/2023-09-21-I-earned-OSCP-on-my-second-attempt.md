@@ -2,12 +2,12 @@
 layout: post
 author: siunam
 date: 2023-09-21
-title: I earned OSCP on my second attempt!
+title: I Earned OSCP on My Second Attempt!
 description: After my first attempt back on August 28, 2022, I wrote a blog post about my utter failure in that attempt. This time, however, I finally earned the OSCP certificate with 80/100 points!
 tags: OSCP, Certicicate
 ---
 
-# I earned OSCP on my second attempt!
+# I Earned OSCP on My Second Attempt!
 
 <details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 

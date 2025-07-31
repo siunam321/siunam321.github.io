@@ -2,12 +2,12 @@
 layout: post
 author: siunam
 date: 2023-03-31
-title: I wrote an interactive phishing lab website!
+title: I Wrote an Interactive Phishing Lab Website!
 description: In my Higher Diploma in Cybersecurity at Hong Kong Institute of Vocational Education (IVE), there is a curriculum called "Whole Person Development - Collaboration, Teamwork & Social Engagement" (SDD4006), which requires student to conduct a group project aimed at "How young people can learn from cyberattacks and develop good practices in cybersecurity." by achieving one of the United Nations (UN)'s Sustainable Development Goals (SDG). After some discussions with group members, we decided to build a website that teaches people about phishing attacks through an interactive lab.
 tags: Phishing, Lab
 ---
 
-# I wrote an interactive phishing lab website!
+# I Wrote an Interactive Phishing Lab Website!
 
 <details class="toc"><summary markdown="span"><strong>Table of Contents</strong></summary>
 
