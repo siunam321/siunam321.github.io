@@ -54,8 +54,6 @@ On July 9th morning, we boarded to the Cathay Pacific's CX410, departing from Ho
 
 *(Look at that majestic Boeing 777-300ER!)*
 
-Unfortunately one of our teammates missed his flight and had to book a new flight, because he woke up late and didn't check in through the online system 😂.
-
 Oh btw, this is my first time traveling outside of Hong Kong! I felt really exciting! I even filmed a takeoff video to memorize this moment:
 
 <div class="youtube-video-container">
@@ -76,7 +74,7 @@ Although the immigration queue is longer than I expected, we eventually passed t
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczN3wpcHvhs-tikaeZ2w5qaqwZ3swM5AiA8BboxsPpiy6wWRpyGW8tpW-mSTnpvxk33DX0_fp0329Rt7vwj3rPK8Y4_fQ7KckPjJj3tRqNwEB973EJ4QZzaBV81IXsqKr7nkTfh01CTxKRh-NMJRmfNx=w1289-h967-s-no)
 
-After some time, we reunited with our teammate who missed his flight, and we headed to a fast food restaurant inside the airport for a *small* dinner.
+After some time, we headed to a fast food restaurant inside the airport for a *small* dinner.
 
 One thing that surprised me in Korea is that the government frequently sends emergency notifications ([Emergency Alert System](https://en.wikipedia.org/wiki/Emergency_Alert_System)), like the following:
 
