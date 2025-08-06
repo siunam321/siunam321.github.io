@@ -4,12 +4,12 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: July 31, 2025 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: August 6, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
+    - [idekCTF 2025](https://siunam321.github.io/ctf/idekCTF-2025/), August 6, 2025
     - [DownUnderCTF 2025](https://siunam321.github.io/ctf/DownUnderCTF-2025/), July 23, 2025
-    - [R3CTF 2025](https://siunam321.github.io/ctf/R3CTF-2025/), July 7, 2025
 
 * * *
 - Research
