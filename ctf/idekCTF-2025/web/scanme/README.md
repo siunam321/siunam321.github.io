@@ -1,5 +1,5 @@
 ---
-permalink: /ctf/idekCTF-2025/index.html
+permalink: /ctf/idekCTF-2025/web/scanme/index.html
 description: My idekCTF 2025 writeup for web challenge "scanme". I played with ARESx and we got 5th place.
 ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/idekCTF-2025/images/Pasted%20image%2020250805131947.png
 ---
