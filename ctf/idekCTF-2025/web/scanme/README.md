@@ -65,7 +65,7 @@ Now, let's read this web application's source code to see if we can find some vu
 
 ### Source Code Review
 
-In this challenge, we can download a [file](https://github.com/siunam321/CTF-Writeups/blob/main/idekCTF-2025/web/scanme/scanme.tar.gz):
+In this challenge, we can download a [file](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/idekCTF-2025/web/scanme/scanme.tar.gz):
 
 ```shell
 ┌[siunam♥Mercury]-(~/ctf/idekCTF-2025/web/scanme)-[2025.08.05|14:04:56(HKT)]
