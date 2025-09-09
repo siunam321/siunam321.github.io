@@ -98,7 +98,7 @@ First off, where's the flag? What's the objective of this challenge?
 
 If we go to `challenge/src/views/scrap.ejs`, we can see that if `user` object attribute `username` is not string `superbot`, the flag will be rendered:
 
-```ejs
+```html
 <% if (user.username != "superbot") { %>
 	<p>Goodjob, the flag is: ASIS{FAKE_FLAG1}</p>
 <% } else { %>
