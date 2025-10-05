@@ -6,7 +6,7 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/CUHK-C
 
 # CUHK CTF 2025 Writeup
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/CUHK-CTF-2025/images/banner.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/CUHK-CTF-2025/images/banner.png)
 
 ## Writeup
 
@@ -42,9 +42,9 @@ Participants will tackle a variety of challenges across key cybersecurity domain
 - Global Rank: 8/158
 - Overall Difficulty To Me: ★★★★★☆☆☆☆☆
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/CUHK-CTF-2025/images/score.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/CUHK-CTF-2025/images/score.png)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/CUHK-CTF-2025/images/solves.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/CUHK-CTF-2025/images/solves.png)
 
 ## What I've learned in this CTF
 
