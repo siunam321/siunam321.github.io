@@ -1,5 +1,6 @@
 ---
 permalink: /ctf/ASIS-CTF-Quals-2025/Web/ScrapScrap-I-Revenge/index.html
+title: ScrapScrap I Revenge! - ASIS CTF Quals 2025 Web Challenge Writeup
 description: My ASIS CTF Quals 2025 writeup for Web challenge "ScrapScrap I Revenge!". I played with ARESx and we got 46th place.
 ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/ASIS-CTF-Quals-2025/images/Pasted%20image%2020250909134518.png
 ---
