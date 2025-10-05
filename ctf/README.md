@@ -525,6 +525,8 @@ description: All of my writeups are in here, including bug bounty, wargame, acad
 
 | CTF Name & Writeup Link | Challenge Category(s) | 
 |------------|-----------------------|
+| [openECSC 2025 Author Writeup](https://siunam321.github.io/ctf/openECSC-2025/) | World Wide Web |
+| [CUHK CTF 2025](https://siunam321.github.io/ctf/CUHK-CTF-2025/) | Web Exploitation |
 | [ASIS CTF Quals 2025](https://siunam321.github.io/ctf/ASIS-CTF-Quals-2025/) | Web |
 | [idekCTF 2025](https://siunam321.github.io/ctf/idekCTF-2025/) | web |
 | [DownUnderCTF 2025](https://siunam321.github.io/ctf/DownUnderCTF-2025/) | web |
