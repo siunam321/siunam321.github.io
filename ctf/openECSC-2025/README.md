@@ -8,7 +8,7 @@ ogImageUrl: https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/openEC
 
 > CTFTime event link: [https://ctftime.org/event/2940](https://ctftime.org/event/2940)
 
-![](https://github.com/siunam321/CTF-Writeups/blob/main/openECSC-2025/images/banner.png)
+![](https://raw.githubusercontent.com/siunam321/CTF-Writeups/main/openECSC-2025/images/banner.png)
 
 ## Writeup
 
@@ -35,4 +35,4 @@ openECSC is a cybersecurity competition open to everyone that invites enthusiast
 ## What you'll learned in this CTF
 
 - World Wide Web
-    1. [kv-messenger](https://siunam321.github.io/ctf/openECSC-2025/web/kv-messenger/) - 
+    1. [kv-messenger](https://siunam321.github.io/ctf/openECSC-2025/web/kv-messenger/) - CSP bypass via a CRLF injection to response splitting CSP gadget and `Transfer-Encoding` trick in HTTP/1.1 to truncate invalid JavaScript syntax
