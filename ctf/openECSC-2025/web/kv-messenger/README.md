@@ -833,7 +833,7 @@ Armed with the above information, we can let the headless browser's to trigger o
 
 To automate the above steps, I've written the following Python solve script:
 
-<details><summary><strong>solve.py</strong></summary>
+<details><summary markdown="span"><strong>solve.py</strong></summary>
 
 ```python
 #!/usr/bin/env python3
