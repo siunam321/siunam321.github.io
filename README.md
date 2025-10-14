@@ -4,13 +4,13 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: October 6, 2025 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: October 13, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
+    - [Intigriti Challenge 1025](https://siunam321.github.io/ctf/Intigriti-Challenge/1025/), October 13, 2025
     - [openECSC 2025 Author Writeup](https://siunam321.github.io/ctf/openECSC-2025/), October 6, 2025
-    - [CUHK CTF 2025 Writeup](https://siunam321.github.io/ctf/CUHK-CTF-2025/), October 6, 2025
-    - [ASIS CTF Quals 2025](https://siunam321.github.io/ctf/ASIS-CTF-Quals-2025/), September 9, 2025
+    - [CUHK CTF 2025](https://siunam321.github.io/ctf/CUHK-CTF-2025/), October 6, 2025
 
 * * *
 - Research
