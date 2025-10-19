@@ -2,6 +2,16 @@
 
 * * *
 
+## [CRLF Injection Nested Response Splitting CSP Gadget](https://lab.ctbb.show/research/crlf-injection-nested-response-splitting-csp-gadget)
+
+<div class="page_information">
+  <p>October 15, 2025</p>
+</div>
+
+> If you can do CRLF injection in the response header, most likely you can also do response resplitting to achieve reflected XSS. Even if a strict CSP is in place, you could bypass it by using response splitting as a CSP gadget. I coined this trick as "Nested Response Splitting"!
+
+Tags: Client-Side, CRLF Injection, XSS, CSP
+
 ## [Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files](https://siunam321.github.io/research/python-dirty-arbitrary-file-write-to-rce-via-writing-shared-object-files-or-overwriting-bytecode-files)
 
 <div class="page_information">

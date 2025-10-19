@@ -4,18 +4,17 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: October 13, 2025 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: October 19, 2025 (UTC+8)</small></span>
 
 * * *
 - Writeups
     - [Intigriti Challenge 1025](https://siunam321.github.io/ctf/Intigriti-Challenge/1025/), October 13, 2025
     - [openECSC 2025 Author Writeup](https://siunam321.github.io/ctf/openECSC-2025/), October 6, 2025
-    - [CUHK CTF 2025](https://siunam321.github.io/ctf/CUHK-CTF-2025/), October 6, 2025
 
 * * *
 - Research
+    - [CRLF Injection Nested Response Splitting CSP Gadget](https://lab.ctbb.show/research/crlf-injection-nested-response-splitting-csp-gadget), October 15, 2025
     - [Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files](https://siunam321.github.io/research/python-dirty-arbitrary-file-write-to-rce-via-writing-shared-object-files-or-overwriting-bytecode-files), April 29, 2025
-    - [Attempted Research in PHP Class Pollution](https://siunam321.github.io/research/attempted-research-in-php-class-pollution), February 19, 2025
 
 * * *
 - Blog Posts
