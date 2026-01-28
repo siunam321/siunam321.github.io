@@ -2,7 +2,7 @@
 
 * * *
 
-## [CRLF Injection Nested Response Splitting CSP Gadget](https://lab.ctbb.show/research/crlf-injection-nested-response-splitting-csp-gadget)
+## [CRLF Injection Nested Response Splitting CSP Gadget](https://siunam321.github.io/research/crlf-injection-nested-response-splitting-csp-gadget) ([CTBB Lab link](https://lab.ctbb.show/research/crlf-injection-nested-response-splitting-csp-gadget))
 
 <div class="page_information">
   <p>October 15, 2025</p>
