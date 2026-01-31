@@ -4,7 +4,7 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 # Latest Posts
 
-<span class="page_information"><small>Last Update: January 28, 2026 (UTC+8)</small></span>
+<span class="page_information"><small>Last Update: January 31, 2026 (UTC+8)</small></span>
 
 * * *
 - Writeups
@@ -13,8 +13,8 @@ In this website, you will find things about my ethical hacking journey, like Cap
 
 * * *
 - Research
+    - [Parse and Parse: MIME Validation Bypass to XSS via Parser Differential](https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential) (CTBB Lab), January 31, 2025
     - [CRLF Injection Nested Response Splitting CSP Gadget](https://siunam321.github.io/research/crlf-injection-nested-response-splitting-csp-gadget) ([CTBB Lab link](https://lab.ctbb.show/research/crlf-injection-nested-response-splitting-csp-gadget)), October 15, 2025
-    - [Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files](https://siunam321.github.io/research/python-dirty-arbitrary-file-write-to-rce-via-writing-shared-object-files-or-overwriting-bytecode-files), April 29, 2025
 
 * * *
 - Blog Posts
