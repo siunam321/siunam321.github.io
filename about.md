@@ -25,12 +25,21 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 
 ## List of CVEs
 
-- Total number of CVEs: 29
+- Total number of CVEs: 38
 
 <details><summary markdown="span"><strong>CVEs Table</strong></summary>
 
 | CVE ID | Vendor | Vulnerability Title & Record Link |
 |--------|-------------|-----------------------------------|
+| [CVE-2026-44657](https://www.cve.org/CVERecord?id=CVE-2026-44657) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [Stored XSS in File Download](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-p6fr-rxq7-xcg8) |
+| [CVE-2026-42071](https://www.cve.org/CVERecord?id=CVE-2026-42071) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [Private Bugnote Attachment Content Leak via REST API](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-pw5x-2mf9-3xc8) |
+| [CVE-2026-41897](https://www.cve.org/CVERecord?id=CVE-2026-41897) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [Reflected XSS in Rendering Dynamic Custom Textarea Field](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-j7v9-f46r-2rp4) |
+| [CVE-2026-40607](https://www.cve.org/CVERecord?id=CVE-2026-40607) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [Stored XSS in Saved-Filter Owner Column](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-f633-865q-2mhh) |
+| [CVE-2026-40598](https://www.cve.org/CVERecord?id=CVE-2026-40598) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [Potential Referer-Based Reflected HTML Injection / XSS in Tag Update Page](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-6jh4-47v2-4g37) |
+| [CVE-2026-40597](https://www.cve.org/CVERecord?id=CVE-2026-40597) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [Content Security Policy bypass via attachments](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-9c3j-xm6v-j7j3) |
+| [CVE-2026-40596](https://www.cve.org/CVERecord?id=CVE-2026-40596) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [XSS leading to account takeover via updating a user's font family preference](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-j3v9-553h-x28j) |
+| [CVE-2026-34463](https://www.cve.org/CVERecord?id=CVE-2026-34463) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [Stored HTML Injection/XSS in Clone Issue Form](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-fvjf-68wh-rwp2) |
+| [CVE-2026-34390](https://www.cve.org/CVERecord?id=CVE-2026-34390) | [Mantis Bug Tracker (MantisBT)](https://github.com/mantisbt/mantisbt) | [Privilege Escalation from Manager to Project-level Administrator](https://github.com/mantisbt/mantisbt/security/advisories/GHSA-frf7-jhp9-jxm6) |
 | [CVE-2026-7567](https://www.cve.org/CVERecord?id=CVE-2026-7567) | [Temporary Login](https://wordpress.org/plugins/temporary-login) | [Authentication Bypass to Account Takeover](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/temporary-login/temporary-login-100-authentication-bypass-to-account-takeover) |
 | [CVE-2025-55195](https://www.cve.org/CVERecord?id=CVE-2025-55195) | [@std/toml](https://github.com/denoland/std) | [@std/toml Prototype Pollution in Node.js and Browser](https://github.com/denoland/std/security/advisories/GHSA-crjp-8r9q-2j9r) |
 | [CVE-2025-54803](https://www.cve.org/CVERecord?id=CVE-2025-54803) | [js-toml](https://github.com/sunnyadn/js-toml) | [Prototype Pollution in js-toml](https://github.com/sunnyadn/js-toml/security/advisories/GHSA-65fc-cr5f-v7r2) |
