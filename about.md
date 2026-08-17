@@ -86,7 +86,7 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 - LinkedIn: [https://www.linkedin.com/in/tangcheukhei/](https://www.linkedin.com/in/tangcheukhei/)
 - Discord: siunam321
 - [Twitter](https://twitter.com/siunam321)
-- [Instragram](https://www.instagram.com/siunam321)
+- [Instagram](https://www.instagram.com/siunam321)
 - [GitHub](https://github.com/siunam321)
 - [Steam](https://steamcommunity.com/id/siunam321/)
 - [Youtube](https://www.youtube.com/channel/UC1kLxAymNQqUvKIndeU-rZw)
